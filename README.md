@@ -5,7 +5,7 @@ A repository of data files for the GUI app development (work in progress)
 
 https://github.com/BlueMystical/EDHM_UI/releases
 
-If you are looking to downlaod and install the preconfigured Elite Dangerous HUD Mod, please see:
+If you are looking to download and install the preconfigured Elite Dangerous HUD Mod, please see:
 
 https://pastebin.com/Ct64yCC8
 
