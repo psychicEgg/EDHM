@@ -1,0 +1,86 @@
+******************************************
+********* EDHM Pixel Colour Tool *********
+******************************************
+
+A tool to measure the colour of any pixel on the screen.
+
+
+*** Setting Up ***
+
+1. First install AutoHotKey (macro software, similar to Voice Attack)
+https://www.autohotkey.com/
+
+2. The EDHM-Pixel-Colour.ahk file is just a text file you can open in a text editor. It contains the script for running the pixel colour tool.
+
+3. You will need a graphics program installed like Photoshop or GIMP (free: https://www.gimp.org/)
+
+
+
+*** Using the EDHM Pixel Colour Tool ***
+
+1. While in-game, take a screenshot (F10 or PrtScn). 
+	You must be perfectly still, don't try this while moving
+	For accurate colours, fly into deep space away from all light sources, drop out of supercruise
+	If you have EDHM installed, turn off the cabin lights (dim to 0)
+
+	I also ensure the HUD is set to default brightness (8 bars on the Right Panel/Ship/Pilot preferences menu)
+	and the Gamma setting is right in the middle (0) (Graphics Options)
+  
+  Tip: Moving your ship even a tiny bit will change the colour of the pixel. You may wish to turn off your thrusters.
+
+2. Open the screenshot in Photoshop or GIMP
+
+3. Zoom in closely to the element you wish to analyse
+
+4. To get your pixel position, 
+	in Photoshop: Window/Info
+	in GIMP: Windows/Dockable Dialogues/Pointer
+
+5. To detect the colour under the pointer
+	in Photoshop: Click the little colour square at the bottom of the toolbar (CAPS LOCK for a more accurate pointer)
+	in GIMP: Select the Colour Picker Tool (top left). Click the little colour square. Click the 0..255 button.
+
+6. Left click and hold the mouse while dragging around the eye dropper. You will see the colour values change, and also the pixel position.
+
+7. I tend to calibrate using the brightest spot (or thereabouts) on the target element
+
+8. When you have found a nice pixel, note down the pixel position and RGB colour number
+
+9. Open EDHM-Pixel-Colour.ahk in a text editor (I prefer Notepad++)
+
+10. Go to the line of code
+
+	PixelGetColor, colour1, 1530, 1224, RGB ; Insert your pixel of interest here
+
+And change the values 1530, 1224, to the pixel positions you noted down earlier.
+
+The Pixel Colour tool will read the Red, Green, and Blue colour values at this pixel location on your screen (when you activate the script later)
+
+11. Go to the line of code
+
+	MsgBox Element`nR%1red% G%1green% B%1blue%
+
+And change the word Element to the name of the element you are analysing, for example, Shield
+
+12. On the 5th line of this file is the 'HotKey' .. when you press this key combination it will tell the Pixel Colour Tool to read the colour of the pixel you have chosen. 
+
+It is currently set to activate when you press Control+Alt+z
+
+However, you can change the hotkey to whatever you like, please see:
+https://www.autohotkey.com/docs/Hotkeys.htm
+
+(Tip: Don't delete the double-colon :: It tells the script where the Hotkey is located)
+
+13. Double-click EDHM-Pixel-Colour.ahk to activate the tool. You will see a little green icon with an H symbol appear in the taskbar. 
+   You can exit the script at any time by right-clicking on the green icon and choose Exit.
+
+14. The EDHM-Pixel-Colour-Tool is now ready and waiting for you to press the Hotkey.
+
+15. Go back into the game, and press the Hotkey combination.
+
+16. A small popup box will appear and tell you the Red, Green and Blue values for that pixel. It should match the values you noted down earlier. 
+  If not, go back into your graphics program and ensure you have measured from the correct pixel.
+
+17. You now have a method of accurately measuring the colour of any pixel on the screen.
+
+Congratulations o7
