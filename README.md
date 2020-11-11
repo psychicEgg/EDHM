@@ -4,7 +4,11 @@ Elite Dangerous HUD Mod
 Latest version: 1.32
 Date: Nov 11, 2020
 
-Download Link:
+There will be a small update coming this weekend (Nov 14), the green planet lines are back
+
+https://i.imgur.com/SV3b7Bc.jpg
+
+v1.32 Download Link:
 
 https://drive.google.com/file/d/1sJ-ifk2kLZ-4UnAWLhTwg_RpJmZqVqZL/view?usp=sharing
 
