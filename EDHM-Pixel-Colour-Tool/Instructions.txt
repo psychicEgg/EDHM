@@ -18,8 +18,10 @@ https://www.autohotkey.com/
 
 *** Using the EDHM Pixel Colour Tool ***
 
+Your first objective is to determine the position of the pixel you want to analyse.
+
 1. While in-game, take a screenshot (F10 or PrtScn). 
-	You must be perfectly still, don't try this while moving
+	Your ship must be perfectly still, don't try this while moving
 	For accurate colours, fly into deep space away from all light sources, drop out of supercruise
 	If you have EDHM installed, turn off the cabin lights (dim to 0)
 
@@ -30,17 +32,17 @@ https://www.autohotkey.com/
 
 2. Open the screenshot in Photoshop or GIMP
 
-3. Zoom in closely to the element you wish to analyse
+3. Zoom in closely to the element you want to apply a colour
 
 4. To get your pixel position, 
 	in Photoshop: Window/Info
 	in GIMP: Windows/Dockable Dialogues/Pointer
 
 5. To detect the colour under the pointer
-	in Photoshop: Click the little colour square at the bottom of the toolbar (CAPS LOCK for a more accurate pointer)
+	in Photoshop: Click the little colour square at the bottom of the left toolbar (CAPS LOCK for a more accurate pointer)
 	in GIMP: Select the Colour Picker Tool (top left). Click the little colour square. Click the 0..255 button.
 
-6. Left click and hold the mouse while dragging around the eye dropper. You will see the colour values change, and also the pixel position.
+6. Left click and hold the mouse while dragging around the eye dropper. You will see the colour values change, and also the pixel position
 
 7. I tend to calibrate using the brightest spot (or thereabouts) on the target element
 
@@ -64,19 +66,19 @@ And change the word Element to the name of the element you are analysing, for ex
 
 12. On the 5th line of this file is the 'HotKey' .. when you press this key combination it will tell the Pixel Colour Tool to read the colour of the pixel you have chosen. 
 
-It is currently set to activate when you press Control+Alt+z
+The Hotkey is currently set to activate when you press Control+Alt+z
 
-However, you can change the hotkey to whatever you like, please see:
+However, you can change the Hotkey to whatever you like, please see:
 https://www.autohotkey.com/docs/Hotkeys.htm
 
 (Tip: Don't delete the double-colon :: It tells the script where the Hotkey is located)
 
-13. Double-click EDHM-Pixel-Colour.ahk to activate the tool. You will see a little green icon with an H symbol appear in the taskbar. 
+13. Double-click EDHM-Pixel-Colour.ahk to activate the tool. You will see a little green icon with an H symbol appear in the Windows taskbar. 
    You can exit the script at any time by right-clicking on the green icon and choose Exit.
 
 14. The EDHM-Pixel-Colour-Tool is now ready and waiting for you to press the Hotkey.
 
-15. Go back into the game, and press the Hotkey combination.
+15. Go back into the game, make sure your ship is perfectly still, and press the Hotkey combination.
 
 16. A small popup box will appear and tell you the Red, Green and Blue values for that pixel. It should match the values you noted down earlier. 
   If not, go back into your graphics program and ensure you have measured from the correct pixel.
