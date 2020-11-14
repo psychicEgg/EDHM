@@ -1,0 +1,54 @@
+Combat HUD Lines Template
+
+You can choose a colour with this website:
+https://www.eggradients.com/shades-of-color
+(click a colour, then click 'Copy RGB' to get the RGB target values for the calibration table)
+
+You can choose nice colour schemes/groups with this website:
+https://www.sessions.edu/color-calculator/
+
+If you want to set the colours accurately, then please use the EDHM Pixel Colour Tool on the GitHub
+https://github.com/psychicEgg/EDHM
+
+You can reload your changes without exiting Elite by adding a few lines of code to your d3dx.ini file (Developer mode), please see
+https://github.com/psychicEgg/EDHM/blob/main/Shaders%20(ASM)/Reload-changes-without-exiting-Elite
+
+Or from EDHM v1.32: Use the EDHM-Addons.bat to activate Developer Mode.
+With Developer mode activated, you can tweak a colour value in the shader file, alt-tab back to Elite, press F11 to see your changes, 
+and keep tweaking the colour values until you're happy.
+
+
+==============================================================================
+
+Combat HUD Lines
+
+Shader file: 178045604e0b329c-ps.txt
+(open file with a text editor, such as Notepad, or Notepad++ has line numbers)
+
+------------------------------------------------------------------------------
+Colour (please see the calibration table to set your target colour values)
+
+Red: First value in example below
+Green: Second value in example below 
+Blue: Third value in example below
+Alpha/transparency: Fourth value in example below (default = 1.000000; EDHM pre-configured mod default = 0.800000)
+
+Line 77
+  mul r1.xyzw, r0.xxxw, l(0.260000, 0.270000, 0.400000, 1.000000)
+
+------------------------------------------------------------------------------
+Initial Dimming (1 to 0; 1 is default). All four values should be the same
+
+Line 81
+  mul o0.xyzw, r0.xyzw, l(1.000000, 1.000000, 1.000000, 1.000000)
+
+------------------------------------------------------------------------------
+Disable the Combat HUD Lines mod 
+(Note: Combat HUD Lines are controlled by this shader plus a group of 4 identical shaders. You will also need to disable Combat HUD Lines in the f6f4895ec35cc873 family of shaders [4 shaders])
+
+Enable = 1.000000; Disable = 2.000000
+
+Line 79
+  eq r2.x, r2.x, l(1.000000)
+
+------------------------------------------------------------------------------
