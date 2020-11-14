@@ -4,15 +4,16 @@ Elite Dangerous HUD Mod
 Latest version: 1.32
 Date: Nov 11, 2020
 
-There will be a small update coming this weekend (Nov 14), the green planet lines are back
-
-https://i.imgur.com/SV3b7Bc.jpg
-
 v1.32 Download Link:
 
 https://drive.google.com/file/d/1sJ-ifk2kLZ-4UnAWLhTwg_RpJmZqVqZL/view?usp=sharing
 
 Or download directly from GitHub in the 'Releases' folder
+
+
+There will be a small update coming soon™, the green planet lines are back (still testing, need to ensure it doesn't reduce FPS)
+
+https://i.imgur.com/SV3b7Bc.jpg
 
 
 EDHM Discussion:
@@ -26,7 +27,7 @@ EDHM-UI
 
 This GitHub is also a repository of data files for the GUI app development (work in progress)
 
-Customisable shader files are stored in the "Shaders (ASM)" folder.
+Customisable shader files are stored in the "HUD-elements" folder.
 
 CMDR Blue Mystic is working on the GUI:
 
