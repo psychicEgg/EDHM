@@ -1,0 +1,15 @@
+Steam-Force-Controller-OFF
+
+Thanks to CMDR Zeeber for sharing this fix, which enabled his PlayStation Dualshock 4 controller to work with the mod.
+
+1. Using the Steam app, click Elite Dangerous in your Library
+
+2. On the right side of the screen, click the 'gear icon' (Manage), and then click Properties
+
+3. Locate the drop-down menu, "Steam Input Per-Game Setting"
+
+4. Select Forced Off
+
+https://i.imgur.com/j8vhTWM.jpg
+
+5. Press Close
