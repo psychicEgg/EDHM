@@ -1,6 +1,9 @@
 # EDHM
 Elite Dangerous HUD Mod
 
+UPDATE 14 Dec 2020: v1.4 is currently being beta tested and should be available here in 2 or 3 days. It's a large update with many extra colours.
+
+-------------------------------------------------------------------------
 Latest version: 1.32
 Date: Nov 11, 2020
 
