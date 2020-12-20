@@ -1,10 +1,23 @@
 # EDHM
 Elite Dangerous HUD Mod
 
-UPDATE 14 Dec 2020: v1.4 is currently being beta tested and should be available here in 2 or 3 days. It's a large update with many extra colours.
+Latest version: 1.4
+Date: Dec 21, 2020
+
+v1.4 Download Link:
+
+https://drive.google.com/file/d/1pW-bX-MCCvwLeZm-S7HTEDFI1lWw74_5/view?usp=sharing
+
+Or download directly from GitHub in the 'Releases' folder
+
+Please note: The Installation instructions are not packaged with the zip file (so I can keep them updated)
+Download the Instructions PDF here:
+
+https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
+
 
 -------------------------------------------------------------------------
-Latest version: 1.32
+Version: 1.32 (in case you prefer this version)
 Date: Nov 11, 2020
 
 v1.32 Download Link:
@@ -12,13 +25,6 @@ v1.32 Download Link:
 https://drive.google.com/file/d/1sJ-ifk2kLZ-4UnAWLhTwg_RpJmZqVqZL/view?usp=sharing
 
 Or download directly from GitHub in the 'Releases' folder
-
-
--------------------------------------------------------------------------
-There will be a small update coming soon™, the green planet lines are back (still testing, need to ensure it doesn't reduce FPS)
-
-https://i.imgur.com/SV3b7Bc.jpg
-
 
 -------------------------------------------------------------------------
 EDHM Discussion:
@@ -28,7 +34,7 @@ https://www.reddit.com/r/EliteDangerous/comments/jbfu17/elite_dangerous_hud_mod_
 
 
 -------------------------------------------------------------------------
-EDHM-UI
+EDHM-UI (not currently compatible with v1.4 of EDHM)
 
 This GitHub is also a repository of data files for the GUI app development (work in progress)
 
