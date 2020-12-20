@@ -37,10 +37,6 @@ https://www.reddit.com/r/EliteDangerous/comments/jbfu17/elite_dangerous_hud_mod_
 -------------------------------------------------------------------------
 EDHM-UI (not currently compatible with v1.4 of EDHM)
 
-This GitHub is also a repository of data files for the GUI app development (work in progress)
-
-Customisable shader files are stored in the "HUD-elements" folder.
-
 CMDR Blue Mystic is working on the GUI:
 
 https://github.com/BlueMystical/EDHM_UI/releases
