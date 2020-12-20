@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1pW-bX-MCCvwLeZm-S7HTEDFI1lWw74_5/view?usp=shari
 Or download directly from GitHub in the 'Releases' folder
 
 Please note: The Installation instructions are not packaged with the zip file (so I can keep them updated)
+
 Download the Instructions PDF here:
 
 https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
