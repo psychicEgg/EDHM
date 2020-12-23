@@ -2,7 +2,9 @@ This fix is included in the v1.4 Instructions PDF
 
 There is a bug in VR with the External Camera lighting fix. 
 
-The fix turns off the coloured lighting when in external camera mode to prevent the colours from contaminating the CMDRs skin or flight suit. However, when sitting in a station the fix can also turn off the coloured lighting unexpectedly.
+The fix turns off the coloured lighting when in external camera mode to prevent the colours from contaminating the CMDRs skin or flight suit. 
+
+However, when sitting in a station the fix can also turn off the coloured lighting unexpectedly.
 
 To disable the fix, please open Custom.ini (in the EDHM-ini folder, which is in the elite-dangerous-64 folder) with a text editor.
 Comment out (insert a semi-colon ; ) in front of the line x110 = 1 so that it looks like this:
