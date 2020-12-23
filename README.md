@@ -12,7 +12,7 @@ Or download directly from GitHub in the 'Releases' folder
 
 Please note: The Installation instructions are not packaged with the zip file (so I can keep them updated)
 
-Download the Instructions PDF here:
+Download the Instructions PDF here: (IT'S REALLY IMPORTANT YOU READ THE INSTRUCTIONS :)
 
 https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
 
