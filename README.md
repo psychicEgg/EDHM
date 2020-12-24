@@ -1,12 +1,12 @@
 # EDHM
 Elite Dangerous HUD Mod
 
-Latest version: 1.4
-Date: Dec 21, 2020
+Latest version: 1.41 (Minor Update)
+Date: Dec 24, 2020
 
-v1.4 Download Link:
+v1.41 Download Link:
 
-https://drive.google.com/file/d/1pW-bX-MCCvwLeZm-S7HTEDFI1lWw74_5/view?usp=sharing
+https://drive.google.com/file/d/1J9AEeynRZbB7VnPqDb2tFmMXDkkaxPkE/view?usp=sharing
 
 Or download directly from GitHub in the 'Releases' folder
 
@@ -32,10 +32,11 @@ EDHM Discussion:
 
 https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/
 https://www.reddit.com/r/EliteDangerous/comments/jbfu17/elite_dangerous_hud_mod_edhm_v131_update/
+https://www.reddit.com/r/EliteDangerous/comments/kh5ot4/elite_dangerous_hud_mod_edhm_v14_has_landed/
 
 
 -------------------------------------------------------------------------
-EDHM-UI (not currently compatible with v1.4 of EDHM)
+EDHM-UI (not currently compatible with v1.41 of EDHM)
 
 CMDR Blue Mystic is working on the GUI:
 
