@@ -2,6 +2,7 @@
 Elite Dangerous HUD Mod
 
 Latest version: 1.41
+
 Date: Dec 24, 2020
 
 v1.41 Download Link:
