@@ -6,7 +6,7 @@ Date: Dec 24, 2020
 
 v1.41 Download Link:
 
-https://drive.google.com/file/d/1J9AEeynRZbB7VnPqDb2tFmMXDkkaxPkE/view?usp=sharing
+https://drive.google.com/file/d/1NkhDt5YGiAczYMbSICf2hxPD31R0YayU/view?usp=sharing
 
 Or download directly from GitHub in the 'Releases' folder
 
