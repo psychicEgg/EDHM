@@ -9,16 +9,16 @@ https://drive.google.com/file/d/1NkhDt5YGiAczYMbSICf2hxPD31R0YayU/view?usp=shari
 
 Or download directly from GitHub in the 'Releases' folder
 
-If updating from 1.4 to 1.41, please see the notes in the Releases folder
-
-https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
-
 Please note: The Installation instructions are not packaged with the zip file (so I can keep them updated)
 
 Download the Instructions PDF here: (IT'S REALLY IMPORTANT YOU READ THE INSTRUCTIONS :)
 
 https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
 
+-------------------------------------------------------------------------
+If updating from 1.4 to 1.41, please see the notes in the Releases folder
+
+https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
 
 -------------------------------------------------------------------------
 Version: 1.32 (in case you prefer this version)
