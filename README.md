@@ -5,15 +5,15 @@ Latest version: 1.41 (Dec 24, 2020)
 
 v1.41 Download Link:
 
-https://drive.google.com/file/d/1NkhDt5YGiAczYMbSICf2hxPD31R0YayU/view?usp=sharing
+https://github.com/psychicEgg/EDHM/releases
 
-Or download directly from GitHub in the 'Releases' folder
+There are two files to download:
 
-Please note: The Installation instructions are not packaged with the zip file (so I can keep them updated)
+• EDHM-v1.41.zip
 
-Download the Instructions PDF here: (IT'S REALLY IMPORTANT YOU READ THE INSTRUCTIONS :)
+• EDHM-v1.4-Installation-Instructions-.Rev3.pdf
 
-https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
+(IT'S REALLY IMPORTANT YOU READ THE INSTRUCTIONS :)
 
 -------------------------------------------------------------------------
 If updating from 1.4 to 1.41, please see the notes in the Releases folder
