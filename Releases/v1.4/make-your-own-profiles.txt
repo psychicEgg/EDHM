@@ -1,0 +1,15 @@
+Once you're familiar with the default profiles EDHM v1.4 has to offer (cycle through the profiles with CTRL F1),
+you may wish to make your own profile (combination of colours), or even a profile for each ship!
+
+I've created an online tool to assist with making a profile:
+
+https://docs.google.com/spreadsheets/d/1pRQnzGfILQ4opnC5dJujnYdmgUIIIRdScAGmUspTiOo/edit?usp=sharing
+
+Follow the Instructions in that document carefully and you will be able to create as many profiles as you like.
+
+If you have any questions about using the EDHM Profile Tool, you're welcome to contact me:
+reddit: psychicEgg
+discord: psychicEgg#9971
+Elite forums: GeorjCostanza
+
+o7
