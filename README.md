@@ -39,7 +39,7 @@ https://www.reddit.com/r/EliteDangerous/comments/kh5ot4/elite_dangerous_hud_mod_
 
 
 -------------------------------------------------------------------------
-EDHM-UI (not currently compatible with v1.41 of EDHM)
+EDHM-UI (now compatible with v1.41 of EDHM)
 
 CMDR Blue Mystic is working on the GUI:
 
