@@ -1,7 +1,0 @@
-All elements are colour calibrated with HUD brightness at default (0.8), and gamma offset = 0 (middle of slider)
-
-C:\Users\<user name>\AppData\Local\Frontier Developments\Elite Dangerous\Options\Player\Custom.misc
-<DashboardGUIBrightness Value="0.8" />
-
-C:\Users\<user name>\AppData\Local\Frontier Developments\Elite Dangerous\Options\Graphics\Settings.xml
-<GammaOffset>0.000000</GammaOffset>
