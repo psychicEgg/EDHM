@@ -16,21 +16,6 @@ There are two files to download:
 (IT'S REALLY IMPORTANT YOU READ THE INSTRUCTIONS :)
 
 -------------------------------------------------------------------------
-If updating from 1.4 to 1.41, please see the notes in the Releases folder
-
-https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.4
-
--------------------------------------------------------------------------
-Version: 1.32 (in case you prefer this version)
-Date: Nov 11, 2020
-
-v1.32 Download Link:
-
-https://drive.google.com/file/d/1sJ-ifk2kLZ-4UnAWLhTwg_RpJmZqVqZL/view?usp=sharing
-
-Or download directly from GitHub in the 'Releases' folder
-
--------------------------------------------------------------------------
 EDHM Discussion:
 
 https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/
