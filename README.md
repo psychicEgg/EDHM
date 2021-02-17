@@ -43,4 +43,5 @@ EDHM-UI (now compatible with v1.41 of EDHM)
 
 CMDR Blue Mystic is working on the GUI:
 
-https://github.com/BlueMystical/EDHM_UI/releases
+[may require a small bug fix. Will restore link when it's confirmed fixed]
+
