@@ -24,6 +24,11 @@ https://www.reddit.com/r/EliteDangerous/comments/kh5ot4/elite_dangerous_hud_mod_
 
 
 -------------------------------------------------------------------------
+V1.5 is coming soon™
+
+https://youtu.be/jpIN0xNO044
+
+-------------------------------------------------------------------------
 EDHM-UI (now compatible with v1.41 of EDHM)
 
 CMDR Blue Mystic is working on the GUI:
