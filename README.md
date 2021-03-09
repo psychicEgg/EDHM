@@ -29,9 +29,6 @@ V1.5 is coming soon™
 https://youtu.be/jpIN0xNO044
 
 -------------------------------------------------------------------------
-EDHM-UI (now compatible with v1.41 of EDHM)
+EDHM-UI (requires update for EDHM v1.5)
 
-CMDR Blue Mystic is working on the GUI:
-
-[may require a small bug fix. Will restore link when it's confirmed fixed]
-
+CMDR Blue Mystic is working on the GUI
