@@ -24,7 +24,7 @@ https://www.reddit.com/r/EliteDangerous/comments/kh5ot4/elite_dangerous_hud_mod_
 
 
 -------------------------------------------------------------------------
-V1.5 is coming soon™
+V1.5 is coming soon™ (mid-March 2021)
 
 https://youtu.be/jpIN0xNO044
 
