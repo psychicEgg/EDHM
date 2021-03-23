@@ -1,11 +1,11 @@
 # EDHM
 Elite Dangerous HUD Mod
 
-Latest version: 1.5 (March 21, 2021)
+Latest version: 1.5 (March 23, 2021)
 
 v1.5 Download Link:
 
-Coming Soon
+https://github.com/psychicEgg/EDHM/releases/tag/v1.5
 
 -------------------------------------------------------------------------
 EDHM Discussion:
@@ -16,9 +16,9 @@ https://www.reddit.com/r/EliteDangerous/comments/kh5ot4/elite_dangerous_hud_mod_
 
 
 -------------------------------------------------------------------------
-V1.5 is coming very soon™
+EDHM v1.5 video
 
-https://youtu.be/jpIN0xNO044
+https://youtu.be/7MqgLzI-8fA
 
 -------------------------------------------------------------------------
 EDHM-UI (requires update for EDHM v1.5)
