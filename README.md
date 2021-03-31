@@ -1,13 +1,13 @@
 # EDHM
 Elite Dangerous HUD Mod
 
-Latest version: 1.5 (March 23, 2021)
+Latest version: 1.51 (March 31, 2021)
 
-v1.5 Download Link:
+v1.51 Download Link:
 
 https://github.com/psychicEgg/EDHM/releases/tag/v1.5
 
-Note: A minor update will be available tomorrow 25-March-2021 (v1.51). It fixes an issue with the XML text colour option. You won't need to reinstall the mod, just replace a few files in the ShaderFixes folder.
+This will be the final update pre-Odyssey
 
 -------------------------------------------------------------------------
 EDHM Discussion:
