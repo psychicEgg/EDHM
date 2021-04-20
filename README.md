@@ -7,7 +7,9 @@ Latest version: 1.51 (March 31, 2021)
 
 https://github.com/psychicEgg/EDHM/releases/tag/v1.5
 
-This will be the final update pre-Odyssey
+If you prefer not to configure the mod manually (in a text editor) then please use the UI listed below
+
+This will be the final update of EDHM until Odyssey
 
 -------------------------------------------------------------------------
 **EDHM Discussion:**
