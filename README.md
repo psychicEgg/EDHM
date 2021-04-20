@@ -29,7 +29,7 @@ https://youtu.be/7MqgLzI-8fA
 
 Enables installation and configuration of the mod via a UI
 
-https://github.com/BlueMystical/EDHM_UI/releases/tag/1.52e
+https://github.com/BlueMystical/EDHM_UI
 
 Please contact Blue Mystic if you have any questions about the UI, via the GitHub above or on the EDHM Discord
 
