@@ -1,7 +1,10 @@
 # EDHM
 **Elite Dangerous HUD Mod**
 
-Latest version: 1.51 (March 31, 2021)
+Please note: The current version does not work with Odyssey, only Horizons. 
+I am currently updating EDHM for Odyssey. If you would like to participate in beta testing please join the discord (https://discord.gg/MtBszksjMr)
+
+Latest version for Horizons: 1.51 (March 31, 2021)
 
 **v1.51 Download Link:**
 
