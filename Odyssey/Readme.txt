@@ -1,6 +1,6 @@
 EDHM Odyssey update development
 
-UPDATE: Here you can find the latest beta version of EDHM for Odyssey. It works well but isn't quite finished.
+UPDATE: Here you can find the latest beta version of EDHM for Odyssey
 
 Due to the many options available in the Odyssey version, I recommend installing via EDHM UI:
 https://github.com/BlueMystical/EDHM_UI/releases
