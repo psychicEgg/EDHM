@@ -1,4 +1,4 @@
-If you have an AMD graphics card you may experince flickering with the new lighting shader
+If you have an AMD graphics card you may experience flickering with the new lighting shader
 
 To fix:
 
