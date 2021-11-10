@@ -7,7 +7,7 @@ https://github.com/BlueMystical/EDHM_UI/releases
 
 (Note: EDHM UI will install both the mod and the UI, and also keep them updated)
 
-I strongly recommend you join the EDHM Discord so you can receive assistance with the many mod options available:
+I strongly recommend you join the EDHM Discord so you can receive assistance with installation and configuration of the mod (we don't have a manual yet as it's still in beta):
 https://discord.gg/MtBszksjMr
 
 o7
