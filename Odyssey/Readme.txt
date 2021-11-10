@@ -1,11 +1,13 @@
-EDHM Odyssey update development
+**EDHM Odyssey development**
 
 UPDATE: Here you can find the latest beta version of EDHM for Odyssey
 
 Due to the many options available in the Odyssey version, I recommend installing via EDHM UI:
 https://github.com/BlueMystical/EDHM_UI/releases
 
-Please direct all support requests to the EDHM Discord:
+(Note: EDHM UI will install both the mod and the UI, and also keep them updated)
+
+I strongly recommend you join the EDHM Discord so you can receive assistance with the many mod options available:
 https://discord.gg/MtBszksjMr
 
 o7
