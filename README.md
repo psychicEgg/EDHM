@@ -1,39 +1,32 @@
 # EDHM
-**Elite Dangerous HUD Mod**
+## **Elite Dangerous HUD Mod**
 
-Please note: The current version does not work with Odyssey, only Horizons. 
-I am currently updating EDHM for Odyssey. If you would like to participate in beta testing please join the discord (https://discord.gg/MtBszksjMr)
+For a full description of the mod, please see the post on the [official Frontier forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/)
+
+### Odyssey
+I'm very pleased to announce EDHM for Odyssey is now available. Unlike the Horizons version of EDHM, you can set custom RGB colours for every element on the HUD, and ship / station / carrier panels. Customisation for the Suit HUD (on-foot) will be available in the next EDHM update.
+
+Due to the complexity of the Odyssey version, I recommend you use EDHM UI (developed by Blue Mystic) to install and configure the mod
+
+[EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases)
+
+Please note: EDHM UI will install both the mod **and** the UI, you don't need to download anything else.
+
+As EDHM for Odyssey is still in development, I recommend you join us on the [EDHM Discord](https://discord.gg/MtBszksjMr) where you can find the latest updates, new player-created themes, and general support
+
+### Horizons
 
 Latest version for Horizons: 1.51 (March 31, 2021)
 
-**v1.51 Download Link:**
+[v1.51 Download Link](https://github.com/psychicEgg/EDHM/releases/tag/v1.5)
 
-https://github.com/psychicEgg/EDHM/releases/tag/v1.5
+If you prefer not to configure the mod manually (in a text editor) then please use [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases)
 
-If you prefer not to configure the mod manually (in a text editor) then please use the UI listed below
-
-This will be the final update of EDHM until Odyssey
-
--------------------------------------------------------------------------
-**EDHM Discussion:**
-
-https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/
-https://www.reddit.com/r/EliteDangerous/comments/jbfu17/elite_dangerous_hud_mod_edhm_v131_update/
-https://www.reddit.com/r/EliteDangerous/comments/kh5ot4/elite_dangerous_hud_mod_edhm_v14_has_landed/
+EDHM for Horizons is no longer being developed as I don't have time to work on both versions. However, it's still a good mod with lots of options.
 
 
 -------------------------------------------------------------------------
-**EDHM v1.5 video**
-
-https://youtu.be/7MqgLzI-8fA
+[EDHM for Horizons v1.5 video](https://youtu.be/7MqgLzI-8fA)
 
 -------------------------------------------------------------------------
-**EDHM-UI by Blue Mystic**
-
-Enables installation and configuration of the mod via a UI
-
-https://github.com/BlueMystical/EDHM_UI
-
-Please contact Blue Mystic if you have any questions about the UI, via the GitHub above or on the EDHM Discord
-
-https://discord.gg/MtBszksjMr
+[EDHM Discord](https://discord.gg/MtBszksjMr)
