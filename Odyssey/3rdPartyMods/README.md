@@ -3,7 +3,7 @@
 3rd-party mods (3PMs) for Odyssey are optional extra mods in the alpha stages of testing. Once they are confirmed working without bugs they will be incorporated into the main mod. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
 ### Night Vision by Jessidhia
- - Customise your Night Vision colour, the pulse wave from the Pulse Wave Analyser (PWA), and the PWA glow on core asteroids (very useful for CMDRs with colour blindness)
+ - Now incorporated into the main mod
 
 ### Cockpit Lights by psychicEgg
 This mod is separate from the Cabin Lighting (ambient lighting) and affects the accessory lights around the cockpit on some ships.
