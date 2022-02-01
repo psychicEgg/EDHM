@@ -2,11 +2,17 @@
 
 3rd-party mods (3PMs) for Odyssey are optional extra mods in the alpha stages of testing. Once they are confirmed working without bugs they will be incorporated into the main mod. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
-### Night Vision by Jessidhia
- - Now incorporated into the main mod
-
-### Cockpit Lights by psychicEgg
+### Cockpit Lights v3 by psychicEgg
 This mod is separate from the Cabin Lighting (ambient lighting) and affects the accessory lights around the cockpit on some ships.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+**PLEASE NOTE BEFORE DOWNLOADING:**
+
+The modding software can't extract a few of the lighting accessory shaders correctly, and somewhere there's a bug I haven't found yet.
+The bug will turn off the glow on some ARX lighting (such as the Orb lights, Skull lights, and I think the Pumpkin), so please keep that
+in mind before downloading.
+Not all ARX lights are affected. If you uninstall this CockpitLights mod then the affected ARX lights will turn back on again.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 The mod is enabled for the following ships and elements:
 
@@ -22,6 +28,7 @@ The mod is enabled for the following ships and elements:
  - Customise the bright light wells at the front, or just reduce brightness (or remove the bulb completely)
  - Turn off the bright white lights under the dashboard
  - Turn down the brightness of the Core Dynamics logo at the front
+ - Add a matte cover to the insanely bright metal plate under the Core Dynamics logo
 
 **Anaconda**
  - Customise the colour of the overhead lights and a few elements around the radar
@@ -35,6 +42,9 @@ The mod is enabled for the following ships and elements:
 **Chieftain / Challenger**
  - Option to turn off the small white lights on the cockpit frame
  - The same elements in the Crusader were coded differently in another shader so I'll do them at a later date
+
+**Dolphin**
+ - Dim the accessory lights on the dashboard, or make them grey
 
 ## To install 3PMs
 
