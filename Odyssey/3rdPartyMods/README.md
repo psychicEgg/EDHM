@@ -2,8 +2,9 @@
 
 3rd-party mods (3PMs) for Odyssey are optional extra mods in the alpha stages of testing. Once they are confirmed working without bugs they will be incorporated into the main mod. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
-### Cockpit Lights v3 by psychicEgg
-This mod is separate from the Cabin Lighting (ambient lighting) and affects the accessory lights around the cockpit on some ships.
+### Cockpit Lights v3.1 by psychicEgg
+
+v3.1: _Updated for compatibility with EDHM for Odyssey v10. No changes to the mod options_
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 **PLEASE NOTE BEFORE DOWNLOADING:**
@@ -13,6 +14,8 @@ The bug will turn off the glow on some ARX lighting (such as the Orb lights, Sku
 in mind before downloading.
 Not all ARX lights are affected. If you uninstall this CockpitLights mod then the affected ARX lights will turn back on again.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+This mod is separate from the Cabin Lighting (ambient lighting) and affects the accessory lights around the cockpit on some ships.
 
 The mod is enabled for the following ships and elements:
 
