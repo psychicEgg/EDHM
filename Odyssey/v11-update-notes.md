@@ -1,6 +1,15 @@
-## EDHM for Odyssey v10
+## EDHM for Odyssey v11
 
 Hi CMDRs,
+
+A fix for FDev Update 11 is now available
+
+Also, you can now mod the FSS/DSS
+
+Please see the v11 update notes on the [Elite forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9780847)
+
+o7
+
 
 **v10.1 changelog**
 
