@@ -4,7 +4,7 @@
 
 ### Cockpit Lights v3.1 by psychicEgg
 
-Please note, FDev Update 11 broke many aspects of the mod and I'm unsure if the CockpitLights mod is still working. Will test as soon as possible.
+Please note, FDev Update 11 broke the CockpitLights mod, and changed the shaders, textures and code. It will need to be re-written from scratch.
 
 v3.1: _Updated for compatibility with EDHM for Odyssey v10. No changes to the mod options_
 
