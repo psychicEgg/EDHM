@@ -2,24 +2,22 @@
 
 3rd-party mods (3PMs) for Odyssey are optional extra mods in the alpha stages of testing. Once they are confirmed working without bugs they will be incorporated into the main mod. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
-### Cockpit Lights v3.1 by psychicEgg
+### Cockpit Lights v3.2 by psychicEgg
 
-Please note, FDev Update 11 broke the CockpitLights mod, and changed the shaders, textures and code. It will need to be re-written from scratch.
+_Finally the Cockpit Lights mod is compatible with FDev Update 11_
 
-v3.1: _Updated for compatibility with EDHM for Odyssey v10. No changes to the mod options_
+Every shader has changed, so if you had v3.1 installed, please uninstall it first via the UI before adding this new one (make sure Elite is closed!)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 **PLEASE NOTE BEFORE DOWNLOADING:**
 
-The modding software can't extract a few of the lighting accessory shaders correctly, and somewhere there's a bug I haven't found yet.
-The bug will turn off the glow on some ARX lighting (such as the Orb lights, Skull lights, and I think the Pumpkin), so please keep that
-in mind before downloading.
+The modding software can't extract a few of the lighting accessory shaders correctly.
+As a result, the Cockpit Lights mod will turn off the glow on some ARX lighting (such as the Ancient Orb lights, Skull lights, and I think the Pumpkin), so please keep that
+in mind before downloading. 
 Not all ARX lights are affected. If you uninstall this CockpitLights mod then the affected ARX lights will turn back on again.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-This mod is separate from the Cabin Lighting (ambient lighting) and affects the accessory lights around the cockpit on some ships.
-
-The mod is enabled for the following ships and elements:
+This mod is separate from the Cabin Lighting (ambient lighting) and affects the accessory lights around the cockpit on the following ships:
 
 **Krait MkII & Phantom**
  - option to turn off the upper front lights, probably the most annoying lights in Elite
@@ -42,13 +40,12 @@ The mod is enabled for the following ships and elements:
  - Customise the blue stripe lighting
 
 **Cutter**
- - Customise the accessory dials, lights and logo on the dashboard 
+ - Customise the accessory dials, lights and logo on the dashboard
 
 **Chieftain / Challenger**
- - Option to turn off the small white lights on the cockpit frame
- - The same elements in the Crusader were coded differently in another shader so I'll do them at a later date
+- Option to turn off the small white lights on the cockpit frame 
 
-**Dolphin**
+**Dolphin and Type 10 Defender**
  - Dim the accessory lights on the dashboard, or make them grey
 
 ## To install 3PMs
@@ -68,5 +65,6 @@ The mod is enabled for the following ships and elements:
  - Ensure the 'ShaderFixes' and 'EDHM-ini' folders exist in the game folder (where you saved the zip file). They are the mod folders, if you don't see them you're in the wrong folder.
  - Unzip the contents, and press 'ok' to merge existing folders, overwrite old files
  - Configure via the .ini files in the EDHM-ini/3rdPartyMods folder
+ - Uninstall by double-clicking 'CockpitLights.bat' in the EDHM-ini/3rdPartyMods folder (make sure Elite is closed!)
 
 For support with 3PMs, please join the [EDHM Discord](https://discord.gg/MtBszksjMr) as I cannot provide support here, thanks
