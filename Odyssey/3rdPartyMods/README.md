@@ -4,6 +4,8 @@
 
 ### Cockpit Lights v3.2 by psychicEgg
 
+I've received reports v3.2 has random flickering of dashboard lights in the T9/T10, currently investigating
+
 _Finally the Cockpit Lights mod is compatible with FDev Update 11_
 
 Every shader has changed, so if you had v3.1 installed, please uninstall it first via the UI before adding this new one (make sure Elite is closed!)
