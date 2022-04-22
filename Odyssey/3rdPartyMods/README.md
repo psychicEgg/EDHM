@@ -2,20 +2,17 @@
 
 3rd-party mods (3PMs) for Odyssey are optional extra mods in the alpha stages of testing. Once they are confirmed working without bugs they will be incorporated into the main mod. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
-### Cockpit Lights v3.2 by psychicEgg
+### Cockpit Lights v3.21 by psychicEgg
 
-I've received reports v3.2 has random flickering of dashboard lights in the T9/T10, currently investigating
+The Cockpit Lights mod has been updated from v3.2 to v3.21 to add a missing texture from the T9/T10 dashboard lights. 
 
-_Finally the Cockpit Lights mod is compatible with FDev Update 11_
-
-Every shader has changed, so if you had v3.1 installed, please uninstall it first via the UI before adding this new one (make sure Elite is closed!)
+If you have a previous version of the Cockpit Lights mod installed, please uninstall it first before installing this new version (make sure you've exited and closed Elite before uninstalling/installing)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 **PLEASE NOTE BEFORE DOWNLOADING:**
 
 The modding software can't extract a few of the lighting accessory shaders correctly.
-As a result, the Cockpit Lights mod will turn off the glow on some ARX lighting (such as the Ancient Orb lights, Skull lights, and I think the Pumpkin), so please keep that
-in mind before downloading. 
+As a result, the Cockpit Lights mod will turn off the glow on some ARX lighting (such as the Ancient Orb lights, Skull lights, and I think the Pumpkin), so please keep that in mind before downloading. 
 Not all ARX lights are affected. If you uninstall this CockpitLights mod then the affected ARX lights will turn back on again.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -47,7 +44,7 @@ This mod is separate from the Cabin Lighting (ambient lighting) and affects the 
 **Chieftain / Challenger**
 - Option to turn off the small white lights on the cockpit frame 
 
-**Dolphin and Type 10 Defender**
+**Dolphin and Type 9 / Type 10**
  - Dim the accessory lights on the dashboard, or make them grey
 
 ## To install 3PMs
