@@ -2,7 +2,7 @@
 
 3rd-party mods (3PMs) for Odyssey are optional extra mods in the alpha stages of testing. Once they are confirmed working without bugs they will be incorporated into the main mod. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
-### Cockpit Lights v3.21 by psychicEgg
+### Cockpit Lights v3.21 by psychicEgg (requires fix for FDev Update 12)
 
 The Cockpit Lights mod has been updated from v3.2 to v3.21 to add a missing texture from the T9/T10 dashboard lights. 
 
