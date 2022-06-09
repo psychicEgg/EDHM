@@ -1,6 +1,8 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
+**ALERT:** FDev Update 12 broke parts of the Odyssey mod (as expected). I'll announce when the fixes are complete on the EDHM Discord, and the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9858680)
+
 For a full description of the mod, please see the post on the [official Frontier forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/)
 
 ### Odyssey
