@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT:** EDHM has now been fixed for FDev Update 12. Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9875280)
+**ALERT:** EDHM for Odyssey has now been fixed for FDev Update 12. Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9875280)
 
 -------------------------------------------------------------------------
 For a full description of the mod, please see the post on the [official Frontier forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/)
