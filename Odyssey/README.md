@@ -1,6 +1,6 @@
 ### EDHM for Odyssey
 
-**ALERT:** FDev Update 12 broke parts of the Odyssey mod (as expected). I'll announce when the fixes are complete on the EDHM Discord, and the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9858680)
+**ALERT:** EDHM has now been fixed for FDev Update 12. Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9875280)
 
 -------------------------------------------------------------------------
 I'm very pleased to announce EDHM for Odyssey is now available. Unlike the Horizons version of EDHM, you can set custom RGB colours for every element on the HUD, and ship / station / carrier panels. 
