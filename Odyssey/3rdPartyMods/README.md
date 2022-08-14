@@ -3,10 +3,10 @@
 3rd-party mods (3PMs) for Odyssey are optional extra mods. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
 Current 3PMs available:
-- FSS Overlay
+- FSS Overlay (requires fix for FDev U13)
+- Cockpit Lights Mod (requires fix for FDev U13)
 
 In development:
-- Cockpit Lights Mod (requires fix for FDev U12)
 - Cockpit Paint Mod
 
 
