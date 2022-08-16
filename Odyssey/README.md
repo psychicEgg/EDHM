@@ -2,6 +2,10 @@
 
 **ALERT:** EDHM has now been fixed for FDev Update 13. Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9913681)
 
+v13.21: Minor fixes
+  i. Multi-colour shield ring should now work at 1920x1080 game resolution (but not below)
+  ii. The concourse terminal mod was turning off the station exterior lights
+
 
 -------------------------------------------------------------------------
 I'm very pleased to announce EDHM for Odyssey is now available. Unlike the Horizons version of EDHM, you can set custom RGB colours for every element on the HUD, and ship / station / carrier panels. 
