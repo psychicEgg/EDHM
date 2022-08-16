@@ -1,4 +1,4 @@
-### FSS Overlay v1.21 by psychicEgg and CMDR Parduz
+### FSS Overlay for FDev Update 13, by psychicEgg and CMDR Parduz
 
 This is an optional addon for your FSS. The FSS Overlay mod adds an informational overlay on top of the Filtered Spectral Analysis, and tells you what type of celestial bodies fall within a particular frequency band
 
