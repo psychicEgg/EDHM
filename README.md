@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT:** EDHM for Odyssey has now been fixed for FDev Update 13. Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9913681)
+**ALERT:** EDHM for Odyssey now works in Horizons 4.0! Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9946713)
 
 -------------------------------------------------------------------------
 For a full description of the mod, please see the post on the [official Frontier forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/)
@@ -17,9 +17,9 @@ Please note: EDHM UI will install both the mod **and** the UI, you don't need to
 
 As EDHM for Odyssey is still in development, I recommend you join us on the [EDHM Discord](https://discord.gg/MtBszksjMr) where you can find the latest updates, new player-created themes, and general support
 
-### Horizons
+### Horizons 3.8
 
-Latest version for Horizons: 1.52b (December 26, 2021)
+Latest version for Horizons 3.8: v1.52b (December 26, 2021)
 
 [v1.52b Download Link](https://github.com/psychicEgg/EDHM/releases/tag/v1.5)
 
