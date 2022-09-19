@@ -15,6 +15,8 @@ Due to the complexity of the Odyssey version, I recommend you use EDHM UI (devel
 
 Please note: EDHM UI will install both the mod **and** the UI, you don't need to download anything else.
 
+[EDHM UI Installation Guide](https://edhm-ui.herokuapp.com/)
+
 As EDHM for Odyssey is still in development, I recommend you join us on the [EDHM Discord](https://discord.gg/MtBszksjMr) where you can find the latest updates, new player-created themes, and general support
 
 ### Horizons 3.8
