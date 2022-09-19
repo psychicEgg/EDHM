@@ -23,7 +23,7 @@ As EDHM for Odyssey is still in development, I recommend you join us on the [EDH
 
 Latest version for Horizons 3.8: v1.52b (December 26, 2021)
 
-[v1.52b Download Link](https://github.com/psychicEgg/EDHM/releases/tag/v1.5)
+[v1.52b Download Link](https://github.com/psychicEgg/EDHM/tree/main/Releases/v1.52)
 
 If you prefer not to configure the mod manually (in a text editor) then please use [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases)
 
