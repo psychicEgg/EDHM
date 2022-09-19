@@ -27,7 +27,7 @@ Latest version for Horizons 3.8: v1.52b (December 26, 2021)
 
 If you prefer not to configure the mod manually (in a text editor) then please use [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases)
 
-EDHM for Horizons is no longer being developed as I don't have time to work on both versions. However, it's still a good mod with lots of options.
+EDHM for Horizons 3.8 is no longer being developed as I don't have time to work on both versions. However, it's still a good mod with lots of options.
 
 
 -------------------------------------------------------------------------
