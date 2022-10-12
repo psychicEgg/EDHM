@@ -5,6 +5,7 @@
 Current 3PMs available:
 - FSS Overlay (updated 13 October 2022)
 - Enhanced Biome Overlay (updated 13 October 2022)
+- Thick Orbit Lines (updated 13 October 2022)
 
 In development:
 - Cockpit Paint Mod (if you'd like to beta test, post a message on the [EDHM Discord](https://discord.gg/MtBszksjMr))
