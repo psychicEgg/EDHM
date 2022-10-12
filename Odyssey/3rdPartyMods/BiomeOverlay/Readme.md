@@ -12,3 +12,5 @@ I put off modding the overlay for a long time as it involves adding code to six 
 Note: It's impossible to have a different colour for each type of biome as the shader doesn't receive that information
 
 This is the first version of the enhanced overlay, so please report any bugs to the [EDHM Discord](https://discord.gg/MtBszksjMr), thank you
+
+![Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/BiomeOverlay/BiomeOverlay.jpg?raw=true)
