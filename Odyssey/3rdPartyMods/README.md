@@ -4,10 +4,10 @@
 
 Current 3PMs available:
 - FSS Overlay
-- Cockpit Lights Mod (requires fix for FDev U13)
+- Enhanced Biome Overlay
 
 In development:
-- Cockpit Paint Mod
+- Cockpit Paint Mod (if you'd like to beta test, post a message on the [EDHM Discord](https://discord.gg/MtBszksjMr))
 
 
 ## To install 3PMs
