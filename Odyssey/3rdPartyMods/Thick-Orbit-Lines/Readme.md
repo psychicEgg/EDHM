@@ -10,3 +10,4 @@ Please note: FDev never intended for the orbit lines to be stretched, so they ha
 
 Have fun! o7
 
+![Thick Orbit Lines](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/ThickOL-v1.1.png?raw=true)
