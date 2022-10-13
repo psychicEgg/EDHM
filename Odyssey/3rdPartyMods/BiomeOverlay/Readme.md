@@ -13,7 +13,7 @@ Note: It's impossible to have a different colour for each type of biome as the s
 
 This is the first version of the enhanced overlay, so please report any bugs to the [EDHM Discord](https://discord.gg/MtBszksjMr), thank you
 
-![Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/BiomeOverlay/BiomeOverlay.jpg?raw=true)
-
-Changelog for v1.2:
+**Changelog for v1.2:**<br>
 Added an optional keybind to cycle through the overlay modes. Sometimes it can be easier to see the biome in Mode 1, then use Mode 2 to choose your landing spot
+
+![Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/BiomeOverlay/BiomeOverlay.jpg?raw=true)
