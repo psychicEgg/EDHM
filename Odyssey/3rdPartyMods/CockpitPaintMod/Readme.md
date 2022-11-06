@@ -2,6 +2,8 @@
 
 **UPDATE:** The beta test for the CPM is only available on the [EDHM Discord](https://discord.gg/MtBszksjMr). I'm adding new ships every day.
 
+**The documents listed above are now out-of-date**, as they were created for an early Alpha test. To install the latest version of the CPM please ask to join the CPM beta in the EDHM Discord, thanks
+
 -------------------------------------------------------------------------
 
 The Cockpit Paint Mod (CPM) enables CMDRs to paint their cockpits with any combination of colours. You can leave most of the cockpit as default and add a little custom colour, or you can spend a few hours and re-colour every surface. You can even match your cockpit colour scheme with your external paintjob.
