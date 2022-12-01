@@ -1,7 +1,9 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT:** EDHM for Odyssey now works in Horizons 4.0! Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9946713)
+**ALERT:** EDHM for Odyssey now works in Horizons 4.0!
+
+FDev Update 14 broke aspects of the mod. Fixes will be pushed out via the UI app. If you have trouble updating then download a new version of the UI from the link below, then in the Main Menu click Install Mod
 
 -------------------------------------------------------------------------
 For a full description of the mod, please see the post on the [official Frontier forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/)
