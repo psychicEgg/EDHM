@@ -1,10 +1,8 @@
 ### EDHM for Odyssey
 
-**ALERT:** EDHM for Odyssey now works in Horizons 4.0! Please see the notes on the [Elite forums thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/post-9946713)
-<br><br>
-**November 02, 2022:** EDHM for Odyssey / H4.0 v13.51 has been released, please see the [patch notes](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/EDHM%20v13.51%20Patch%20Notes.md)
+**ALERT:** EDHM for Odyssey now works in Horizons 4.0!
 
-If you already use the UI, you **do NOT** need to download anything - the next UI update will contain EDHM v13.51 
+FDev Update 14 broke aspects of the mod. Fixes will be pushed out via the UI app. If you have trouble updating then download a new version of the UI from the link below, then in the Main Menu click Install Mod
 
 -------------------------------------------------------------------------
 I'm very pleased to announce EDHM for Odyssey is now available. Unlike the Horizons version of EDHM, you can set custom RGB colours for every element on the HUD, and ship / station / carrier panels. 
