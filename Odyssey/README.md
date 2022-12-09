@@ -2,7 +2,7 @@
 
 **ALERT:** EDHM for Odyssey now works in Horizons 4.0!
 
-FDev Update 14 broke aspects of the mod. Fixes will be pushed out via the UI app. If you have trouble updating then download a new version of the UI from the link below, then in the Main Menu click Install Mod
+EDHM for Odyssey U14 is now fully operational. Expect updates from EDHM UI, and I've also loaded the raw files into the Odyssey folder (see above)
 
 -------------------------------------------------------------------------
 I'm very pleased to announce EDHM for Odyssey is now available. Unlike the Horizons version of EDHM, you can set custom RGB colours for every element on the HUD, and ship / station / carrier panels. 
