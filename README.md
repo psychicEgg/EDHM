@@ -3,7 +3,7 @@
 
 **ALERT:** EDHM for Odyssey now works in Horizons 4.0!
 
-FDev Update 14 broke aspects of the mod. Fixes will be pushed out via the UI app. If you have trouble updating then download a new version of the UI from the link below, then in the Main Menu click Install Mod
+EDHM for Odyssey U14 is now fully operational. Expect updates from EDHM UI, and I've also loaded the raw files into the Odyssey folder
 
 -------------------------------------------------------------------------
 For a full description of the mod, please see the post on the [official Frontier forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/)
