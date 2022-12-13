@@ -5,9 +5,9 @@
 3rd-party mods (3PMs) for Odyssey are optional extra mods. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
 Current 3PMs available:
-- FSS Overlay (updated 13 October 2022)
-- Enhanced Biome Overlay (updated 13 October 2022)
-- Thick Orbit Lines (updated 13 October 2022)
+- FSS Overlay (needs fix)
+- Enhanced Biome Overlay (fixed for FDev U14)
+- Thick Orbit Lines (needs fix)
 
 In development:
 - Cockpit Paint Mod (if you'd like to beta test, post a message on the [EDHM Discord](https://discord.gg/MtBszksjMr))
