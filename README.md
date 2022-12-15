@@ -5,6 +5,8 @@
 
 EDHM for Odyssey U14 is now fully operational. Expect updates from EDHM UI, and I've also loaded the raw files into the Odyssey folder
 
+**EDHM Updates are now on [Twitter](https://twitter.com/EDHMod)!**
+
 -------------------------------------------------------------------------
 For a full description of the mod, please see the post on the [official Frontier forums](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/)
 
