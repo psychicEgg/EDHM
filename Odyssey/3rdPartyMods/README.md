@@ -5,7 +5,7 @@
 3rd-party mods (3PMs) for Odyssey are optional extra mods. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
 Current 3PMs available:
-- FSS Overlay (needs fix)
+- FSS Overlay (fixed for FDev U14)
 - Enhanced Biome Overlay (fixed for FDev U14)
 - Thick Orbit Lines (needs fix)
 
