@@ -1,11 +1,17 @@
-# FSS Overlay for Odyssey v1.3 
-**13 October 2022**
+# FSS Overlay for Odyssey v1.4
+### Fixed for FDev U14
 
-This is an optional addon for your FSS. 
+This is an optional overlay for your FSS that every explorer should have. 
 
-The FSS Overlay mod adds an informational overlay on top of the Filtered Spectral Analysis, and tells you what type of celestial bodies fall within a particular frequency band
+The FSS Overlay mod adds an informational overlay on top of the Filtered Spectral Analysis, and indicates what type of celestial bodies fall within a particular frequency band
 
-There are three options for the overlay, and you can also adjust the brightness/transparency
+There are three excellent options for the overlay, designed by CMDR Parduz and CMDR Razor2
+
+Parduz' overlays have recently been updated based on his observations of gas giants in the Magellan region
+
+**For modders, I've added full comments to the shader code so it can be updated or improved without my input**
+
+And please let me know if you would like to design your own overlay and I'll help you add it into the mod (see the psd template in this folder)
 
 Good (planet) hunting! o7
 
