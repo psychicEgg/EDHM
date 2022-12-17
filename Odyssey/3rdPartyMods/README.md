@@ -7,7 +7,7 @@
 Current 3PMs available:
 - FSS Overlay (fixed for FDev U14)
 - Enhanced Biome Overlay (fixed for FDev U14)
-- Thick Orbit Lines (needs fix)
+- Thick Orbit Lines (working in U14)
 
 In development:
 - Cockpit Paint Mod (if you'd like to beta test, post a message on the [EDHM Discord](https://discord.gg/MtBszksjMr))
