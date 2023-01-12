@@ -1,7 +1,5 @@
 # 3rd-party Mods
 
-**ALERT:** It is likely FDev Update 14 broke all the 3PMs, as 90% of the shaders broke in the base mod. Please wait until they are updated, thanks
-
 3rd-party mods (3PMs) for Odyssey are optional extra mods. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
 Current 3PMs available:
