@@ -1,4 +1,4 @@
-# No Holograms Mod v1.14.2 (for Elite Dangerous 4.0 Update 14.01)
+# No Holograms Mod v1.14.2
 
 ### by CMDR Fred89210<br><br>
 
