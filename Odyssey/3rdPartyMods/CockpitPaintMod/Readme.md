@@ -1,8 +1,6 @@
 # EDHM Cockpit Paint Mod (CPM)
 
-**UPDATE:** The beta test for the CPM is only available on the [EDHM Discord](https://discord.gg/MtBszksjMr). I'm adding new ships every day.
-
-**The documents listed above are now out-of-date**, as they were created for an early Alpha test. To install the latest version of the CPM please ask to join the CPM beta in the EDHM Discord, thanks
+**UPDATE:** CPM v2.0 (public release) is now ready and will be uploaded here shortly. v2.0 has new features and I'd like to make a step-by-step instructional video to explain how to use it correctly. If you're very eager to play with the CPM it's already available on the [EDHM Discord](https://discord.gg/MtBszksjMr), but I recommend waiting until I make the video.
 
 -------------------------------------------------------------------------
 
@@ -24,8 +22,5 @@ _The mod shouldn't provide a competitive advantage, or mod ARX-related assets._
 
 -------------------------------------------------------------------------
 
-All the files you need for the CPM are available on the EDHM Discord. If you would like to participate in the CPM beta (during which we test for bugs and take suggestions for improvement), then please post on the discord that you'd like to join the beta.
-
-I hope you enjoy the mod!
 
 o7
