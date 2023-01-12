@@ -34,3 +34,5 @@ Edit the file 'NoHolograms.ini' and change the line: Key =no_modifiers F5.
 To say thanks or provide feedback about the No Holograms Mod, contact:
 - Fred89210 on the Elite forums
 - CMDR Fred89210 on the [EDHM Discord](https://discord.gg/MtBszksjMr)
+
+![No Holograms Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/No-Holograms/No-Hologram-1.jpg?raw=true)
