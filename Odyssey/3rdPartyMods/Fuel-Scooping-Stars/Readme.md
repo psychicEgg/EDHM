@@ -32,3 +32,6 @@ To say thanks or provide feedback about the Fuel Scooping Stars Mod, contact:
 - Fred89210 on the Elite forums
 - CMDR Fred89210 on the [EDHM Discord](https://discord.gg/MtBszksjMr)
 
+![FS-Stars-Mod-1](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/Scoop-Stars-Mod-1.jpg?raw=true)
+
+![FS-Stars-Mod-2](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/Scoop-Stars-Mod-2.jpg?raw=true)
