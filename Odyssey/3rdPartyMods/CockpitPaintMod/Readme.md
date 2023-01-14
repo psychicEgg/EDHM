@@ -5,6 +5,8 @@
 I'm currently making a video guide, but in the meantime please follow the [CPM Guide](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Guide.md)
 
 -------------------------------------------------------------------------
+![Elite Dangerous Cockpit Paint Mod](https://forums.frontier.co.uk/attachments/cpm-title-png.316467/?raw=true)
+
 
 The Cockpit Paint Mod (CPM) enables CMDRs to paint their cockpits with any combination of colours. You can leave most of the cockpit as default and add a little custom colour, or you can spend a few hours and re-colour every surface. You can even match your cockpit colour scheme with your external paintjob.
 
@@ -23,6 +25,28 @@ Please note, the CPM complies with the modding rules FDev provided to EDHM in 20
 _The mod shouldn't provide a competitive advantage, or mod ARX-related assets._
 
 -------------------------------------------------------------------------
+
+**Example images**
+
+Mamba
+
+![CPM Mamba](https://forums.frontier.co.uk/attachments/mamba1-png.316468/?raw=true)
+
+Viper Mk III
+
+![CPM Viper Mk III](https://forums.frontier.co.uk/attachments/vipermk3-png.316469/?raw=true)
+
+Imperial Courier
+
+![CPM Imperial Courier](https://forums.frontier.co.uk/attachments/courier-jpg.316473/?raw=true)
+
+Darkside Imperial Cutter
+
+![CPM Imperial Cutter](https://forums.frontier.co.uk/attachments/darkside-cutter-jpg.316609/?raw=true)
+
+Sidewinder
+
+![CPM Sidewinder](https://forums.frontier.co.uk/attachments/sidewinder-jpg.316475/?raw=true)
 
 
 o7
