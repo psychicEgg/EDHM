@@ -3,7 +3,7 @@
 ### Current CPM version: v2.0
 <br>
 
-> **Update 15 Jan 2023:** I’m making a step-by-step instruction video for the CPM, but since that might take a few days here’s a basic guide to get you going. If you have any questions, my contact details are at the bottom of this document.
+> **Update 15 Jan 2023:** I’m making a step-by-step instruction video for the CPM, but since that might take a few days here’s a basic guide to get you going. If you have any questions, my contact details are at the bottom of this document. PS. I will be adding screenshots to this guide
 
 <br>The CPM is an addon (3rd party mod) for EDHM, so it is assumed you have [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases) installed and working.
 
