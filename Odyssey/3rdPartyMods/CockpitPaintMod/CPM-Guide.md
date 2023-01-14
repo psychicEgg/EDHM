@@ -248,6 +248,6 @@ And if you’d like to email me files, my GMail username is: EDHUDMod
 
 I hope you enjoy the CPM, and I look forward to seeing your creations!<br><br>
 
-psychicEgg / CMDR GeorjCostanza
+❤ psychicEgg / CMDR GeorjCostanza
 
 o7
