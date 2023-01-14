@@ -209,14 +209,14 @@ Click ‘Themes / Export Theme’, and fill-in all the details.
 
 If you’d like to share your theme with others, please create a thumbnail for the theme.
 
-**Included in the files above** is a photoshop template for ship thumbnails, which can be used in most graphic applications, including free software like GIMP and Paint NET. 
+**Included in the files above** is a [photoshop template](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Thumbnail-Template.psd) for ship thumbnails, which can be used in most graphic applications, including free software like GIMP and Paint NET. 
 
-Also included is a Paint NET version of the template<br>
+Also included is a [Paint NET version](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Thumbnail-Template.pdn) of the template<br>
 https://www.getpaint.net/
 
 Regardless of your method, I recommend turning off your HUD with CTRL ALT G, ensure your dashboard is in a lighted area (or brighten the image in your gfx software), take a screenshot and cut out the middle part that shows the cockpit. 
 
-The final image size should be 200 x 61 pixels, and ideally with a 1 pixel coloured border.
+The final image size should be **200 x 61 pixels**, and ideally with a 1 pixel coloured border.
 
 If you have trouble making a thumbnail, you’re welcome to send me your screenshot and I’ll make it for you.<br><br>
 
