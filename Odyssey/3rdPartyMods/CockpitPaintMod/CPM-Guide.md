@@ -37,7 +37,7 @@ I (*psychicEgg*) look after the modding part, so I'm not an expert with troubles
   - Layer 1 is the base texture
   - Layer 2 represents the reflectivity of the texture – how much the texture reflects external light 
   - Layer 3 is the gamma of the texture, and is rarely used except to boost colour under certain conditions
-- You apply colour to a Layer using a colour Mode. There are 9 Modes (or methods) of applying colour<br><br>
+- You apply colour to a Layer using a colour **Mode**. There are 9 Modes (or methods) of applying colour<br><br>
 
 ## General strategies for painting your cockpit
 
