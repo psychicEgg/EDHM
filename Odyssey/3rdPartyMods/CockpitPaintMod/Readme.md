@@ -40,9 +40,17 @@ Imperial Courier
 
 ![CPM Imperial Courier](https://forums.frontier.co.uk/attachments/courier-jpg.316473/?raw=true)
 
+Cobra Mk III
+
+![CPM Cobra Mk III](https://forums.frontier.co.uk/attachments/pink-wafer-1-jpg.319999/?raw=true)
+
 Darkside Imperial Cutter
 
 ![CPM Imperial Cutter](https://forums.frontier.co.uk/attachments/darkside-cutter-jpg.316609/?raw=true)
+
+Anaconda R2D2
+
+![CPM Anaconda](https://forums.frontier.co.uk/attachments/cpm-anaconda-r2d2-jpg.321713/?raw=true)
 
 Sidewinder
 
