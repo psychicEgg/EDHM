@@ -1,6 +1,8 @@
 # EDHM Cockpit Paint Mod (CPM)
 
-**UPDATE:** CPM v2.0 (public release) is now ready and will be uploaded here shortly. v2.0 has new features and I'd like to make a step-by-step instructional video to explain how to use it correctly. If you're very eager to play with the CPM it's already available on the [EDHM Discord](https://discord.gg/MtBszksjMr), but I recommend waiting until I make the video.
+**UPDATE:** CPM v2.0 (public release) is now available!
+
+I'm currently making a video guide, but in the meantime please follow the [CPM Guide](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Guide.md)
 
 -------------------------------------------------------------------------
 
