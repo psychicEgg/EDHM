@@ -4,6 +4,8 @@
 
 I'm currently making a video guide, but in the meantime please follow the [CPM Guide](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Guide.md)
 
+**NEW:** The [CPM Helper](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Helper) can greatly decrease the time painting your cockpit
+
 -------------------------------------------------------------------------
 ![Elite Dangerous Cockpit Paint Mod](https://forums.frontier.co.uk/attachments/cpm-title-png.316467/?raw=true)
 
