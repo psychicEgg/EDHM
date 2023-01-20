@@ -1,4 +1,4 @@
-CPM - Anaconda (Vanguard)
+**CPM - Anaconda (Vanguard)**
 
 by psychicEgg
 
