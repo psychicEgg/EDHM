@@ -1,4 +1,4 @@
-CPM - Imperial Eagle (Slipstream Red)
+**CPM - Imperial Eagle (Slipstream Red)**
 
 by Duke Leto 2nd
 
