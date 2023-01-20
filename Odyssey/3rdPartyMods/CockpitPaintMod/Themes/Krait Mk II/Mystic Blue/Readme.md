@@ -1,4 +1,4 @@
-CPM - Krait Mk II (Mystic Blue)
+**CPM - Krait Mk II (Mystic Blue)**
 
 by CMDR CPLuiz
 
