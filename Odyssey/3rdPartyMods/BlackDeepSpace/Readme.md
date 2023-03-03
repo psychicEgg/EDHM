@@ -47,3 +47,8 @@ This is a prototype release and needs to be installed manually (not via the UI y
 
 
 **Please note:** I have fully commented the shader file. If you can improve the algorithm then please let me know as I'm still a noob at this, thanks!
+
+Video (you'll need to view it on a PC monitor in a semi-dark environemnt to fully appreciate the fog reduction):
+
+https://youtu.be/iGhsmX6LLMA
+
