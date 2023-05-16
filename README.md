@@ -1,11 +1,9 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT:** EDHM for Odyssey now works in Horizons 4.0!
+**ALERT 16 May 2023:** EDHM for Odyssey has been patched for FDev U15!
 
-EDHM for Odyssey U14 is now fully operational. Expect updates from EDHM UI, and I've also loaded the raw files into the Odyssey folder
-
-**EDHM Updates are now on [Twitter](https://twitter.com/EDHMod)!**
+HUGE Thank you to CMDRs Fred89210 and MrVaad for keeping EDHM alive! Expect updates via [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases/latest).
 
 ---
 
