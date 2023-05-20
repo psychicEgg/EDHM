@@ -1,4 +1,4 @@
-# No Holograms Mod v1.14.2
+# No Holograms Mod v1.15.1 for FDdv Update 15.01
 
 ### by CMDR Fred89210<br><br>
 
