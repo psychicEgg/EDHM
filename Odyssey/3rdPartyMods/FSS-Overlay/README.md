@@ -1,5 +1,6 @@
-# FSS Overlay v1.5 for Odyssey FDev Update 15.01
-### Fixed for FDev U14
+# FSS Overlay v1.5.01 for Odyssey FDev Update 15.01
+### Fixed for FDev U15.01
+### Fix for transparency issue
 
 This is an optional overlay for your FSS that every explorer should have. 
 
