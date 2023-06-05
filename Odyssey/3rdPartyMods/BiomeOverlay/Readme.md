@@ -1,6 +1,6 @@
-# Enhanced Biome Overlay for Odyssey v1.3
+# Enhanced Biome Overlay for Odyssey v1.5.0
 
-**Fixed for FDev U14**
+**Fixed for FDev U15.02**
 
 Since the release of Odyssey I've received many requests for a mod of the Biome Overlay. The default overlay has a background of blue, and a biome target colour of slightly more greeny-blue - it's not surprising it can be very difficult to distinguish between the two layers, especially for CMDRs with visual difficulties
 
