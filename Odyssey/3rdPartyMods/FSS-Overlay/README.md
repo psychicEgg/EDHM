@@ -1,5 +1,5 @@
-# FSS Overlay v1.5.02 for Odyssey FDev Update 15.01
-### Fixed for FDev U15.01
+# FSS Overlay v1.5.02 for Odyssey FDev Update 15.02
+### Fixed for FDev U15.01 (Compatible with U15.02)
 - Fix for transparency issue
 - Add Overlay 4 for FSS Overlay - Edited Version by Taneth (Original by CMDR Razor2)
 
