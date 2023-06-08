@@ -6,7 +6,7 @@ Current 3PMs available:
 - FSS Overlay (Compatible with U15.02)
 - Enhanced Biome Overlay (Fixed for FDev U15.02)
 - Fuel Scooping Stars Mod (Compatible with U15.02)
-- No Holograms Mod (Compatible with U15.02)
+- Clean Screenshot Mod (ex No Holograms Mod) (Compatible with U15.02)
 - Thick Orbit Lines (Compatible with U15.02)
 
 In development:
