@@ -17,7 +17,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Diamondback Scout    | ✗      | 12              |
 | Dolphin              | ✓      | 13              |
 | Eagle                | ✓      | 14              |
-| Federal Assault Ship | ✗      | 15              |
+| Federal Assault Ship | ✓      | 15              |
 | Federal Corvette     | ✓      | 16              |
 | Federal Dropship     | ✗      | 17              |
 | Federal Gunship      | ✗      | 18              |
