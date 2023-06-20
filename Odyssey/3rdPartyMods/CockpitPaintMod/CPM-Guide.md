@@ -1,9 +1,9 @@
 # Cockpit Paint Mod (CPM) Guide
 
-### Current CPM version: v2.0
+### Current CPM version: v3.01
 <br>
 
-> **Update 15 Jan 2023:** I’m making a step-by-step instruction video for the CPM, but since that might take a few days here’s a basic guide to get you going. If you have any questions, my contact details are at the bottom of this document. PS. I will be adding screenshots to this guide
+> **Update** I’m making a step-by-step instruction video for the CPM, but since that might take a while here’s a basic guide to get you going. If you have any questions, my contact details are at the bottom of this document. PS. I will be adding screenshots to this guide
 
 <br>The CPM is an addon (3rd party mod) for EDHM, so it is assumed you have [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases) installed and working.
 
@@ -15,7 +15,7 @@ I (*psychicEgg*) look after the modding part, so I'm not an expert with troubles
 
 1.	**Exit Elite**. This is very important as we are adding new shaders
 
-2.	Download the [CPM zip file](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CockpitPaintMod/EDHM-CPM-v2.0.zip), and save the file somewhere you’ll be able to find it (eg. the Desktop or Downloads folder). The current version of the CPM is 2.0 and contains 27 ships (see [ShipList.md](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/ShipList.md))
+2.	Download the [CPM zip file](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CockpitPaintMod/EDHM-CPM-v3.01.zip), and save the file somewhere you’ll be able to find it (eg. the Desktop or Downloads folder). The current version of the CPM is 3.01 and contains 28 ships (see [ShipList.md](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/ShipList.md))
 
 3.	In EDHM UI, click the Main Menu (top-left), and then click 3PMods (Plugins)
 
