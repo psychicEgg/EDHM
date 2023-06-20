@@ -1,6 +1,6 @@
 # EDHM Cockpit Paint Mod (CPM)
 
-**UPDATE:** CPM v2.0 (public release) is now available!
+**UPDATE:** CPM v3.01 (June 21, 2023; FDev U15) is now available!
 
 I'm currently making a video guide, but in the meantime please follow the [CPM Guide](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Guide.md)
 
