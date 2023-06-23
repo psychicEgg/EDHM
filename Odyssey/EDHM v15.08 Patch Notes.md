@@ -1,4 +1,4 @@
-## EDHM 15.02 & 15.03 & 15.04 & 15.05 & 15.06 & 15.07 Patch Notes
+## EDHM 15.02 & 15.03 & 15.04 & 15.05 & 15.06 & 15.07 & 15.08 Patch Notes
 
 **:: NEW ::**
 
@@ -19,7 +19,7 @@
 
 - Fix for Dolphin interior lighting
 
-- Fix for several orange onfoot items
+- Fix for several orange elements
 
 - Fix for flashing animation when suit battery is low
 
