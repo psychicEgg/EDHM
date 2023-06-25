@@ -3,6 +3,7 @@
 3rd-party mods (3PMs) for Odyssey are optional extra mods. You must have EDHM for Odyssey installed prior to installing 3PMs.
 
 Current 3PMs available:
+- Cockpit Paint Mod (Fixed for FDev U15.02)
 - FSS Overlay (Compatible with U15.02)
 - Enhanced Biome Overlay (Fixed for FDev U15.02)
 - Fuel Scooping Stars Mod (Compatible with U15.02)
@@ -10,7 +11,6 @@ Current 3PMs available:
 - Thick Orbit Lines (Compatible with U15.02)
 
 In development:
-- Cockpit Paint Mod (not compatible with FDev U15.02)
 
 
 ## To install 3PMs
