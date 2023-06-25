@@ -12,10 +12,10 @@
       "mod_name":"Clean Screenshots Mod",
       "description":"This mod hides exterior holograms and wheel tracks while taking a screenshot.",
       "author":"CMDR FRED89210",
-      "mod_version":"1.15.10",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshot_Mod_U15_v1.15.10.zip",
+      "mod_version":"1.15.11",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshots_Mod_U15_v1.15.11.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/thumbnail.png",
-      "changelog":"- New Name\r\n- Hide SRV tire tracks"
+      "changelog":"-Fixed \"Show Mod Status In Game\"\r\n- New Name\r\n- Hide SRV tire tracks"
    },
    {
       "mod_name":"CPM [Cockpit Paint Mod]",

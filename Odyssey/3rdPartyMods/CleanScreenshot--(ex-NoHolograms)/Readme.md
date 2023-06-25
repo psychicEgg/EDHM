@@ -1,8 +1,16 @@
-# Clean Screenshot Mod v1.15.10 for Elite Dangerous 4.0 Update 15.02  (ex No Holograms Mod)
+# Clean Screenshots Mod v1.15.11 for Elite Dangerous 4.0 Update 15.02  (ex No Holograms Mod)
 
 ### by CMDR Fred89210<br><br>
 
-**The mod changes its name to *'Clean Screenshot Mod'* in order to be able to add new features to it while remaining consistent**
+**The mod changes its name to *'Clean Screenshots Mod'* in order to be able to add new features to it while remaining consistent**
+<br><br><br>
+
+**Release Notes:**
+- Fixed "Show Mod Status In Game"
+
+- Ready for Update 15.02
+- The mod changes its name to Clean Screenshots Mod in order to be able to add new features to it while remaining consistent
+- Added a function to hide the tire tracks of the SRV in order to take clean screenshots
 <br><br><br>
 
 **Description:**
@@ -28,7 +36,7 @@ Press again to make them reappear.
 
 *With EDHM UI:* 
 
-Go to 'Main Menu -> 3PMods -> Clean Screenshot Mod and change the key.
+Go to 'Main Menu -> 3PMods -> Clean Screenshots Mod and change the key.
 
 *Without EDHM UI:* 
 
