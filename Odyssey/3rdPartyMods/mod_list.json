@@ -18,15 +18,6 @@
       "changelog":"-Fixed \"Show Mod Status In Game\"\r\n- New Name\r\n- Hide SRV tire tracks"
    },
    {
-      "mod_name":"CPM [Cockpit Paint Mod]",
-      "description":"This mod enables CMDRs to paint their cockpits with any combination of colours.",
-      "author":"psychicEgg",
-      "mod_version":"3.02",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CockpitPaintMod/EDHM-CPM-v3.02.zip",
-      "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CockpitPaintMod/thumbnail.png",
-      "changelog":"- Fixed for FDev U15.02"
-   },
-   {
       "mod_name":"FSS-Overlay",
       "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies.",
       "author":"psychicEgg and Parduz",
