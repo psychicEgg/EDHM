@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT 18 May 2023:** EDHM for Odyssey has been patched for FDev U15.01!
+**ALERT 2 August 2023:** EDHM for Odyssey has been partially patched for FDev U16!
 
 HUGE Thank you to CMDRs Fred89210 and MrVaad for keeping EDHM alive! Expect updates via [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases/latest).
 
@@ -37,6 +37,6 @@ Please note: EDHM UI will install both the mod **and** the UI, you don't need to
 As EDHM for Odyssey is still in development, I recommend you join us on the [EDHM Discord](https://discord.gg/MtBszksjMr) where you can find the latest updates, new player-created themes, and general support
 
 -------------------------------------------------------------------------
-#### 3rd Party Mods (addons) for Odyssey need to be patched for FDev U15
+#### 3rd Party Mods (addons) for Odyssey need to be patched for FDev U16
 
 Please click on the 3rdPartyMods folder above, or download from the [EDHM Discord](https://discord.gg/MtBszksjMr) (recommended, so you can receive support with installation and configuring the options)
