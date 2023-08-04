@@ -4,10 +4,10 @@
 
 Current 3PMs available:
 - Cockpit Paint Mod (Needs Fix for FDev U16)
-- FSS Overlay (Needs Fix for FDev U16)
-- Enhanced Biome Overlay (Needs Fix for FDev U16)
+- FSS Overlay (Fixed for FDev U16)
+- Enhanced Biome Overlay (Fixed for FDev U16)
 - Fuel Scooping Stars Mod (Compatible with FDev U16)
-- Clean Screenshot Mod (ex No Holograms Mod) (Needs Fix for FDev U16)
+- Clean Screenshot Mod (ex No Holograms Mod) (Fixed for FDev U16)
 - Thick Orbit Lines (Compatible with FDev U16)
 
 In development:
