@@ -1,4 +1,4 @@
-# Odyssey Key Bindings v2.0.0 for Elite Dangerous 4.0 Update 15.02
+# Odyssey Key Bindings v2.0.0 for Elite Dangerous 4.0 Update 16.01
 
 ### by Blue Mystic<br><br>
 

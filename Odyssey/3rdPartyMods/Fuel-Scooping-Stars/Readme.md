@@ -1,9 +1,9 @@
-# Fuel Scooping Stars Mod v1.16.0 for FDev Update 16.00
+# Fuel Scooping Stars Mod v1.16.0 for FDev Update 16.01
 
 ### by CMDR Fred89210<br><br>
 
 **:: Release Notes ::**
-- Fixed for FDev U16.00
+- Ready for FDev U16.01
 
 **Description:**
 
