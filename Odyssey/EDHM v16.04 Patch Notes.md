@@ -1,8 +1,10 @@
-## EDHM 16.00 / 16.01 / 16.02 / 16.03 Patch Notes
+## EDHM 16.00 / 16.01 / 16.02 / 16.03 / 16.04 Patch Notes
 
 **:: NEW ::**
 
 - Ready for FDev Update 16.01
+
+- Restore U14 Cabin Lightning & Added Primary Color Extension Option
 
 - Fix : Icy Asteroid Belt icon in System Map
 
