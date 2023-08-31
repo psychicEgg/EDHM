@@ -1,8 +1,8 @@
 # EDHM Cockpit Paint Mod (CPM)
 
-**UPDATE:** CPM v3.02 (June 22, 2023; FDev U15) is now available!
+**UPDATE:** CPM v4.0 (August 30, 2023; FDev U16.01) is now available!
 
-v3.02 (from 3.01): Fix for Mamba sections 1 - 4
+v4.0 : Fixed for FDev Update 16.01
 
 I'm currently making a video guide, but in the meantime please follow the [CPM Guide](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Guide.md)
 
