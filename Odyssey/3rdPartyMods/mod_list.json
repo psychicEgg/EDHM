@@ -6,7 +6,7 @@
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_U17_v1.17.0.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/thumbnail.png",
-      "changelog":"- Fixed for FDev U16"
+      "changelog":"- Fixed for FDev U17"
    },
    {
       "mod_name":"Clean Screenshots Mod",
@@ -15,7 +15,7 @@
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshots_Mod_U17_v1.17.0.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/thumbnail.png",
-      "changelog":"- Fixed for FDev U16"
+      "changelog":"- Fixed for FDev U17"
    },
    {
       "mod_name":"FSS-Overlay",
@@ -24,7 +24,7 @@
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_U17_v1.17.0.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/thumbnail.png",
-      "changelog":"- Fixed for FDev U16"
+      "changelog":"- Fixed for FDev U17"
    },
    {
       "mod_name":"Fuel Scooping Stars Mod",
@@ -33,7 +33,7 @@
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_U17_v1.17.0.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/thumbnail.png",
-      "changelog":"- Fixed for FDev U16"
+      "changelog":"- Fixed for FDev U17"
    },
    {
     "mod_name":"Odyssey Key Bindings",
@@ -51,6 +51,6 @@
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_U17_v1.17.0_with_AMD_Fix.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/thumbnail.png",
-      "changelog":"- Fixed for FDev U16"
+      "changelog":"- Fixed for FDev U17"
    }
 ]
