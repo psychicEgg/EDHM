@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT 4 August 2023:** New Version of EDHM for Odyssey for FDev U16!
+**ALERT 17 October 2023:** New Version of EDHM for Odyssey for FDev U17!
 
 HUGE Thank you to CMDRs Fred89210 and MrVaad for keeping EDHM alive! Expect updates via [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases/latest).
 
