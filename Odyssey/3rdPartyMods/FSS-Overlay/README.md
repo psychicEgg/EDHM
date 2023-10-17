@@ -1,7 +1,7 @@
-# FSS Overlay v1.16.0 for Odyssey FDev Update 16.01
+# FSS Overlay v1.17.0 for Odyssey FDev Update 17.00
 
 **:: Release Notes ::**
-- Ready for FDev U16.01
+- Fixed for FDev U17.00
 
 **:: Previous versions ::**
 - Fix for transparency issue

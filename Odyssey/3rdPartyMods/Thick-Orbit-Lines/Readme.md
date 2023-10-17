@@ -1,7 +1,7 @@
-# THICK Orbit Lines v1.16.0 for Odyssey FDev Update 16.01
+# Thick Orbit Lines Mod v1.17.0 for Odyssey FDev Update 17.00
 
 **:: Release Notes ::**
-- Ready for FDev U16.01
+- Fixed for FDev U17.00
 
 Ever wanted to make your orbit lines thicc? 
 
