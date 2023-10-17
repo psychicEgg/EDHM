@@ -1,10 +1,8 @@
 # EDHM Cockpit Paint Mod (CPM)
 
-# CPM is not (yet) compatible with FDev U17
+**UPDATE:** CPM v5.0 (October 17, 2023; FDev U17.00) is now available!
 
-**UPDATE:** CPM v4.0 (August 30, 2023; FDev U16.01) is now available!
-
-v4.0 : Fixed for FDev Update 16.01
+v5.0 : Fixed for FDev Update 17.00
 
 I'm currently making a video guide, but in the meantime please follow the [CPM Guide](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Guide.md)
 
