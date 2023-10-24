@@ -1,6 +1,8 @@
-## EDHM 17.00 Patch Notes
+## EDHM 17.00, 17.01 Patch Notes
 
 **:: NEW ::**
+
+- Fix for Chat Panel
 
 - Initial Fix for FDev Update 17
 
