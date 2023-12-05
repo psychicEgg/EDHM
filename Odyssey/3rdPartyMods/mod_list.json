@@ -10,12 +10,12 @@
    },
    {
       "mod_name":"Clean Screenshots Mod",
-      "description":"This mod hides exterior holograms and wheel tracks while taking a screenshot.",
+      "description":"This mod hides exterior holograms, some spotlights and wheel tracks while taking a screenshot.",
       "author":"CMDR FRED89210",
-      "mod_version":"1.17.0",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshots_Mod_U17_v1.17.0.zip",
+      "mod_version":"1.17.1",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshots_Mod_U17_v1.17.1.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/thumbnail.png",
-      "changelog":"- Fixed for FDev U17"
+      "changelog":"- New option to turn off some spotlights"
    },
    {
       "mod_name":"FSS-Overlay",
