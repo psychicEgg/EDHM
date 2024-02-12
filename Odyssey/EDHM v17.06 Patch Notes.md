@@ -1,10 +1,14 @@
-## EDHM 17.00, 17.01, 17.02, 17.03, 17.04, 17.05 Patch Notes
+## EDHM 17.00, 17.01, 17.02, 17.03, 17.04, 17.05, 17.06 Patch Notes
 
 **:: NEW ::**
 
 -- Ready for FDev Update 17.01 --
 
 - Fixed SRV turret losing its custom colors in some circumstances
+
+- Fixed Elite Default Loading Holo
+
+- Fixed Elite Default Red Bar
 
 
 **:: Previous versions ::**
