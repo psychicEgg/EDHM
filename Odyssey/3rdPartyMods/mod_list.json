@@ -48,9 +48,9 @@
       "mod_name":"Thick Orbit Lines Mod",
       "description":"This mod allows to increase the glow and width of the orbit lines.",
       "author":"psychicEgg",
-      "mod_version":"1.17.0",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_U17_v1.17.0_with_AMD_Fix.zip",
+      "mod_version":"1.17.1",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_U17_v1.17.1_with_AMD_Fix.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/thumbnail.png",
-      "changelog":"- Fixed for FDev U17"
+      "changelog":"- Added a fix for orbit lines for Linux users with an AMD RX6000 series by MrVaad"
    }
 ]

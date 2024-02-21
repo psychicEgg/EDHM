@@ -1,7 +1,9 @@
-# Thick Orbit Lines Mod v1.17.0 for Odyssey FDev Update 17.00
+# Thick Orbit Lines Mod v1.17.1 for Odyssey FDev Update 17.01 (includes Fix for AMD Graphics Card by MrVaad)
 
 **:: Release Notes ::**
-- Fixed for FDev U17.00
+- Ready for FDev U17.01
+
+- Added a fix for orbit lines for Linux users with an AMD RX6000 series by MrVaad
 
 Ever wanted to make your orbit lines thicc? 
 
