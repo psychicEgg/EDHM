@@ -1,4 +1,12 @@
-## :: Black Deep-Space Mod (Alpha Prototype 0.1) ::
+# Black Deep-Space Mod v0.1 (Alpha Prototype) for Elite Dangerous 4.0 Update 17.01
+
+### by psychicEgg<br><br>
+
+**-- Ready for FDev U17.01 --**<br><br>
+
+-------------------------------------------------------------------------
+
+**Description:**
 
 This is a mod to reduce the deep space fog, and adjust the overall brightness of the fog elements, which include the galactic core and nebulae - they're all made of the same stuff / texture.
 
@@ -43,10 +51,11 @@ This is a prototype release and needs to be installed manually (not via the UI y
 - Exit Elite (important!)
 
 - Delete 5c48a94ae73b9158-ps.txt  from the ShaderFixes folder
-- Delete BlackDeepSpace.ini  from the EDHM-ini/3rdPartyMods folder
+- Delete BlackDeepSpace.ini  from the EDHM-ini/3rdPartyMods folder<br>
 
+-------------------------------------------------------------------------
 
-**Please note:** I have fully commented the shader file. If you can improve the algorithm then please let me know as I'm still a noob at this, thanks!
+**I have fully commented the shader file. If you can improve the algorithm then please let me know as I'm still a noob at this, thanks!**
 
 Video (you'll need to view it on a PC monitor in a semi-dark environemnt to fully appreciate the fog reduction):
 

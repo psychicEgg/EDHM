@@ -1,10 +1,14 @@
-# EDHM Cockpit Paint Mod (CPM)
+# EDHM Cockpit Paint Mod (CPM) for Elite Dangerous 4.0 Update 17.01
 
-**UPDATE:** CPM v5.0 (October 17, 2023; FDev U17.00) is now available!
-Compatible with FDev U17.01
+### by psychicEgg<br><br>
 
-v5.0.1 : Fix Round Lights Option for Vulture in EDHM_UI
-v5.0.0 : Fixed for FDev Update 17.00
+**-- Ready for FDev U17.01 --**<br><br>
+
+**Release Notes:**
+- v5.0.1 : Fix Round Lights Option for Vulture in EDHM_UI
+- v5.0.0 : Fixed for FDev Update 17.00
+
+-------------------------------------------------------------------------
 
 I'm currently making a video guide, but in the meantime please follow the [CPM Guide](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/CPM-Guide.md)
 

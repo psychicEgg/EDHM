@@ -1,7 +1,7 @@
 [
    {
       "mod_name":"Enhanced Biome Overlay",
-      "description":"This mod makes more visible the most interesting places for exobiology.",
+      "description":"This Mod changes the color of the Perfect Biome to easily identify it. For Elite Dangerous 4.0 U17.01. v1.17.0",
       "author":"psychicEgg",
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_U17_v1.17.0.zip",
@@ -10,7 +10,7 @@
    },
    {
       "mod_name":"Clean Screenshots Mod",
-      "description":"This mod hides exterior holograms, some spotlights and wheel tracks while taking a screenshot.",
+      "description":"This Mod Controls the Ship Holograms. For Elite Dangerous 4.0 U17.01. v1.17.1",
       "author":"CMDR FRED89210",
       "mod_version":"1.17.1",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshots_Mod_U17_v1.17.1.zip",
@@ -19,7 +19,7 @@
    },
    {
       "mod_name":"FSS-Overlay",
-      "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies.",
+      "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.0 U17.01. v1.17.0",
       "author":"psychicEgg and Parduz",
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_U17_v1.17.0.zip",
@@ -28,7 +28,7 @@
    },
    {
       "mod_name":"Fuel Scooping Stars Mod",
-      "description":"This mod allows to display the scoopable stars of a single color in order to recognize it easily.",
+      "description":"This Mod allows to display the Scoopable Stars of a Single Color in order to recognize it easily. For Elite Dangerous 4.0 U17.01. v1.17.0",
       "author":"CMDR FRED89210",
       "mod_version":"1.17.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_U17_v1.17.0.zip",
@@ -37,7 +37,7 @@
    },
    {
     "mod_name":"Odyssey Key Bindings",
-    "description":"This Controls the Key bindings for the Odyssey Version.",
+    "description":"This Controls the Key bindings for Elite Dangerous 4.0.",
     "author":"Blue Mystic",
     "mod_version": "2.0.0",  
     "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/KeyBindings/KeyBindings_v2.0.zip",
@@ -46,7 +46,7 @@
    },
    {
       "mod_name":"Thick Orbit Lines Mod",
-      "description":"This mod allows to increase the glow and width of the orbit lines.",
+      "description":"This Mod controls the Glow and Thickness of the Orbit / Gravity Well / Exclusion Zone Lines. For Elite Dangerous 4.0 U17.01. v1.17.1",
       "author":"psychicEgg",
       "mod_version":"1.17.1",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_U17_v1.17.1_with_AMD_Fix.zip",

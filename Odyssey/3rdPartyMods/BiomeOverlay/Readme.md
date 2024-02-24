@@ -1,21 +1,53 @@
-# Enhanced Biome Overlay v1.17.0 for Elite Dangerous 4.0 Update 17.00
+# Enhanced Biome Overlay v1.17.0 for Elite Dangerous 4.0 Update 17.01
 
-**Fixed for FDev U17.00**
+### by psychicEgg
+*Maintained by CMDR Fred89210*<br><br>
 
-Since the release of Odyssey I've received many requests for a mod of the Biome Overlay. The default overlay has a background of blue, and a biome target colour of slightly more greeny-blue - it's not surprising it can be very difficult to distinguish between the two layers, especially for CMDRs with visual difficulties
+**-- Ready for FDev U17.01 --**<br><br>
+
+**Release Notes:**
+- Fixed for FDev Update 17
+
+-------------------------------------------------------------------------
+
+**Description:**
+
+Since the release of Odyssey I've received many requests for a Mod of the Biome Overlay.
+
+The Default Overlay has a Background of Blue, and a Biome Target colour of slightly more Greeny-Blue - it's not surprising it can be very difficult to distinguish between the two layers, especially for CMDRs with visual difficulties.<br><br>
 
 **The options are quite basic:**
 - Elite Default
-- Custom target colour (choose your own colour for the target biome layer)
-- Custom target colour plus visible terrain (the blue background is turned off. Makes it easier to find an area to land with adequate light)
+- Method 1: Custom Target Colour (Choose your own colour for the Target Biome Layer)
+- Method 2: Custom Target Colour plus visible terrain (The Blue Background is turned off. Makes it easier to find an area to land with adequate light.)
 
-There's also an optional keybind to cycle through the overlay modes. Sometimes it can be easier to see the biome in Mode 1, then use Mode 2 to choose your landing spot
+There's also an optional keybind to cycle through the overlay modes. Sometimes it can be easier to see the biome in Method 1, then use Method 2 to choose your landing spot.<br>
 
-Note: It's impossible to have a different colour for each type of biome as the shader doesn't receive that information
+-------------------------------------------------------------------------
 
-This is a particularly difficult mod, so please report any bugs to the [EDHM Discord](https://discord.gg/MtBszksjMr), thank you
+**IMPORTANT INFORMATION:**
 
-**I've commented the shader files in case anyone would like to expand on the mod (or fix it faster than I can after the next update 🙂)**
+It's important to note that not all planets have a Perfect Biome, in which case the custom color will not appear, you will only see the Original Blue.<br><br>
+
+**Note:** It's impossible to have a different colour for each type of Biome as the shader doesn't receive that information.<br>
+
+-------------------------------------------------------------------------
+
+**How to use:**
+
+With EDHM_UI:
+
+Go to `Main Menu -> 3PMods -> Enhanced Biome Overlay`. Here you can adjust the mod.
+
+Without EDHM_UI:
+
+Edit `BiomeOverlay.ini`.
+
+-------------------------------------------------------------------------
+
+This is a particularly difficult mod, so please report any bugs to the [EDHM Discord](https://discord.gg/MtBszksjMr), thank you.
+
+**I've commented the shader files in case anyone would like to expand on the mod (or fix it faster than I can after the next update 🙂).**<br>
 
 ![Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/BiomeOverlay/BiomeOverlay.jpg?raw=true)
 
