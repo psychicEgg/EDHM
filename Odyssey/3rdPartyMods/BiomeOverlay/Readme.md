@@ -1,12 +1,12 @@
-# Enhanced Biome Overlay v1.17.0 for Elite Dangerous 4.0 Update 17.01
+# Enhanced Biome Overlay v1.18.0 for Elite Dangerous 4.0 Update 18.00
 
 ### by psychicEgg
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Ready for FDev U17.01 --**<br><br>
+**-- Ready for FDev U18.00 --**<br><br>
 
 **Release Notes:**
-- Fixed for FDev Update 17
+- Fixed for FDev Update 18
 
 -------------------------------------------------------------------------
 

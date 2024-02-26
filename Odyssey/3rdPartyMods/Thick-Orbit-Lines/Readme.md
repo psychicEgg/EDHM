@@ -1,9 +1,9 @@
-# Thick Orbit Lines Mod v1.17.1 for Elite Dangerous 4.0 Update 17.01 (includes Fix for AMD Graphics Card by MrVaad)
+# Thick Orbit Lines Mod v1.18.0 for Elite Dangerous 4.0 Update 18.00 (includes Fix for AMD Graphics Card by MrVaad)
 
 ### by psychicEgg
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Ready for FDev U17.01 --**<br><br>
+**-- Ready for FDev U18.00 --**<br><br>
 
 **Release Notes:**
 - Added a fix for Orbit Lines for Linux users with an AMD RX6000 series. Fix by MrVaad.
