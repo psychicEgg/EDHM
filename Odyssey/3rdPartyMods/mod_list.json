@@ -45,6 +45,15 @@
     "changelog": "",
    },
    {
+    "mod_name":"Odyssey Light Night Mod",
+    "description":"This Mod Controls the Light Reflection. For Elite Dangerous 4.0 U18.00. v0.01.71",
+    "author":"CMDR R^L",
+    "mod_version": "0.01.71",  
+    "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/Light_Night_v0.01.71.zip",
+    "thumbnail_url": "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/thumbnail.png",
+    "changelog": "- Ready for FDev U18",
+   },
+   {
       "mod_name":"Thick Orbit Lines Mod",
       "description":"This Mod controls the Glow and Thickness of the Orbit / Gravity Well / Exclusion Zone Lines. For Elite Dangerous 4.0 U18.00. v1.18.0",
       "author":"psychicEgg",

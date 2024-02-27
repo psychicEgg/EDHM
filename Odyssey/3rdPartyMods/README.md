@@ -8,6 +8,7 @@ Current 3PMs available:
 - Cockpit Paint Mod (Needs to be updated for FDev U18.00)
 - FSS Overlay (Ready for FDev U18.00)
 - Fuel Scooping Stars Mod (Ready for FDev U18.00)
+- Light Night Mod (Ready for FDev U18.00)
 - Thick Orbit Lines (Ready for FDev U18.00)
 <br>
 
