@@ -1,6 +1,6 @@
 # Cockpit Paint Mod (CPM) Guide
 
-### Current CPM version: v5.0.1
+### Current CPM version: v3.18.0
 <br>
 
 > **Update** I’m making a step-by-step instruction video for the CPM, but since that might take a while here’s a basic guide to get you going. If you have any questions, my contact details are at the bottom of this document. PS. I will be adding screenshots to this guide

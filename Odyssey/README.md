@@ -13,7 +13,7 @@ For more information, please see my posts on the Frontier Forums: the [Main EDHM
 
 Moving forward, I have entrusted the entire source code to the dedicated EDHM Discord team, whom I've known for a long time. I hope they will continue to update EDHM and keep it running smoothly. As I can no longer provide support for the mod, I recommend you join the [EDHM Discord](https://discord.gg/MtBszksjMr) if you have any questions or concerns.
 
-For any UI-related issues, please seek out **Blue Mystic**, and for mod updates, reach out to **Rico Brzenska** (she/her).
+For any UI-related issues, please seek out **Blue Mystic** (EDHM UI admin), and for mod updates, reach out to **CMDR Fred89210** (Chief Modder) or **Rico Brzenska** (Theme modder; she/her).
 
 Thank you for all your support, and good hunting CMDRs!
 
