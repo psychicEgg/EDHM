@@ -44,4 +44,4 @@ If the desired mod does not appear in the EDHM_UI list, follow the instructions 
  
 -------------------------------------------------------------------------
 
-For support with 3PMs, please join the [EDHM Discord](https://discord.gg/MtBszksjMr) as I cannot provide support here, thanks.
+For support with 3PMs, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) as I cannot provide support here, thanks.

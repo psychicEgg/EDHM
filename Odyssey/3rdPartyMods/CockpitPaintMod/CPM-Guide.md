@@ -7,7 +7,7 @@
 
 <br>The CPM is an addon (3rd party mod) for EDHM, so it is assumed you have [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases) installed and working.
 
-If you need help setting up EDHM UI, please contact the **UI Dev Blue Mystic** via his GitHub, or on the [EDHM Discord](https://discord.gg/MtBszksjMr). 
+If you need help setting up EDHM UI, please contact the **UI Dev Blue Mystic** via his GitHub, or on the [EDHM Discord](https://discord.gg/KTYgJegfYw). 
 
 I (*psychicEgg*) look after the modding part, so I'm not an expert with troubleshooting UI issues.<br><br>
 
@@ -236,7 +236,7 @@ If you have trouble making a thumbnail, you’re welcome to send me your screens
 
 ## Contact / Feedback / Bug Reports
 
-If you’re on the [EDHM Discord](https://discord.gg/MtBszksjMr), you can post in the #cockpit-paint-beta channel
+If you’re on the [EDHM Discord](https://discord.gg/KTYgJegfYw), you can post in the #cockpit-paint-beta channel
 
 Or you can send me a Discord PM: psychicEgg#9971
 

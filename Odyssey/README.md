@@ -11,7 +11,7 @@ HUGE Thank you to CMDRs Fred89210 for keeping EDHM alive! Expect updates via [ED
 
 For more information, please see my posts on the Frontier Forums: the [Main EDHM thread](https://forums.frontier.co.uk/threads/elite-dangerous-hud-mod-edhm.557033/) and [my retirement post](https://forums.frontier.co.uk/threads/cmdrs-it-has-been-a-privilege.615656/).
 
-Moving forward, I have entrusted the entire source code to the dedicated EDHM Discord team, whom I've known for a long time. I hope they will continue to update EDHM and keep it running smoothly. As I can no longer provide support for the mod, I recommend you join the [EDHM Discord](https://discord.gg/MtBszksjMr) if you have any questions or concerns.
+Moving forward, I have entrusted the entire source code to the dedicated EDHM Discord team, whom I've known for a long time. I hope they will continue to update EDHM and keep it running smoothly. As I can no longer provide support for the mod, I recommend you join the [EDHM Discord](https://discord.gg/KTYgJegfYw) if you have any questions or concerns.
 
 For any UI-related issues, please seek out **Blue Mystic** (EDHM UI admin), and for mod updates, reach out to **CMDR Fred89210** (Chief Modder) or **Rico Brzenska** (Theme modder; she/her).
 
@@ -34,9 +34,9 @@ Please note: EDHM UI will install both the mod **and** the UI, you don't need to
 
 [EDHM UI Installation Guide](https://bluemystical.github.io/edhm-api/)
 
-As EDHM for Odyssey is still in development, I recommend you join us on the [EDHM Discord](https://discord.gg/MtBszksjMr) where you can find the latest updates, new player-created themes, and general support
+As EDHM for Odyssey is still in development, I recommend you join us on the [EDHM Discord](https://discord.gg/KTYgJegfYw) where you can find the latest updates, new player-created themes, and general support
 
 -------------------------------------------------------------------------
 #### 3rd Party Mods (addons) for Elite Dangerous 4.0
 
-Please click on the 3rdPartyMods folder above, or download from the [EDHM Discord](https://discord.gg/MtBszksjMr) (recommended, so you can receive support with installation and configuring the options)
+Please click on the 3rdPartyMods folder above, or download from the [EDHM Discord](https://discord.gg/KTYgJegfYw) (recommended, so you can receive support with installation and configuring the options)

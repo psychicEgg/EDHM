@@ -53,7 +53,7 @@ Edit `CleanScreenshots.ini` and change the line `Key =no_modifiers F5`, `Key = S
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the Clean Screenshots Mod, contact:
-- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/MtBszksjMr)<br>
+- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
 ![Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/CleanScreenshot-Preview-1.jpg?raw=true)
 

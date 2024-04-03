@@ -31,4 +31,4 @@ Edit `Keybindings.ini`.
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the Odyssey Key Bindings, contact:
-- Blue Mystic on the [EDHM Discord](https://discord.gg/MtBszksjMr)
+- Blue Mystic on the [EDHM Discord](https://discord.gg/KTYgJegfYw)

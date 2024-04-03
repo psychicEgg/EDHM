@@ -42,7 +42,7 @@ Edit `FSStarsMod.ini.ini`.
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the Clean Screenshots Mod, contact:
-- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/MtBszksjMr)<br>
+- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
 ![FS-Stars-Mod-1](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/Scoop-Stars-Mod-1.jpg?raw=true)
 

@@ -42,6 +42,6 @@ Edit `lightnight.ini` and change the line `Key =no_modifiers F5`.
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the Odyssey Light Night Mod, contact:
-- CMDR R^L on the [EDHM Discord](https://discord.gg/MtBszksjMr)<br>
+- CMDR R^L on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
 ![Odyssey Light Night](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/LightNight/LightNight_Preview.png?raw=true)

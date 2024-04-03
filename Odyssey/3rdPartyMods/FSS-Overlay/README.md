@@ -23,7 +23,7 @@ The FSS Overlay mod adds an informational overlay on top of the Filtered Spectra
 
 The Mod offers several excellent Overlays created by the community.
 
-Don't hesitate to tell us on our [Discord](https://discord.gg/MtBszksjMr) if you want to design your own overlay and we will help you integrate it into the Mod.<br>
+Don't hesitate to tell us on our [Discord](https://discord.gg/KTYgJegfYw) if you want to design your own overlay and we will help you integrate it into the Mod.<br>
 
 -------------------------------------------------------------------------
 

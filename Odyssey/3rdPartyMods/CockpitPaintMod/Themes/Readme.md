@@ -16,7 +16,7 @@ Discord: psychicEgg#9971
 
 Gmail: EDHudMod
 
-or post it on the [EDHM Discord](https://discord.gg/MtBszksjMr) in the #CPM-themes channel
+or post it on the [EDHM Discord](https://discord.gg/KTYgJegfYw) in the #CPM-themes channel
 
 I look forward to seeing your creations!
 

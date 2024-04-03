@@ -45,7 +45,7 @@ Edit `BiomeOverlay.ini`.
 
 -------------------------------------------------------------------------
 
-This is a particularly difficult mod, so please report any bugs to the [EDHM Discord](https://discord.gg/MtBszksjMr), thank you.
+This is a particularly difficult mod, so please report any bugs to the [EDHM Discord](https://discord.gg/KTYgJegfYw), thank you.
 
 **I've commented the shader files in case anyone would like to expand on the mod (or fix it faster than I can after the next update 🙂).**<br>
 
