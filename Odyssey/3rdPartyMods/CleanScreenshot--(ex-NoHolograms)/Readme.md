@@ -1,11 +1,11 @@
-# Clean Screenshots Mod v1.18.0 for Elite Dangerous 4.0 Update 18.00  (ex No Holograms Mod)
+# Clean Screenshots Mod v1.18.1 for Elite Dangerous 4.0 Update 18.02  (ex No Holograms Mod)
 
 ### by CMDR Fred89210<br><br>
 
-**-- Fixed for FDev U18.00 --**<br><br>
+**-- Ready for FDev U18.02 --**<br><br>
 
 **Release Notes:**
-- Fixed for FDev Update 18
+- Added Emergency Only Holograms
 
 - New option to turn off some spotlights
 - Fixed "Show Mod Status In Game"
