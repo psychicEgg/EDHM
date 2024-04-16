@@ -1,8 +1,10 @@
-## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06 Patch Notes
+## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06, 18.07 Patch Notes
 
 **:: NEW ::**
 
 -- Ready for FDev Update 18.02 --
+
+- Lighting Shader modification to reactivate the Lighting Brightness option and to Reduce Contamination when using the External Camera
 
 - Added an option to restore the Blue color of Gas Giant icons in the FSS (FSS colors have been changed by FDev with U18.02) (y100)
 
