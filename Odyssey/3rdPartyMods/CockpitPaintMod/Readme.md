@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- Ready for FDev U18.02 --**<br><br>
+**-- Needs to be fixed to work with FDev U18.04 --**<br><br>
 
 **-- First Fix for FDev U18.01 --**<br><br>
 

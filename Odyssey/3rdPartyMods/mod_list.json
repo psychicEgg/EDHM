@@ -6,7 +6,7 @@
       "mod_version":"1.18.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_U18_v1.18.0.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/thumbnail.png",
-      "changelog":"- Ready for FDev U18.02"
+      "changelog":"- Ready for FDev U18.04"
    },
    {
       "mod_name":"Clean Screenshots Mod",
@@ -15,7 +15,7 @@
       "mod_version":"1.18.1",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshots_Mod_U18_v1.18.1.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/thumbnail.png",
-      "changelog":"- Added Emergency Only Holograms"
+      "changelog":"- Ready for FDev U18.04"
    },
    {
       "mod_name":"FSS-Overlay",
@@ -24,7 +24,7 @@
       "mod_version":"1.18.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_U18_v1.18.0.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/thumbnail.png",
-      "changelog":"- Ready for FDev U18.02"
+      "changelog":"- Ready for FDev U18.04"
    },
    {
       "mod_name":"Fuel Scooping Stars Mod",
@@ -33,7 +33,7 @@
       "mod_version":"1.18.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_U18_v1.18.0.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/thumbnail.png",
-      "changelog":"- Ready for FDev U18.02"
+      "changelog":"- Ready for FDev U18.04"
    },
    {
     "mod_name":"Odyssey Key Bindings",
@@ -51,7 +51,7 @@
     "mod_version": "0.01.71",  
     "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/Light_Night_v0.01.71.zip",
     "thumbnail_url": "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/thumbnail.png",
-    "changelog": "- Ready for FDev U18.02",
+    "changelog": "- Ready for FDev U18.04",
    },
    {
       "mod_name":"Thick Orbit Lines Mod",
@@ -60,6 +60,6 @@
       "mod_version":"1.18.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_U18_v1.18.0_with_AMD_Fix.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/thumbnail.png",
-      "changelog":"- Ready for FDev U18.02\n- Added a fix for orbit lines for Linux users with an AMD RX6000 series by MrVaad"
+      "changelog":"- Ready for FDev U18.04\n- Added a fix for orbit lines for Linux users with an AMD RX6000 series by MrVaad"
    }
 ]
