@@ -49,4 +49,5 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | SLF - XG7 Trident    | ✗      | 44              |
 | SLF - XG8 Javelin    | ✗      | 45              |
 | SLF - XG9 Lance      | ✗      | 46              |
+| Python MK II         | ✗      | 47              |
 

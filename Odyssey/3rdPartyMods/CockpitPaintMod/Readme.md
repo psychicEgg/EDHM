@@ -1,12 +1,11 @@
-# EDHM Cockpit Paint Mod (CPM) for Elite Dangerous 4.0 Update 18.02
+# EDHM Cockpit Paint Mod (CPM) for Elite Dangerous 4.0 Update 18.04
 
 ### by psychicEgg<br><br>
 
-**-- Needs to be fixed to work with FDev U18.04 --**<br><br>
-
-**-- First Fix for FDev U18.01 --**<br><br>
+**-- Fixed for FDev U18.04 --**<br><br>
 
 **Release Notes:**
+- v3.18.1 : Fix for FDev U18.04
 - v3.18.0 : First Fix for FDev U18.01
 - v3.18.0 : Added Yellow Mamba Handlebars
 - v3.18.0 : Fix Round Lights Option for Vulture in EDHM_UI
