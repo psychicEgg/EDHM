@@ -1,8 +1,8 @@
-# EDHM Cockpit Paint Mod (CPM) for Elite Dangerous 4.0 Update 18.04
+# EDHM Cockpit Paint Mod (CPM) for Elite Dangerous 4.0 Update 18.05
 
 ### by psychicEgg<br><br>
 
-**-- Fixed for FDev U18.04 --**<br><br>
+**-- Ready for FDev U18.05 --**<br><br>
 
 **Release Notes:**
 - v3.18.1 : Fix for FDev U18.04

@@ -1,8 +1,8 @@
-## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06, 18.07, 18.08 Patch Notes
+## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06, 18.07, 18.08, 18.09 Patch Notes
 
 **:: NEW ::**
 
--- Fixed for FDev Update 18.04 --
+-- Fixed for FDev Update 18.05 --
 
 
 **:: Previous versions ::**
