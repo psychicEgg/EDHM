@@ -1,8 +1,12 @@
-## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06, 18.07, 18.08, 18.09 Patch Notes
+## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06, 18.07, 18.08, 18.09, 18.10 Patch Notes
 
 **:: NEW ::**
 
--- Fixed for FDev Update 18.05 --
+-- Ready for FDev Update 18.06 --
+
+- Added an option to choose FSS Mission Icons and Arrows Color Mode (XML or Same as Mission Panel Color)
+
+- Fix Missile Lock Contamination
 
 
 **:: Previous versions ::**
