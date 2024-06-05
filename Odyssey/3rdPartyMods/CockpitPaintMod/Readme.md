@@ -2,9 +2,10 @@
 
 ### by psychicEgg<br><br>
 
-**-- Ready for FDev U18.06 --**<br><br>
+**-- Fixed for FDev U18.06 --**<br><br>
 
 **Release Notes:**
+- v3.18.2 : Fix for FDev U18.06 (Anaconda, Krait Phantom, Imperial Clipper)
 - v3.18.1 : Fix for FDev U18.04
 - v3.18.0 : First Fix for FDev U18.01
 - v3.18.0 : Added Yellow Mamba Handlebars

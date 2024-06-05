@@ -5,7 +5,7 @@
 Current 3PMs available:
 - Enhanced Biome Overlay (Ready for FDev U18.06)
 - Clean Screenshot Mod (Ready for FDev U18.06)
-- Cockpit Paint Mod (Ready for FDev U18.06)
+- Cockpit Paint Mod (Fixed for FDev U18.06)
 - FSS Overlay (Ready for FDev U18.06)
 - Fuel Scooping Stars Mod (Ready for FDev U18.06)
 - KeyBindings (Ready for FDev U18.06)
