@@ -1,8 +1,10 @@
-## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06, 18.07, 18.08, 18.09, 18.10, 18.11 Patch Notes
+## EDHM 18.00, 18.01, 18.02, 18.03, 18.04, 18.05, 18.06, 18.07, 18.08, 18.09, 18.10, 18.11, 18.12 Patch Notes
 
 **:: NEW ::**
 
 -- Ready for FDev Update 18.06 --
+
+- v18.12: Fix an issue that could cause Target Ship Text to flicker when Other Ship Target Elements was set to Use Radar Colors.
 
 - NEW: Add an option to Synchronize the Color of Friendly, Hostiles, and Crew Targets on the Radar with the Color of the Selection Elements of these Targets (Rhombus, Triple Triangles, Text,...). (x112)
 
