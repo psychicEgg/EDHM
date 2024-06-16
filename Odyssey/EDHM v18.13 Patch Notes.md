@@ -12,6 +12,7 @@
 - Using the XML matrix to Color Orange Mining Symbols.
 - Fix Thargoid Radar Circle and Thargoid Holograms before they are on Alert.
 - Fix Glitched Radar in some situations.
+- Various Fixes
 
 -------------------------------------------------------------------------
 
