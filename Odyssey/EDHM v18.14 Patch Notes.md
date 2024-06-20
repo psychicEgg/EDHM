@@ -1,8 +1,25 @@
-## EDHM 18.00 to 18.13 Patch Notes
+## EDHM 18.00 to 18.14 Patch Notes
 
 ### -- Ready for FDev U18.06 --<br><br>
 
 **Release Notes:**
+- Improved Color Consistency for Ship Sketches & Drawings. (w78)
+  - Examples:
+    - In Contacts Tab, Ships and Stations will now have the same Color.
+    - SRVs and Fighters will also use the same Color.
+- All Commodities Icons will use XML Color. (Some didn't take XML and this created an inconsistency)
+- On Foot Device Enable/Disable Screens (like Power Generator) now use XML color.
+- All On Foot NPC Grades Icons now use XML.
+- Thargoid Radar Circles Brightness Improvement (with Radar in Custom Color or XML Mode).
+- Fixed Leading Circle not changing color in XML mode. (xyz59)
+- Color Filter now works on all 4 image buttons in Pioneer Supplies (before it was only applied to 2 buttons). (w81)
+- Damaged/Repairing Station & Engineer Icons could appear in an abnormally Dark Custom Color. (z84 & x111)
+- Fixed Middle Panel Avatar Option. (y157)
+- Fixed some Orange Icons.
+
+-------------------------------------------------------------------------
+
+**EDHM v18.13:**
 - Add an option to Choose the Color of the Cargo Scoop Reticle and Adjust its Brightness.
 - Add an option to Change the Color of Mining Mini Games. The Custom Color will be used to replace the Orange Part, Other Parts will use XML Matrix.
 - Add an option to Extend the On Foot HUD Opacity setting (w31) to Other On Foot Elements like Dialogue Windows or Nameplates. (x157)
