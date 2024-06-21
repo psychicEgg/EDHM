@@ -28,12 +28,12 @@
    },
    {
       "mod_name":"Fuel Scooping Stars Mod",
-      "description":"This Mod allows to display the Scoopable Stars of a Single Color in order to recognize it easily. For Elite Dangerous 4.0 U18.06. v1.18.0",
+      "description":"This Mod allows to display the Scoopable Stars of a Single Color in order to recognize it easily. For Elite Dangerous 4.0 U18.06. v1.18.1",
       "author":"CMDR FRED89210",
-      "mod_version":"1.18.0",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_U18_v1.18.0.zip",
+      "mod_version":"1.18.1",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_U18_v1.18.1.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/thumbnail.png",
-      "changelog":"- Ready for FDev U18.06"
+      "changelog":"- Update Required for Future Versions of EDHM"
    },
    {
     "mod_name":"Odyssey Key Bindings",
