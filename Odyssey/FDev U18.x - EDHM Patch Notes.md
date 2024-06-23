@@ -1,8 +1,13 @@
-## EDHM 18.00 to 18.14 Patch Notes
+## EDHM 18.00 to 18.15 Patch Notes
 
 ### -- Ready for FDev U18.06 --<br><br>
 
-**Release Notes:**
+**EDHM v18.15:**
+- No More Orange on Rebuy Screen
+
+-------------------------------------------------------------------------
+
+**EDHM v18.14:**
 - Improved Color Consistency for Ship Sketches & Drawings. (w78)
   - Examples:
     - In Contacts Tab, Ships and Stations will now have the same Color.
