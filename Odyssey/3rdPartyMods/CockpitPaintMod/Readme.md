@@ -5,6 +5,7 @@
 **-- Fixed for FDev U18.06 --**<br><br>
 
 **Release Notes:**
+- v3.18.3 : Fix for Station Lighting Contamination Issue
 - v3.18.2 : Fix for FDev U18.06 (Anaconda, Krait Phantom, Imperial Clipper)
 - v3.18.1 : Fix for FDev U18.04
 - v3.18.0 : First Fix for FDev U18.01
