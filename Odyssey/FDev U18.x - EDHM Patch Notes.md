@@ -1,6 +1,13 @@
-## EDHM 18.00 to 18.15 Patch Notes
+## EDHM 18.00 to 18.16 Patch Notes
 
-### -- Ready for FDev U18.06 --<br><br>
+### -- Ready for FDev U18.07 --<br><br>
+
+**EDHM v18.16:**
+- Fix for FDev Update 18.07
+  - Fix Some Orange
+  - Fixe Orbit Lines
+
+-------------------------------------------------------------------------
 
 **EDHM v18.15:**
 - No More Orange on Rebuy Screen

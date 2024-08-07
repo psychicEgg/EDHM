@@ -3,7 +3,7 @@
 ### by psychicEgg
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Ready for FDev U18.06 --**<br><br>
+**-- Not Compatible with FDev U18.07 --**<br><br>
 
 **Release Notes:**
 - Added a fix for Orbit Lines for Linux users with an AMD RX6000 series. Fix by MrVaad.
