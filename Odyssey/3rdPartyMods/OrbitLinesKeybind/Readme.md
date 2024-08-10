@@ -1,8 +1,8 @@
-# Orbit Lines Keybind v0.01.0 for Elite Dangerous 4.0 Update 18.07
+# Orbit Lines Keybind v0.01.0 for Elite Dangerous 4.0 Update 18.08
 
 ### by CMDR Fred89210<br><br>
 
-**-- NEW for FDev U18.07 --**<br><br>
+**-- NEW for FDev U18.08 --**<br><br>
 
 **Release Notes:**
 - Initial Release
@@ -23,7 +23,7 @@ This mod will be removed when FDev has resolved the issue.<br>
 
 -------------------------------------------------------------------------
 
-FDev U18.07 Update has made changes to Orbit Lines, making them thicker to reduce the hatching effect.
+FDev U18.08 Update has made changes to Orbit Lines, making them thicker to reduce the hatching effect.
 
 Due to these changes, the Thick Orbit Lines Mod no longer works, and an update will be necessary when it becomes available.
 
@@ -49,5 +49,3 @@ Edit `OrbitLinesKeybind.ini` and change the line `NUMPAD0`.
 
 To say thanks or provide feedback about the No Message Box Mod, contact:
 - CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
-
-![No Message Box Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/NoMessageBox/NoMessageBox-Preview.jpg?raw=true)

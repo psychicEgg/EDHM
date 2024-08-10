@@ -1,13 +1,13 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT 7 August 2024:** New Version of EDHM for Odyssey for FDev U18.07!
+**ALERT 7 August 2024:** New Version of EDHM for Odyssey for FDev U18.08!
 
 HUGE Thank you to CMDRs Fred89210 for keeping EDHM alive! Expect updates via [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases/latest).
 
 -------------------------------------------------------------------------
 
-FDev U18.07 Update has made changes to Orbit Lines, making them thicker to reduce the hatching effect.
+FDev U18.08 Update has made changes to Orbit Lines, making them thicker to reduce the hatching effect.
 
 Due to these changes, the Thick Orbit Lines Mod no longer works, and an update will be necessary when it becomes available.
 

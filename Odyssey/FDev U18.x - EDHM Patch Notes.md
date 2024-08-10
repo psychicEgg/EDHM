@@ -1,9 +1,9 @@
 ## EDHM 18.00 to 18.16 Patch Notes
 
-### -- Ready for FDev U18.07 --<br><br>
+### -- Ready for FDev U18.08 --<br><br>
 
 **EDHM v18.16:**
-- Fix for FDev Update 18.07
+- Fix for FDev Update 18.08
   - Fix Some Orange
   - Fixe Orbit Lines
 
