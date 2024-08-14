@@ -5,6 +5,7 @@
 **-- Ready for FDev U18.08 --**<br><br>
 
 **Release Notes:**
+- v3.18.5 : Fix New Titan Bobblehead
 - v3.18.3 : Fix for Station Lighting Contamination Issue
 - v3.18.2 : Fix for FDev U18.06 (Anaconda, Krait Phantom, Imperial Clipper)
 - v3.18.1 : Fix for FDev U18.04
