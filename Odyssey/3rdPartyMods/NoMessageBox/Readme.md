@@ -1,0 +1,39 @@
+# No Message Box Mod v0.04.0 beta for Elite Dangerous 4.0 Update 18.08
+
+### by CMDR Fred89210<br><br>
+
+**-- NEW for FDev U18.08 --**<br><br>
+
+**Release Notes:**
+- First Public Beta
+
+-------------------------------------------------------------------------
+
+**Description:**
+
+This Mod allows you to Hide the Message Boxes that appear in the Lower Right Corner, such as when Creating a Route.
+
+This Mod is in Beta Testing and could therefore cause unexpected behavior.
+
+If you encounter any issues with this mod, please contact me on the [EDHM Discord](https://discord.gg/KTYgJegfYw).
+
+Thanks to Alec Turner for testing this mod and for providing feedback that contributed to its development.<br>
+
+-------------------------------------------------------------------------
+
+**How to use:**
+
+With EDHM_UI:
+
+Go to `Main Menu -> 3PMods -> No Message Box Mod` and Enable/Disable Message Boxes or change the Key.<br><br>
+
+Without EDHM_UI:
+
+Edit `NoMessageBox.ini` and change the line `global $MessageBox =1` or `Key =0x8f`.
+
+-------------------------------------------------------------------------
+
+To say thanks or provide feedback about the No Message Box Mod, contact:
+- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
+
+![No Message Box Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/NoMessageBox/NoMessageBox-Preview.jpg?raw=true)

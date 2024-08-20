@@ -36,6 +36,15 @@
     "changelog":"- Update Required for Future Versions of EDHM"
    },
    {
+    "mod_name":"No Message Box Mod",
+    "description":"This Mod Controls the Message Boxes. For Elite Dangerous 4.0 U18.08. v0.04.0 beta",
+    "author":"CMDR FRED89210",
+    "mod_version": "0.04.0",  
+    "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_U18_v0.04.0_beta.zip",
+    "thumbnail_url": "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/thumbnail.png",
+    "changelog": "- NEW for FDev U18.08, First Public Beta",
+   },
+   {
     "mod_name":"Odyssey Key Bindings",
     "description":"This Controls the Key bindings for Elite Dangerous 4.0.",
     "author":"Blue Mystic",

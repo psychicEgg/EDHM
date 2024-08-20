@@ -10,6 +10,7 @@ Current 3PMs available:
 - Fuel Scooping Stars Mod (Ready for FDev U18.08)
 - KeyBindings (Ready for FDev U18.08)
 - Light Night Mod (Ready for FDev U18.08)
+- No Message Box Mod (NEW for FDev U18.08, First Public Beta)
 - Orbit Lines Keybind (NEW for FDev U18.08)
 - Thick Orbit Lines (Not Compatible with FDev U18.08)
 <br>
