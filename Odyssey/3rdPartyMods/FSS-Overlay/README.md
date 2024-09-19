@@ -1,12 +1,12 @@
-# FSS Overlay v1.18.1 for Elite Dangerous 4.0 Update 18.08
+# FSS Overlay v1.18.2 for Elite Dangerous 4.0 Update 18.09
 
 ### by psychicEgg and Parduz
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Ready for FDev U18.08 --**<br><br>
+**-- Fixed for FDev U18.09 --**<br><br>
 
 **Release Notes:**
-- Fixed for FDev Update 18
+- Fixed for FDev Update 18.09
 - Added Link to Overlay Previews
 
 **Previous versions:**

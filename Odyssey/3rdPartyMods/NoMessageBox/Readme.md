@@ -1,8 +1,8 @@
-# No Message Box Mod v0.04.0 beta for Elite Dangerous 4.0 Update 18.08
+# No Message Box Mod v0.04.0 beta for Elite Dangerous 4.0 Update 18.09
 
 ### by CMDR Fred89210<br><br>
 
-**-- NEW for FDev U18.08 --**<br><br>
+**-- NEW for FDev U18.09 --**<br><br>
 
 **Release Notes:**
 - First Public Beta

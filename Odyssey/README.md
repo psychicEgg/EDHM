@@ -1,22 +1,9 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT 20 August 2024:** EDHM for Odyssey is ready for FDev U18.08 !
+**ALERT 19 September 2024:** EDHM for Odyssey is ready for FDev U18.09 !
 
 HUGE Thank you to CMDRs Fred89210 for keeping EDHM alive! Expect updates via [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases/latest).
-
--------------------------------------------------------------------------
-
-FDev U18.08 Update has made changes to Orbit Lines, making them thicker to reduce the hatching effect.
-
-Due to these changes, the Thick Orbit Lines Mod no longer works, and an update will be necessary when it becomes available.
-
-Unfortunately, FDev has introduced a bug that causes Orbit Lines to not always be hidden correctly when disabled in-game (some visible lines on the screen when attempting to disable them are not hidden and start moving).
-The solution is to disable the lines when they are not visible, such as when in normal flight.
-
-Until FDev fixes this issue, I offer you a temporary 3PMod that allows you to use a keyboard shortcut to enable/disable the Orbit Lines Shader, which will effectively hide them without encountering this problem.
-
--------------------------------------------------------------------------
 
 ---
 

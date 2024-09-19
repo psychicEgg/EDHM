@@ -1,8 +1,8 @@
-# Fuel Scooping Stars Mod v1.18.1 for Elite Dangerous 4.0 Update 18.08
+# Fuel Scooping Stars Mod v1.18.1 for Elite Dangerous 4.0 Update 18.09
 
 ### by CMDR Fred89210<br><br>
 
-**-- Ready for FDev U18.08 --**<br><br>
+**-- Ready for FDev U18.09 --**<br><br>
 
 **Release Notes:**
 - Update Required for Future Versions of EDHM

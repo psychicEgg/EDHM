@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- Ready for FDev U18.08 --**<br><br>
+**-- Not Compatible with FDev U18.09 --**<br><br>
 
 **Release Notes:**
 - v3.18.5 : Fix New Titan Bobblehead

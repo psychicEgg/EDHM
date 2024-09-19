@@ -1,6 +1,11 @@
-## EDHM 18.00 to 18.17 Patch Notes
+## EDHM 18.00 to 18.18 Patch Notes
 
-### -- Ready for FDev U18.08 --<br><br>
+### -- Ready for FDev U18.09 --<br><br>
+
+**EDHM v18.18:**
+- Fix for FDev Update 18.09
+
+-------------------------------------------------------------------------
 
 **EDHM v18.17:**
 - Small Fix
