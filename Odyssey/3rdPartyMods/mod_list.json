@@ -64,11 +64,11 @@
    },
    {
     "mod_name":"Thick Orbit Lines Mod",
-    "description":"This Mod controls the Glow and Thickness of the Orbit / Gravity Well / Exclusion Zone Lines. v1.18.0 - NOT COMPATIBLE with FDev U18.09",
+    "description":"This Mod controls the Glow and Thickness of the Orbit / Gravity Well / Exclusion Zone Lines. v1.18.1 - BETA for FDev U18.09",
     "author":"psychicEgg",
-    "mod_version":"1.18.0",
+    "mod_version":"1.18.1",
     "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_U18.09_v1.18.1.zip",
     "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/thumbnail.png",
-    "changelog":"- NOT COMPATIBLE with FDev U18.09"
+    "changelog":"- Beta for FDev U18.09"
    }
 ]

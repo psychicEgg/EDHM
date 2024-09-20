@@ -11,7 +11,7 @@ Current 3PMs available:
 - KeyBindings (Ready for FDev U18.09)
 - Light Night Mod (Ready for FDev U18.09)
 - No Message Box Mod (NEW for FDev U18.09, First Public Beta)
-- Thick Orbit Lines (Not Compatible with FDev U18.09)
+- Thick Orbit Lines (Beta for FDev U18.09)
 <br>
 
 In development:
