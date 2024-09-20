@@ -31,11 +31,14 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Krait Mk II          | ✓      | 26              |
 | Krait Phantom        | ✓      | 27              |
 | Mamba                | ✓      | 28              |
+| Mandalay             | ✗      | 49              |
 | Orca                 | ✓      | 29              |
 | Python               | ✓      | 30              |
+| Python MK II         | ✗      | 47              |
 | Sidewinder           | ✓      | 31              |
 | Type-6 Transporter   | ✗      | 32              |
 | Type-7 Transporter   | ✗      | 33              |
+| Type-8 Transporter   | ✗      | 48              |
 | Type-9 Heavy         | ✓      | 34              |
 | Type-10 Defender     | ✓      | 35              |
 | Viper Mk III         | ✓      | 36              |
@@ -49,6 +52,3 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | SLF - XG7 Trident    | ✗      | 44              |
 | SLF - XG8 Javelin    | ✗      | 45              |
 | SLF - XG9 Lance      | ✗      | 46              |
-| Python MK II         | ✗      | 47              |
-| Type-8 Transporter   | ✗      | 48              |
-
