@@ -15,7 +15,7 @@ I (*psychicEgg*) look after the modding part, so I'm not an expert with troubles
 
 1.	**Exit Elite**. This is very important as we are adding new shaders
 
-2.	Download the [CPM zip file](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CockpitPaintMod/EDHM-CPM-v3.02.zip), and save the file somewhere you’ll be able to find it (eg. the Desktop or Downloads folder). The current version of the CPM contains 28 ships (see [ShipList.md](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/ShipList.md))
+2.	Download the CPM zip file, and save the file somewhere you’ll be able to find it (eg. the Desktop or Downloads folder). The current version of the CPM contains 28 ships (see [ShipList.md](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CockpitPaintMod/ShipList.md))
 
 3.	In EDHM UI, click the Main Menu (top-left), and then click 3PMods (Plugins)
 
