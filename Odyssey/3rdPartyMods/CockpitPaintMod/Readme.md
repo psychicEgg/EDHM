@@ -5,6 +5,7 @@
 **-- Fixed for FDev U18.09 --**<br><br>
 
 **Release Notes:**
+- v3.18.7 : Fix Sugar Skulls Cockpit Light
 - v3.18.6 : Fix for FDev U18.09
 - v3.18.5 : Fix New Titan Bobblehead
 - v3.18.3 : Fix for Station Lighting Contamination Issue
