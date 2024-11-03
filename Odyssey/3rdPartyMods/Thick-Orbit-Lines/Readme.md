@@ -1,12 +1,12 @@
-# Thick Orbit Lines Mod v1.18.1 for Elite Dangerous 4.0 Update 18.09
+# Thick Orbit Lines Mod v1.19.0 for Elite Dangerous 4.0 Update 19.00
 
 ### by psychicEgg
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Beta for FDev U18.09 --**<br><br>
+**-- Beta Fixed for FDev U19.00 --**<br><br>
 
 **Release Notes:**
-- First Beta for FDev U18.09
+- Beta Fixed for FDev U19.00
 
 -------------------------------------------------------------------------
 

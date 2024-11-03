@@ -1,9 +1,15 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-**ALERT 19 September 2024:** EDHM for Odyssey is ready for FDev U18.09 !
+**ALERT 03 November 2024:** EDHM for Odyssey is ready for FDev U19.00 !
 
 HUGE Thank you to CMDRs Fred89210 for keeping EDHM alive! Expect updates via [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases/latest).
+
+---
+
+NOTE: Elements that only appear after joining a Faction are not currently modded
+
+FDev have made many changes, so if you notice any remaining orange elements (that aren't Power related) after the update, please let me know where they are and send me a screenshot in the [EDHM Discord](https://discord.gg/KTYgJegfYw)
 
 ---
 

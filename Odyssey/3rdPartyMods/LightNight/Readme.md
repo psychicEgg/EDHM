@@ -1,8 +1,8 @@
-# Odyssey Light Night Mod v0.01.71 for Elite Dangerous 4.0 Update 18.09
+# Odyssey Light Night Mod v0.01.71 for Elite Dangerous 4.0 Update 19.00
 
 ### by CMDR R^L<br><br>
 
-**-- Ready for FDev U18.09 --**<br><br>
+**-- Ready for FDev U19.00 --**<br><br>
 
 **Release Notes:**
 - Fixed for FDev Update 17
