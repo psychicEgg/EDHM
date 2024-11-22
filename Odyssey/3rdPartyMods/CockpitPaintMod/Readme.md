@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- Not Compatible with FDev U19.00 --**<br><br>
+**-- Not Compatible with FDev U19.01 --**<br><br>
 
 **Release Notes:**
 - v3.18.7 : Fix Sugar Skulls Cockpit Light

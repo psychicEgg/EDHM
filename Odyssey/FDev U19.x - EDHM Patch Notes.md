@@ -1,6 +1,14 @@
-## EDHM 19.01 Patch Notes
+## EDHM v19.00 to v19.02 Patch Notes
 
-### -- New Fix for FDev U19.00 --<br><br>
+### -- New Fix for FDev U19.01 --<br><br>
+
+**EDHM v19.02:**
+- Fix for FDev U19.01
+  - Fix some orange icons in Galaxy Map
+- Fix some PowerPlay icons
+- XML Colorization of the `Eye` icon in the Livery Menu (orange & blue)
+
+-------------------------------------------------------------------------
 
 **EDHM v19.01:**
 - Second for FDev Update 19.00
@@ -16,11 +24,11 @@
 -------------------------------------------------------------------------
 
 **EDHM v19.00:**
-- First Fix for FDev Update 19
-
-FDev have made many changes, so if you notice any remaining orange elements after the update, please let me know where they are and send me a screenshot in the [EDHM Discord](https://discord.gg/KTYgJegfYw)
+- First Fix for FDev Update 19.00
 
 -------------------------------------------------------------------------
+
+FDev have made many changes with U19, so if you notice any remaining orange elements after the update, please let me know where they are and send me a screenshot in the [EDHM Discord](https://discord.gg/KTYgJegfYw)
 
 I recommend you join us on the [EDHM Discord](https://discord.gg/KTYgJegfYw) where you can find the latest updates, new player-created themes, and general support.
 

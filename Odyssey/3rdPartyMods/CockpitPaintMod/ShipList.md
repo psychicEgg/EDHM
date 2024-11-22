@@ -13,6 +13,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Beluga Liner         | ✓      | 8               |
 | Cobra Mk III         | ✓      | 9               |
 | Cobra Mk IV          | ✓      | 10              |
+| Cobra Mk V           | ✗      | 50              |
 | Diamondback Explorer | ✓      | 11              |
 | Diamondback Scout    | ✗      | 12              |
 | Dolphin              | ✓      | 13              |
