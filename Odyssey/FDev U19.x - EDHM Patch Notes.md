@@ -1,6 +1,13 @@
-## EDHM v19.00 to v19.02 Patch Notes
+## EDHM v19.00 to v19.03 Patch Notes
 
 ### -- New Fix for FDev U19.01 --<br><br>
+
+**EDHM v19.03:**
+- Fix Message Box that sometimes appears with an orange background when switching ships.
+- Fix `Coaster Overall Brightness` option *(x113)*.
+- `Bodies - Lines and Coasters` *(previously `Neutral Targets - Lines`)* *(xyzw244)*, now uses `Radar Bodies in Supercruise` Mode *(z138)* instead of `Radar Objects` Mode *(y139)*.
+
+-------------------------------------------------------------------------
 
 **EDHM v19.02:**
 - Fix for FDev U19.01
