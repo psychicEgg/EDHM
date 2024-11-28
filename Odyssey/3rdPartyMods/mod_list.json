@@ -1,48 +1,48 @@
 [
    {
     "mod_name":"Enhanced Biome Overlay",
-    "description":"This Mod changes the color of the Perfect Biome to easily identify it. For Elite Dangerous 4.0 U19.01. v1.19.0",
+    "description":"This Mod changes the color of the Perfect Biome to easily identify it. For Elite Dangerous 4.0 U19.02. v1.19.0",
     "author":"psychicEgg",
     "mod_version":"1.19.0",
     "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_U19.00_v1.19.0.zip",
     "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/thumbnail.png",
-    "changelog":"- Ready for FDev U19.01"
+    "changelog":"- Ready for FDev U19.02"
    },
    {
     "mod_name":"Clean Screenshots Mod",
-    "description":"This Mod Controls the Ship Holograms. For Elite Dangerous 4.0 U19.01. v1.19.0",
+    "description":"This Mod Controls the Ship Holograms. For Elite Dangerous 4.0 U19.02. v1.19.0",
     "author":"CMDR FRED89210",
     "mod_version":"1.19.0",
     "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/Clean_Screenshots_Mod_U19.00_v1.19.0.zip",
     "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/thumbnail.png",
-    "changelog":"- Ready for FDev U19.01"
+    "changelog":"- Ready for FDev U19.02"
    },
    {
     "mod_name":"FSS-Overlay",
-    "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.0 U19.01. v1.19.0",
+    "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.0 U19.02. v1.19.0",
     "author":"psychicEgg and Parduz",
     "mod_version":"1.19.0",
     "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_U19.00_v1.19.0.zip",
     "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/thumbnail.png",
-    "changelog":"- Ready for FDev U19.01"
+    "changelog":"- Ready for FDev U19.02"
    },
    {
     "mod_name":"Fuel Scooping Stars Mod",
-    "description":"This Mod allows to display the Scoopable Stars of a Single Color in order to recognize it easily. For Elite Dangerous 4.0 U19.01. v1.19.0",
+    "description":"This Mod allows to display the Scoopable Stars of a Single Color in order to recognize it easily. For Elite Dangerous 4.0 U19.02. v1.19.0",
     "author":"CMDR FRED89210",
     "mod_version":"1.19.0",
     "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_U19.00_v1.19.0.zip",
     "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/thumbnail.png",
-    "changelog":"- Ready for FDev U19.01"
+    "changelog":"- Ready for FDev U19.02"
    },
    {
     "mod_name":"No Message Box Mod",
-    "description":"This Mod Controls the Message Boxes. For Elite Dangerous 4.0 U19.01. v0.04.2 beta",
+    "description":"This Mod Controls the Message Boxes. For Elite Dangerous 4.0 U19.02. v0.04.2 beta",
     "author":"CMDR FRED89210",
     "mod_version": "0.04.2",  
     "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_U19.00_v0.04.2_beta.zip",
     "thumbnail_url": "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/thumbnail.png",
-    "changelog": "- Ready for FDev U19.01, Public Beta",
+    "changelog": "- Ready for FDev U19.02, Public Beta",
    },
    {
     "mod_name":"Odyssey Key Bindings",
@@ -55,20 +55,20 @@
    },
    {
     "mod_name":"Odyssey Light Night Mod",
-    "description":"This Mod Controls the Light Reflection. For Elite Dangerous 4.0 U19.01. v0.01.71",
+    "description":"This Mod Controls the Light Reflection. For Elite Dangerous 4.0 U19.02. v0.01.71",
     "author":"CMDR R^L",
     "mod_version": "0.01.71",  
     "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/Light_Night_v0.01.71.zip",
     "thumbnail_url": "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/thumbnail.png",
-    "changelog": "- Ready for FDev U19.01",
+    "changelog": "- Ready for FDev U19.02",
    },
    {
     "mod_name":"Thick Orbit Lines Mod",
-    "description":"This Mod controls the Glow and Thickness of the Orbit / Gravity Well / Exclusion Zone Lines. v1.19.0 - BETA for FDev U19.01",
+    "description":"This Mod controls the Glow and Thickness of the Orbit / Gravity Well / Exclusion Zone Lines. v1.19.0 - BETA for FDev U19.02",
     "author":"psychicEgg",
     "mod_version":"1.19.0",
     "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_U19.00_v1.19.0.zip",
     "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/thumbnail.png",
-    "changelog":"- Ready for FDev U19.01, Public Beta"
+    "changelog":"- Ready for FDev U19.02, Public Beta"
    }
 ]

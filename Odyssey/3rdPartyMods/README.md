@@ -3,15 +3,15 @@
 3rd-party Mods (3PMs) for Elite Dangerous 4.0 are optional extra mods. **You must have EDHM** for Odyssey installed prior to installing 3PMs.<br><br>
 
 Current 3PMs available:
-- Enhanced Biome Overlay (Ready for FDev U19.01)
-- Clean Screenshot Mod (Ready for FDev U19.01)
-- Cockpit Paint Mod (Not Compatible with FDev U19.01)
-- FSS Overlay (Ready for FDev U19.01)
-- Fuel Scooping Stars Mod (Ready for FDev U19.01)
-- KeyBindings (Ready for FDev U19.01)
-- Light Night Mod (Ready for FDev U19.01)
-- No Message Box Mod (Ready for FDev U19.01, Public Beta)
-- Thick Orbit Lines (Ready for FDev U19.01, Public Beta)
+- Enhanced Biome Overlay (Ready for FDev U19.02)
+- Clean Screenshot Mod (Ready for FDev U19.02)
+- Cockpit Paint Mod (Not Compatible with FDev U19.02)
+- FSS Overlay (Ready for FDev U19.02)
+- Fuel Scooping Stars Mod (Ready for FDev U19.02)
+- KeyBindings (Ready for FDev U19.02)
+- Light Night Mod (Ready for FDev U19.02)
+- No Message Box Mod (Ready for FDev U19.02, Public Beta)
+- Thick Orbit Lines (Ready for FDev U19.02, Public Beta)
 <br>
 
 In development:

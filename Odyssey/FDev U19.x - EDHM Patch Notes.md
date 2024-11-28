@@ -1,6 +1,6 @@
 ## EDHM v19.00 to v19.03 Patch Notes
 
-### -- New Fix for FDev U19.01 --<br><br>
+### -- Ready for FDev U19.02 --<br><br>
 
 **EDHM v19.03:**
 - Fix Message Box that sometimes appears with an orange background when switching ships.
