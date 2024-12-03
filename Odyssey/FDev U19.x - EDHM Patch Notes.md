@@ -1,6 +1,14 @@
-## EDHM v19.00 to v19.03 Patch Notes
+## EDHM v19.00 to v19.04 Patch Notes
 
 ### -- Ready for FDev U19.02 --<br><br>
+
+**EDHM v19.04:**
+- Fix Supercharged Jump Lines that could sometimes display noise.
+- Fix an issue where the number of unread messages was still displayed when the on-foot HUD was disabled in stations *(w121)*.
+- The option to hide the Dot inside stations *(w109)* no longer requires hiding the rest of the on-foot HUD in stations.
+- NEW: the `HUD Elements on Station Concourse` option *(w121)* now has a new mode: `Minimalist`. This allows you to hide the on-foot HUD inside stations while keeping the active Insight Hub bar visible *(where you can see unread messages, for example)*.
+
+-------------------------------------------------------------------------
 
 **EDHM v19.03:**
 - Fix Message Box that sometimes appears with an orange background when switching ships.
