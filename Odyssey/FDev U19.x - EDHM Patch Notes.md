@@ -1,6 +1,14 @@
-## EDHM v19.00 to v19.04 Patch Notes
+## EDHM v19.00 to v19.05 for Elite Dangerous 4.0 Patch Notes
 
-### -- Ready for FDev U19.02 --<br><br>
+### -- Ready for FDev U19.03 --<br><br>
+
+**EDHM v19.05:**
+- Fix Asteroid Lines and Coasters on Radar
+- Fix Passenger Mission Parallelogram
+- Refinery Station Banner now use XML Color
+- Galmap icons linked to `y84/xyzw85` parameters, now use these parameters also in Galmap Menus
+
+-------------------------------------------------------------------------
 
 **EDHM v19.04:**
 - Fix Supercharged Jump Lines that could sometimes display noise.

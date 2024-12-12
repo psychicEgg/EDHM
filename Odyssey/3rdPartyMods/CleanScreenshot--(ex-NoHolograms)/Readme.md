@@ -1,8 +1,8 @@
-# Clean Screenshots Mod v1.19.0 for Elite Dangerous 4.0 Update 19.02
+# Clean Screenshots Mod v1.19.0 for Elite Dangerous 4.0 Update 19.03
 
 ### by CMDR Fred89210<br><br>
 
-**-- Ready for FDev U19.02 --**<br><br>
+**-- Ready for FDev U19.03 --**<br><br>
 
 **Release Notes:**
 - Fix for FDev U19.00

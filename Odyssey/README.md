@@ -1,7 +1,7 @@
-# EDHM
+# EDHM for Elite Dangerous 4.0 (Odyssey and Horizons Live)
 ## **Elite Dangerous HUD Mod**
 
-**ALERT 03 December 2024:** New Version of EDHM for Odyssey for FDev U19.02 !
+**ALERT 12 December 2024:** New Version of EDHM for Elite Dangerous 4.0 for FDev U19.03 !
 
 HUGE Thank you to CMDRs Fred89210 for keeping EDHM alive! Expect updates via [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases/latest).
 
