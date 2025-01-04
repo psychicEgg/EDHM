@@ -1,4 +1,4 @@
-# Odyssey Key Bindings v2.0.1 for Elite Dangerous 4.0
+# Odyssey Key Bindings v2.0.2 for Elite Dangerous 4.0
 
 ### by Blue Mystic<br><br>
 
@@ -6,16 +6,20 @@
 
 **Description:**
 
-This Controls the Key bindings for Elite Dangerous 4.0.<br>
+This Controls the Keybindings for Elite Dangerous 4.0.<br>
 
 -------------------------------------------------------------------------
 
 **How to use:**
 
-- `F1`: Toggle ON/OFF all the White Objects from Radar.
+- `F1`: Toggle ON/OFF All the White Objects from Radar (in Normal Flight).
 - `F2`: Cycle HUD Panel's Shadows Intensity.
 - `F3`: Cycle Cabin Ambient Lights Intensity.
 - `F4`: Cycle Radar Grid Lines Intensity.
+
+- `Not Assigned`: Shows/Hides Own Shield.
+- `Not Assigned`: Sunglasses Mode (Bloom) Toogle.
+
 <br><br><br>
 
 **Mod Hotkeys can be changed:**

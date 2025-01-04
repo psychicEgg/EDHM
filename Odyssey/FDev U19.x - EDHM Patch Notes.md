@@ -1,6 +1,17 @@
-## EDHM v19.00 to v19.05 for Elite Dangerous 4.0 Patch Notes
+## EDHM v19.00 to v19.06 for Elite Dangerous 4.0 Patch Notes
 
 ### -- Ready for FDev U19.03 --<br><br>
+
+**EDHM v19.06:**
+- Fix some Icons
+- Fix White Objects Toogle *(x115)* when in SRV
+- Orange Engineer Station Banner now use XML Color
+- Galnet Cyan Line now use Galnet Settings
+- Red Bars in Social Menu now stay Red
+- **NEW:** Out Of Range Reticles Mode (Use Custom Color without Glow or Red Elite Default) *(y118)*
+- **NEW:** Landing Plate Target Mode (XML or Elite Default) *(z123)*
+
+-------------------------------------------------------------------------
 
 **EDHM v19.05:**
 - Fix Asteroid Lines and Coasters on Radar
