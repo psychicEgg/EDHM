@@ -36,13 +36,22 @@
     "changelog":"- Ready for FDev U19.03"
    },
    {
-    "mod_name":"No Message Box Mod",
-    "description":"This Mod Controls the Message Boxes. For Elite Dangerous 4.0 U19.03. v0.04.2 beta",
+    "mod_name":"Hyperspace Mod",
+    "description":"This Mod Customize your Hyperspace Jumps. For Elite Dangerous 4.0 U19.03. v0.10.0 beta",
     "author":"CMDR FRED89210",
-    "mod_version": "0.04.2",  
-    "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_U19.00_v0.04.2_beta.zip",
+    "mod_version":"0.10.0",
+    "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_U19.03_v0.10.0.zip",
+    "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/thumbnail.png",
+    "changelog":"- NEW for FDev U19.03\r\n- First Public Beta"
+   },
+   {
+    "mod_name":"No Message Box Mod",
+    "description":"This Mod Controls the Message Boxes. For Elite Dangerous 4.0 U19.03. v0.04.3 beta",
+    "author":"CMDR FRED89210",
+    "mod_version": "0.04.3",  
+    "download_url":  "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_U19.03_v0.04.3_beta.zip",
     "thumbnail_url": "https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/thumbnail.png",
-    "changelog": "- Ready for FDev U19.03, Public Beta",
+    "changelog": "- Fixed mod not working on Horizons with Epic Games\r\n-Ready for FDev U19.03, Public Beta",
    },
    {
     "mod_name":"Odyssey Key Bindings",

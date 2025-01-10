@@ -8,6 +8,7 @@ Current 3PMs available:
 - Cockpit Paint Mod (Not Compatible with FDev U19.03)
 - FSS Overlay (Ready for FDev U19.03)
 - Fuel Scooping Stars Mod (Ready for FDev U19.03)
+- Hyperspace Mod (NEW for FDev U19.03, Public Beta)
 - KeyBindings (Ready for FDev U19.03)
 - Light Night Mod (Ready for FDev U19.03)
 - No Message Box Mod (Ready for FDev U19.03, Public Beta)
