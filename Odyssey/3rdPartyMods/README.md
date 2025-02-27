@@ -1,18 +1,18 @@
-# 3rd-party Mods for Elite Dangerous 4.0
+# 3rd-party Mods for Elite Dangerous v4.1.0.0 (Odyssey & Horizons Live)
 
-3rd-party Mods (3PMs) for Elite Dangerous 4.0 are optional extra mods. **You must have EDHM** for Odyssey installed prior to installing 3PMs.<br><br>
+3rd-party Mods (3PMs) for Elite Dangerous 4.1 are optional extra mods. **You must have EDHM** for Odyssey & Horizons Live installed prior to installing 3PMs.<br><br>
 
 Current 3PMs available:
-- Enhanced Biome Overlay (Ready for FDev U19.03)
-- Clean Screenshot Mod (Ready for FDev U19.03)
-- Cockpit Paint Mod (Not Compatible with FDev U19.03)
-- FSS Overlay (Ready for FDev U19.03)
-- Fuel Scooping Stars Mod (Ready for FDev U19.03)
-- Hyperspace Mod (NEW for FDev U19.03, Public Beta)
-- KeyBindings (Ready for FDev U19.03)
-- Light Night Mod (Ready for FDev U19.03)
-- No Message Box Mod (Ready for FDev U19.03, Public Beta)
-- Thick Orbit Lines (Ready for FDev U19.03, Public Beta)
+- Enhanced Biome Overlay (Fixed for Elite Dangerous v4.1.0.0)
+- Clean Screenshot Mod (Ready for Elite Dangerous v4.1.0.0)
+- Cockpit Paint Mod (Not Compatible with Elite Dangerous v4.1.0.0)
+- FSS Overlay (Updated for Elite Dangerous v4.1.0.0)
+- Fuel Scooping Stars Mod (Ready for Elite Dangerous v4.1.0.0)
+- Hyperspace Mod (Ready for Elite Dangerous v4.1.0.0)
+- KeyBindings (Ready for Elite Dangerous v4.1.0.0)
+- Light Night Mod (Ready for Elite Dangerous v4.1.0.0)
+- No Message Box Mod (Ready for Elite Dangerous v4.1.0.0)
+- Thick Orbit Lines (Ready for Elite Dangerous v4.1.0.0)
 <br>
 
 In development:

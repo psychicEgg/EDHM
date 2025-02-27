@@ -1,11 +1,11 @@
-# No Message Box Mod v0.04.3 beta for Elite Dangerous 4.0 Update 19.03
+# No Message Box Mod v1.100.0 for Elite Dangerous 4.1.0.0
 
 ### by CMDR Fred89210<br><br>
 
-**-- Ready for FDev U19.03, Public Beta --**<br><br>
+**-- Ready for Elite Dangerous 4.1.0.0 --**<br><br>
 
 **Release Notes:**
-- Fixed mod not working on Horizons with Epic Games
+- Ready for Elite Dangerous 4.1.0.0
 
 -------------------------------------------------------------------------
 

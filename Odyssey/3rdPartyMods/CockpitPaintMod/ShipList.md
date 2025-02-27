@@ -14,6 +14,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Cobra Mk III         | ✓      | 9               |
 | Cobra Mk IV          | ✓      | 10              |
 | Cobra Mk V           | ✗      | 50              |
+| Corsair              | ✗      | 51              |
 | Diamondback Explorer | ✓      | 11              |
 | Diamondback Scout    | ✗      | 12              |
 | Dolphin              | ✓      | 13              |

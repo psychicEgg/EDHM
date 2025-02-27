@@ -1,12 +1,12 @@
-# FSS Overlay v1.19.0 for Elite Dangerous 4.0 Update 19.03
+# FSS Overlay v1.100.0 for Elite Dangerous 4.1.0.0
 
 ### by psychicEgg and Parduz
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Ready for FDev U19.03 --**<br><br>
+**-- Updated for Elite Dangerous 4.1.0.0 --**<br><br>
 
 **Release Notes:**
-- Fixed for FDev Update 19.00
+- Added Keybinds to Enable/Disable and Switch Template of the FSS Overlay
 
 **Previous versions:**
 - Fix for transparency issue
