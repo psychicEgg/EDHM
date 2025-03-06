@@ -1,9 +1,9 @@
-# FSS Overlay v1.100.0 for Elite Dangerous 4.1.0.0
+# FSS Overlay v1.100.0 for Elite Dangerous 4.1.0.1
 
 ### by psychicEgg and Parduz
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Updated for Elite Dangerous 4.1.0.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.0.1 --**<br><br>
 
 **Release Notes:**
 - Added Keybinds to Enable/Disable and Switch Template of the FSS Overlay

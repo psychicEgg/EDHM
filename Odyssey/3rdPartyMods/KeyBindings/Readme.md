@@ -1,24 +1,32 @@
-# Odyssey Key Bindings v2.0.3 for Elite Dangerous 4.1.x
+# EDHM Keybindings Mod v3.0.0 for Elite Dangerous 4.1.x
 
-### by Blue Mystic<br><br>
+### by CMDR Fred89210<br><br>
 
 -------------------------------------------------------------------------
 
 **Description:**
 
-This Controls the Keybindings for Elite Dangerous 4.0.<br>
+This mod allows you to set Keyboard Shortcuts for some EDHM options in order to change certain settings with a single keystroke.<br><br>
+
+### IMPORTANT<br><br>
+
+This mod is an update of 'Odyssey Key Bindings' mod.<br>
 
 -------------------------------------------------------------------------
 
 **How to use:**
 
-- `F1`: Toggle ON/OFF All the White Objects from Radar (in Normal Flight).
-- `F2`: Cycle HUD Panel's Shadows Intensity.
-- `F3`: Cycle Cabin Ambient Lights Intensity.
-- `F4`: Cycle Radar Grid Lines Intensity.
-
-- `Not Assigned`: Shows/Hides Own Shield.
-- `Not Assigned`: Sunglasses Mode (Bloom) Toogle.
+- `F1`: Shows/Hides Radar White Objects in Normal Flight.
+- `F4`: Change Radar Grid Brightness.
+- `F2`: Change Ship Panels Background Opacity.
+- `F3`: Change Cockpit Ambient Lights Brightness.
+- `Not Assigned`: Shows/Hides Own Ship Shield.
+- `Not Assigned`: Change Supercruise SideLines Mode.
+- `Not Assigned`: Change Space Dust Brightness in Supercruise.
+- `Not Assigned`: Shows/Hides Space Dust in Normal Flight.
+- `Not Assigned`: Change Space Dust Mode in Normal Flight.
+- `Not Assigned`: Sunglasses Mode (Bloom) Toggle.
+- `Not Assigned`: Change Galmap Fog Reduction.
 
 <br><br><br>
 
@@ -26,13 +34,13 @@ This Controls the Keybindings for Elite Dangerous 4.0.<br>
 
 With EDHM_UI:
 
-Go to `Main Menu -> 3PMods -> Odyssey Key Bindings` and change the Keys.<br><br>
+Go to `Main Menu -> 3PMods -> EDHM Keybindings` and change the Keys and Values.<br><br>
 
 Without EDHM_UI:
 
-Edit `Keybindings.ini`.
+Edit `EDHM-Keybindings.ini`.
 
 -------------------------------------------------------------------------
 
-To say thanks or provide feedback about the Odyssey Key Bindings, contact:
-- Blue Mystic on the [EDHM Discord](https://discord.gg/KTYgJegfYw)
+To say thanks or provide feedback about the EDHM Keybindings Mod, contact:
+- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>

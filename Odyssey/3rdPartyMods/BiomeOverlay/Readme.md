@@ -1,9 +1,9 @@
-# Enhanced Biome Overlay v1.100.0 for Elite Dangerous 4.1.0.0
+# Enhanced Biome Overlay v1.100.0 for Elite Dangerous 4.1.0.1
 
 ### by psychicEgg
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Fixed for Elite Dangerous 4.1.0.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.0.1 --**<br><br>
 
 **Release Notes:**
 - Fixed for Elite Dangerous 4.1.0.0
