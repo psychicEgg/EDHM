@@ -37,12 +37,12 @@
    },
    {
     "mod_name":"Hyperspace Mod",
-    "description":"This Mod Customize your Hyperspace Jumps. For Elite Dangerous 4.1.0.1. v1.100.0",
+    "description":"This Mod Customize your Hyperspace Jumps. For Elite Dangerous 4.1.0.1. v1.100.1",
     "author":"CMDR FRED89210",
-    "mod_version":"0.10.0",
-    "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_ED4.1.0.0_v1.100.0.zip",
+    "mod_version":"1.100.1",
+    "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_ED4.1.0.1_v1.100.1.zip",
     "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/thumbnail.png",
-    "changelog":"- Ready for Elite Dangerous 4.1.0.1"
+    "changelog":"- Ready for Elite Dangerous 4.1.0.1\r\n- Small Fix to avoid conflicts with other 3PMods"
    },
    {
     "mod_name":"No Message Box Mod",
