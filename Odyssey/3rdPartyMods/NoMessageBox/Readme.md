@@ -1,11 +1,11 @@
-# No Message Box Mod v1.100.0 for Elite Dangerous 4.1.0.1
+# No Message Box Mod v1.100.0 for Elite Dangerous 4.1.0.2
 
 ### by CMDR Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.0.1 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.0.2 --**<br><br>
 
 **Release Notes:**
-- Ready for Elite Dangerous 4.1.0.1
+- Ready for Elite Dangerous 4.1.0.2
 
 -------------------------------------------------------------------------
 

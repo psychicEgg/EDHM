@@ -1,8 +1,8 @@
-# Hyperspace Mod v1.100.1 for Elite Dangerous 4.1.0.1
+# Hyperspace Mod v1.100.1 for Elite Dangerous 4.1.0.2
 
 ### by CMDR Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.0.1 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.0.2 --**<br><br>
 
 **Release Notes:**
 - Small Fix to avoid conflicts with other 3PMods

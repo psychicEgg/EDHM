@@ -1,18 +1,18 @@
-# 3rd-party Mods for Elite Dangerous v4.1.0.1 (Odyssey & Horizons Live)
+# 3rd-party Mods for Elite Dangerous v4.1.0.2 (Odyssey & Horizons Live)
 
 3rd-party Mods (3PMs) for Elite Dangerous 4.1 are optional extra mods. **You must have EDHM** for Odyssey & Horizons Live installed prior to installing 3PMs.<br><br>
 
 Current 3PMs available:
-- Enhanced Biome Overlay (Fixed for Elite Dangerous v4.1.0.1)
-- Clean Screenshot Mod (Ready for Elite Dangerous v4.1.0.1)
-- Cockpit Paint Mod (NOT Compatible with Elite Dangerous v4.1.0.1)
-- FSS Overlay (Ready for Elite Dangerous v4.1.0.1)
-- Fuel Scooping Stars Mod (Ready for Elite Dangerous v4.1.0.1)
-- Hyperspace Mod (Ready for Elite Dangerous v4.1.0.1)
+- Enhanced Biome Overlay (Ready for Elite Dangerous v4.1.0.2)
+- Clean Screenshot Mod (Ready for Elite Dangerous v4.1.0.2)
+- Cockpit Paint Mod (NOT Compatible with Elite Dangerous v4.1.0.2)
+- FSS Overlay (Ready for Elite Dangerous v4.1.0.2)
+- Fuel Scooping Stars Mod (Ready for Elite Dangerous v4.1.0.2)
+- Hyperspace Mod (Ready for Elite Dangerous v4.1.0.2)
 - KeyBindings (Ready for Elite Dangerous v4.1.x)
-- Light Night Mod (Ready for Elite Dangerous v4.1.0.1)
-- No Message Box Mod (Ready for Elite Dangerous v4.1.0.1)
-- Thick Orbit Lines (Ready for Elite Dangerous v4.1.0.1)
+- Light Night Mod (Ready for Elite Dangerous v4.1.0.2)
+- No Message Box Mod (Ready for Elite Dangerous v4.1.0.2)
+- Thick Orbit Lines (Ready for Elite Dangerous v4.1.0.2)
 <br>
 
 In development:

@@ -1,6 +1,13 @@
-## EDHM v20.00 to v20.01 for Elite Dangerous v4.1.0.1 Patch Notes
+## EDHM v20.00 to v20.02 for Elite Dangerous v4.1.0.2 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.1.0.1 (Trailblazer Update 1) --<br><br>
+### -- Fixed for Elite Dangerous v4.1.0.2 (Trailblazer Update 2) --<br><br>
+
+**EDHM v20.02:**
+- Fix for Elite Dangerous v4.1.0.2 (Trailblazer Update 2)
+  - Fix some Orange Icons
+  - Fix the fourth line of Targeted Destination names
+
+-------------------------------------------------------------------------
 
 **EDHM v20.01:**
 - Fix for Elite Dangerous v4.1.0.1 (Trailblazer Update 1)
