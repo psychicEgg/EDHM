@@ -1,10 +1,11 @@
-# Odyssey Light Night Mod v0.01.71 for Elite Dangerous 4.1.0.2
+# Odyssey Light Night Mod v0.01.72 for Elite Dangerous 4.1.0.2
 
 ### by CMDR R^L<br><br>
 
 **-- Ready for Elite Dangerous 4.1.0.2 --**<br><br>
 
 **Release Notes:**
+- Fixed for EDHM_UI v3
 - Ready for Elite Dangerous 4.1.0.2
 
 -------------------------------------------------------------------------
