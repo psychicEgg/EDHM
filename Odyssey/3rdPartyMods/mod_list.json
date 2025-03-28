@@ -18,6 +18,15 @@
       "changelog":"- Ready for Elite Dangerous 4.1.0.2<br>- Small Fix for EDHM_UI v3"
    },
    {
+      "mod_name":"ED-GT [Graphic Tweaks]",
+      "description":"Tweaks for the GraphicsConfigurationOverride.xml",
+      "author":"Blue Mystic",
+      "mod_version":"1.1.0",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/ED-GT/ED-GT-Graphic_Tweaks_v1.1.0.zip",
+      "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/ED-GT/thumbnail.png",
+      "changelog":"- For Elite Dangerous 4.x"
+   },
+   {
       "mod_name":"FSS-Overlay",
       "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.1.0.2. v1.100.1",
       "author":"psychicEgg and Parduz",
