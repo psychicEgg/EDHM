@@ -1,6 +1,19 @@
-## EDHM v20.00 to v20.02 for Elite Dangerous v4.1.0.2 Patch Notes
+## EDHM v20.00 to v20.03 for Elite Dangerous v4.1.0.3 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.1.0.2 (Trailblazer Update 2) --<br><br>
+### -- Fixed for Elite Dangerous v4.1.0.3 (Trailblazer Update 3) --<br><br>
+
+**EDHM v20.03:**
+- Fix for Elite Dangerous v4.1.0.3 (Trailblazer Update 3)
+  - Fix FDev Update 4.1.0.3 Textures
+  - Fix Colonization Menus (Claim, Galmap, Planetary, Help)
+  - Fix PowerPlay Menus (Galmap, Help)
+  - Fix Galmap Icons sometimes appearing Orange (like Explorable Planets Icon)
+  - Fix System Map Planetary View Mode (some elements were invisible)
+  - Fix some PowerPlay Mission Icons (Thanks Rico for help)
+  - Fix CarrierOS Logo
+  - Unresolved Targets now use Radar Custom Colors
+
+-------------------------------------------------------------------------
 
 **EDHM v20.02:**
 - Fix for Elite Dangerous v4.1.0.2 (Trailblazer Update 2)

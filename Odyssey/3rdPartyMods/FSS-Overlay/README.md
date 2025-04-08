@@ -1,9 +1,9 @@
-# FSS Overlay v1.100.1 for Elite Dangerous 4.1.0.2
+# FSS Overlay v1.100.1 for Elite Dangerous 4.1.0.3
 
 ### by psychicEgg and Parduz
 *Maintained by CMDR Fred89210*<br><br>
 
-**-- Ready for Elite Dangerous 4.1.0.2 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.0.3 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
