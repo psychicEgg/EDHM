@@ -55,12 +55,12 @@
    },
    {
       "mod_name":"No Message Box Mod",
-      "description":"This Mod Controls the Message Boxes.<br>For Elite Dangerous 4.1.0.3. v1.100.1",
+      "description":"This Mod Controls the Message Boxes.<br>For Elite Dangerous 4.1.0.3. v1.100.2",
       "author":"CMDR FRED89210",
-      "mod_version":"1.100.1",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_ED4.1.0.2_v1.100.1.zip",
+      "mod_version":"1.100.2",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_ED4.1.0.3_v1.100.2.zip",
       "thumbnail_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/thumbnail.png",
-      "changelog":"- Ready for Elite Dangerous 4.1.0.3<br>- Small Fix for EDHM_UI v3"
+      "changelog":"-Fix for compatibility with the next version of EDHM (v20.04)<br>- Ready for Elite Dangerous 4.1.0.3"
    },
    {
       "mod_name":"Odyssey Key Bindings",

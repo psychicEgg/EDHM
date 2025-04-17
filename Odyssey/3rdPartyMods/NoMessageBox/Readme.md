@@ -1,10 +1,11 @@
-# No Message Box Mod v1.100.1 for Elite Dangerous 4.1.0.3
+# No Message Box Mod v1.100.2 for Elite Dangerous 4.1.0.3
 
 ### by CMDR Fred89210<br><br>
 
 **-- Ready for Elite Dangerous 4.1.0.3 --**<br><br>
 
 **Release Notes:**
+- Fix for compatibility with the next version of EDHM (v20.04)
 - Fixed for EDHM_UI v3
 - Ready for Elite Dangerous 4.1.0.3
 
