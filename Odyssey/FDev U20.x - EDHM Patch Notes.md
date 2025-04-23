@@ -1,6 +1,15 @@
-## EDHM v20.00 to v20.03 for Elite Dangerous v4.1.0.3 Patch Notes
+## EDHM v20.00 to v20.04 for Elite Dangerous v4.1.0.3 Patch Notes
 
 ### -- Fixed for Elite Dangerous v4.1.0.3 (Trailblazer Update 3) --<br><br>
+
+**EDHM v20.04:**
+  - For Elite Dangerous v4.1.0.3 (Trailblazer Update 3)
+  - NEW: Mouse Cursor Color (w108 & xyzw193)
+  - NEW: Radar Bodies Attraction (Red Circle) Color Mode (x108)
+  - Fix Colonization Ship Draw in Galmap
+  - Fix Yellow Protection for Commodity Icons in Carrier Transfer
+
+-------------------------------------------------------------------------
 
 **EDHM v20.03:**
 - Fix for Elite Dangerous v4.1.0.3 (Trailblazer Update 3)
