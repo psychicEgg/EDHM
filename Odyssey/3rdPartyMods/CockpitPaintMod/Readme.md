@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- NOT Compatible with Elite Dangerous v4.1.0.2 (Trailblazer Update) --**<br><br>
+**-- NOT Compatible with Elite Dangerous v4.1.2.0 (Trailblazer Update 3) --**<br><br>
 
 **Release Notes:**
 - v3.18.7 : Fix Sugar Skulls Cockpit Light

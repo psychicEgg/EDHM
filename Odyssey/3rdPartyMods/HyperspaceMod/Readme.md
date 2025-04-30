@@ -1,8 +1,8 @@
-# Hyperspace Mod v1.100.2 for Elite Dangerous 4.1.0.3
+# Hyperspace Mod v1.100.2 for Elite Dangerous 4.1.2.0
 
 ### by CMDR Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.0.3 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.2.0 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
