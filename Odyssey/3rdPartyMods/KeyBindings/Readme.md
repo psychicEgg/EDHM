@@ -1,6 +1,6 @@
 # EDHM Keybindings Mod v3.0.1 for Elite Dangerous 4.1.x
 
-### by CMDR Fred89210<br><br>
+### by Fred89210<br><br>
 
 -------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Edit `EDHM-Keybindings.ini`.
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the EDHM Keybindings Mod, contact:
-- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
+- Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>

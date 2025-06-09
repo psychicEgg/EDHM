@@ -30,4 +30,4 @@ Good hunting!
 
 o7
 
-![Thargoid CZ Panels](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/images/EDHM-14.05.png?raw=true)
+![Thargoid CZ Panels](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/Resources/images/EDHM-14.05.png?raw=true)

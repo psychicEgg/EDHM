@@ -1,13 +1,13 @@
-# No Message Box Mod v1.100.2 for Elite Dangerous 4.1.2.0
+# No Message Box Mod v1.100.2 for Elite Dangerous 4.1.2.1
 
-### by CMDR Fred89210<br><br>
+### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.2.1 --**<br><br>
 
 **Release Notes:**
 - Fix for compatibility with the next version of EDHM (v20.04)
 - Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.2.0
+- Ready for Elite Dangerous 4.1.2.1
 
 -------------------------------------------------------------------------
 
@@ -36,6 +36,6 @@ Edit `NoMessageBox.ini` and change the line `global $MessageBox =1` or `Key =0x8
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the No Message Box Mod, contact:
-- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
+- Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
-![No Message Box Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/NoMessageBox/NoMessageBox-Preview.jpg?raw=true)
+![No Message Box Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/NoMessageBox/Resources/NoMessageBox-Preview.jpg?raw=true)

@@ -1,9 +1,9 @@
-## EDHM v20.00 to v20.05 for Elite Dangerous v4.1.2.0 Patch Notes
+## EDHM v20.00 to v20.05 for Elite Dangerous v4.1.2.1 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.1.2.0 (Trailblazer Update 3) --<br><br>
+### -- Fixed for Elite Dangerous v4.1.2.1 (Trailblazer Update) --<br><br>
 
 **EDHM v20.05:**
-  - For Elite Dangerous v4.1.2.0 (Trailblazer Update 3)
+  - For Elite Dangerous v4.1.2.1
 
 -------------------------------------------------------------------------
 

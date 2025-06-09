@@ -1,8 +1,8 @@
-# Hyperspace Mod v1.100.2 for Elite Dangerous 4.1.2.0
+# Hyperspace Mod v1.100.2 for Elite Dangerous 4.1.2.1
 
-### by CMDR Fred89210<br><br>
+### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.2.1 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
@@ -35,8 +35,8 @@ Edit `HyperspaceMod.ini`
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the Hyperspace Mod, contact:
-- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
+- Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
 [Click here to see Preview Video](https://youtu.be/_6dEIdR6wWA)<br>
 
-![Hyperspace Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_Preview.jpg?raw=true)
+![Hyperspace Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/HyperspaceMod/Resources/Hyperspace_Mod_Preview.jpg?raw=true)

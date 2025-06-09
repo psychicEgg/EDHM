@@ -1,12 +1,12 @@
-# Odyssey Light Night Mod v0.01.72 for Elite Dangerous 4.1.2.0
+# Odyssey Light Night Mod v0.01.72 for Elite Dangerous 4.1.2.1
 
 ### by CMDR R^L<br><br>
 
-**-- Ready for Elite Dangerous 4.1.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.2.1 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.2.0
+- Ready for Elite Dangerous 4.1.2.1
 
 -------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Edit `lightnight.ini` and change the line `Key =no_modifiers F5`.
 To say thanks or provide feedback about the Odyssey Light Night Mod, contact:
 - CMDR R^L on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
-![Odyssey Light Night](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/LightNight/LightNight_Preview.png?raw=true)
+![Odyssey Light Night](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/LightNight/Resources/LightNight_Preview.png?raw=true)

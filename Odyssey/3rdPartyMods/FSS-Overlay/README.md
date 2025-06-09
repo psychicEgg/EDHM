@@ -1,7 +1,7 @@
 # FSS Overlay v1.100.2 for Elite Dangerous 4.1.2.1
 
 ### by psychicEgg and Parduz
-*Maintained by CMDR Fred89210*<br><br>
+*Maintained by Fred89210*<br><br>
 
 **-- Ready for Elite Dangerous 4.1.2.1 --**<br><br>
 
@@ -44,4 +44,4 @@ Edit `FSS-Overlay.ini`.
 
 Good (planet) hunting! o7<br>
 
-![FSS Overlay](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS-Overlay-v1.3.png?raw=true)
+![FSS Overlay](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/Resources/FSS-Overlay-v1.3.png?raw=true)

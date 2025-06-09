@@ -1,13 +1,13 @@
-# Thick Orbit Lines Mod v1.100.1 for Elite Dangerous 4.1.2.0
+# Thick Orbit Lines Mod v1.100.1 for Elite Dangerous 4.1.2.1
 
 ### by psychicEgg
-*Maintained by CMDR Fred89210*<br><br>
+*Maintained by Fred89210*<br><br>
 
-**-- Ready for for Elite Dangerous 4.1.2.0 --**<br><br>
+**-- Ready for for Elite Dangerous 4.1.2.1 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
-- Ready for for Elite Dangerous 4.1.2.0
+- Ready for for Elite Dangerous 4.1.2.1
 
 -------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Edit `ThickOrbitLines.ini`.
 
 Have Fun! o7<br>
 
-![Thick Orbit Lines](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/ThickOL-v1.18.1.png?raw=true)
+![Thick Orbit Lines](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Resources/ThickOL-v1.18.1.png?raw=true)

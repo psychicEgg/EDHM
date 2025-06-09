@@ -1,13 +1,13 @@
-# Enhanced Biome Overlay v1.100.1 for Elite Dangerous 4.1.2.0
+# Enhanced Biome Overlay v1.100.1 for Elite Dangerous 4.1.2.1
 
 ### by psychicEgg
-*Maintained by CMDR Fred89210*<br><br>
+*Maintained by Fred89210*<br><br>
 
-**-- Ready for Elite Dangerous 4.1.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.2.1 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.2.0
+- Ready for Elite Dangerous 4.1.2.1
 
 -------------------------------------------------------------------------
 
@@ -50,6 +50,6 @@ This is a particularly difficult mod, so please report any bugs to the [EDHM Dis
 
 **I've commented the shader files in case anyone would like to expand on the mod (or fix it faster than I can after the next update 🙂).**<br>
 
-![Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/BiomeOverlay/BiomeOverlay.jpg?raw=true)
+![Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/BiomeOverlay/Resources/BiomeOverlay.jpg?raw=true)
 
 *Planet in the image is HIP 97790 8 F*

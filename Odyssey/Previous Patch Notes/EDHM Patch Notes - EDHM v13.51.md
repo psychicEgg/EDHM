@@ -21,16 +21,16 @@ There is also a separate brightness control for the CQC Rank Text, if you want t
 
 This mod was quite difficult to make as it's on a tabbed panel. If you notice any glitches please let me know
 
-![Dank Rank Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/images/v13.5-Dank-Rank-mod.jpg?raw=true)
+![Dank Rank Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/Resources/images/v13.5-Dank-Rank-mod.jpg?raw=true)
 <br><br>
 
 - Added mod of the FSD Cooldown animation and Escape Vector
 
 The graphic for the Escape Vector may jump around the shader .. if you see it as default blue can you please let me know where you were launching from, and your Materials Quality setting, thanks
 
-![FSD Cooldown](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/images/v13.5-FSD-cooldown.jpg?raw=true)
+![FSD Cooldown](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/Resources/images/v13.5-FSD-cooldown.jpg?raw=true)
 
-![Escape Vector](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/images/v13.5-Escape-Vector.jpg?raw=true)
+![Escape Vector](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/Resources/images/v13.5-Escape-Vector.jpg?raw=true)
 <br><br>
 
 - Added separate brightness controls to radar objects: Squares, lines/stalks, and coasters
@@ -47,7 +47,7 @@ The lighting should now cover all orange lighting. However, this makes the prima
 
 - The main ship artwork on the Carrier / Station panels will now take the custom colour you use for the ship sketch on the Advanced Maintenance Panel
 
-![Ship Artwork](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/images/v13.5-Ship-Artwork.jpg?raw=true)
+![Ship Artwork](https://github.com/psychicEgg/EDHM/blob/main/Resources/Odyssey/images/v13.5-Ship-Artwork.jpg?raw=true)
 <br><br>
 
 <ins>Removed:</ins>

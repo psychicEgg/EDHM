@@ -35,8 +35,9 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Mamba                | ✓      | 28              |
 | Mandalay             | ✗      | 49              |
 | Orca                 | ✓      | 29              |
+| Panther Clipper Mk II| ✗      | 52              |
 | Python               | ✓      | 30              |
-| Python MK II         | ✗      | 47              |
+| Python Mk II         | ✗      | 47              |
 | Sidewinder           | ✓      | 31              |
 | Type-6 Transporter   | ✗      | 32              |
 | Type-7 Transporter   | ✗      | 33              |

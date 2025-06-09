@@ -1,12 +1,12 @@
-# Clean Screenshots Mod v1.100.1 for Elite Dangerous 4.1.2.0
+# Clean Screenshots Mod v1.100.1 for Elite Dangerous 4.1.2.1
 
-### by CMDR Fred89210<br><br>
+### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.2.1 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.2.0
+- Ready for Elite Dangerous 4.1.2.1
 
 **Previous versions:**
 - Added Emergency Only Holograms
@@ -56,8 +56,8 @@ Edit `CleanScreenshots.ini` and change the line `Key =no_modifiers F5`, `Key = S
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the Clean Screenshots Mod, contact:
-- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
+- Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
-![Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/CleanScreenshot-Preview-1.jpg?raw=true)
+![Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CleanScreenshotsMod/Resources/CleanScreenshot-Preview-1.jpg?raw=true)
 
-![Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CleanScreenshot--(ex-NoHolograms)/CleanScreenshot-Preview-2.jpg?raw=true)
+![Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/CleanScreenshotsMod/Resources/CleanScreenshot-Preview-2.jpg?raw=true)

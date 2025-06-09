@@ -1,12 +1,12 @@
-# Fuel Scooping Stars Mod v1.100.1 for Elite Dangerous 4.1.2.0
+# Fuel Scooping Stars Mod v1.100.1 for Elite Dangerous 4.1.2.1
 
-### by CMDR Fred89210<br><br>
+### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.1.2.1 --**<br><br>
 
 **Release Notes:**
 - Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.2.0
+- Ready for Elite Dangerous 4.1.2.1
 
 -------------------------------------------------------------------------
 
@@ -43,8 +43,8 @@ Edit `FSStarsMod.ini.ini`.
 -------------------------------------------------------------------------
 
 To say thanks or provide feedback about the Clean Screenshots Mod, contact:
-- CMDR Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
+- Fred89210 on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>
 
-![FS-Stars-Mod-1](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/Scoop-Stars-Mod-1.jpg?raw=true)
+![FS-Stars-Mod-1](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/Resources/Scoop-Stars-Mod-1.jpg?raw=true)
 
-![FS-Stars-Mod-2](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/Scoop-Stars-Mod-2.jpg?raw=true)
+![FS-Stars-Mod-2](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/Resources/Scoop-Stars-Mod-2.jpg?raw=true)
