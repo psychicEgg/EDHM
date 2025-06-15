@@ -1,9 +1,9 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 30 April 2025:**</ins> New Version of [EDHM for Elite Dangerous v4.1.2.1](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
+<ins>**ALERT 15 June 2025:**</ins> New Version of [EDHM for Elite Dangerous v4.1.2.1](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
 
-FDev have made many changes with Trailblazer Update, so if you notice any remaining orange elements after the update, please let me know where they are and send me a screenshot in the [EDHM Discord](https://discord.gg/KTYgJegfYw).
+If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
 ---
 
