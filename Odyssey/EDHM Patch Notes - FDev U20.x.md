@@ -1,6 +1,11 @@
-## EDHM v20.00 to v20.07 for Elite Dangerous v4.1.3.0 Patch Notes
+## EDHM v20.00 to v20.08 for Elite Dangerous v4.1.3.0 Patch Notes
 
 ### -- Ready for Elite Dangerous v4.1.3.0 (Panther Clipper MKII Update) --<br><br>
+
+**EDHM v20.08:**
+- Removing Canopy Effect Options (xyz229)
+
+-------------------------------------------------------------------------
 
 **EDHM v20.07:**
 - Fix for Elite Dangerous v4.1.3.0
