@@ -1,6 +1,17 @@
-## EDHM v20.00 to v20.06 for Elite Dangerous v4.1.2.1 Patch Notes
+## EDHM v20.00 to v20.07 for Elite Dangerous v4.1.3.0 Patch Notes
 
-### -- Ready for Elite Dangerous v4.1.2.1 (Trailblazer Update) --<br><br>
+### -- Ready for Elite Dangerous v4.1.3.0 (Panther Clipper MKII Update) --<br><br>
+
+**EDHM v20.07:**
+- Fix for Elite Dangerous v4.1.3.0
+  - Fix multiple Textures replaced by U4.1.3.0
+  - Fix Shaders replaced by U4.1.3.0
+  - Fix Orange Neutral Target Text when using `Main Text` (w75) in Elite Default Mode
+  - Fix Targeted Subcomponents when in Elite Default Mode
+  - Fix black Altitude Bar Text with old EDHM-UI Themes with missing y109
+  - Prevents the Speed & Heat Bars from becoming invisible with old EDHM-UI Themes
+
+-------------------------------------------------------------------------
 
 **EDHM v20.06:**
 - EDHM Improvement Update

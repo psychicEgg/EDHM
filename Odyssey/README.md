@@ -1,11 +1,9 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 15 June 2025:**</ins> New Version of EDHM for Elite Dangerous v4.1.2.1 *(Odyssey & Horizons Live)* !
+<ins>**ALERT 22 July 2025:**</ins> New Version of EDHM for Elite Dangerous v4.1.3.0 *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
-
-<p align="center">Like EDHM? <a href="https://ko-fi.com/fred89210">Fuel me with a coffee!</a> ☕</p>
 
 ---
 
@@ -173,9 +171,3 @@ o7
 ---
 
 [EDHM Discord](https://discord.gg/KTYgJegfYw)
-
-<p align="center">
-  <a href="https://ko-fi.com/U7U41G7OBE">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Like EDHM? Fuel me with a coffee!">
-  </a>
-</p>
