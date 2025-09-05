@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 22 July 2025:**</ins> New Version of [EDHM for Elite Dangerous v4.1.3.0](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
+<ins>**ALERT 5 September 2025:**</ins> New Version of [EDHM for Elite Dangerous v4.2.0.2](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
@@ -77,6 +77,17 @@ For any UI-Related Issues, please seek out **Blue Mystic** (EDHM_UI Admin), and 
 Thank you for all your support, and good hunting CMDRs!
 
 o7
+
+---
+---
+
+### <ins>DISCLAIMER</ins>
+
+This is an Experimental graphics mod. Please see the [3Dmigoto Github](https://github.com/bo3b/3Dmigoto) to research if or how this mod will affect your PC.
+
+Hundreds of CMDRs run this mod with zero issues, but it is impossible to predict how the mod will react with your particular PC configuration.
+
+Therefore, install the mod at your own risk - we will not be held responsible for any losses incurred, including game suspensions or bans if you use the mod or 3Dmigoto inappropriately.
 
 ---
 ---

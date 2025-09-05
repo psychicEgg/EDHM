@@ -1,18 +1,19 @@
-# 3rd-party Mods for Elite Dangerous v4.1.3.0 (Odyssey & Horizons Live)
+# 3rd-party Mods for Elite Dangerous v4.2.0.2 (Odyssey & Horizons Live)
 
-3rd-party Mods (3PMs) for Elite Dangerous 4.1 are optional extra mods. **You must have EDHM** for Odyssey & Horizons Live installed prior to installing 3PMs.<br><br>
+3rd-party Mods (3PMs) for Elite Dangerous 4.x are optional extra mods. **You must have EDHM** for Odyssey & Horizons Live installed prior to installing 3PMs.<br><br>
 
 Current 3PMs available:
-- [Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/BiomeOverlay) (Ready for Elite Dangerous v4.1.3.0)
-- [Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CleanScreenshotsMod) (Ready for Elite Dangerous v4.1.3.0)
-- [Cockpit Paint Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CockpitPaintMod) (NOT Compatible with Elite Dangerous v4.1.3.0)
-- [FSS Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/FSS-Overlay) (Ready for Elite Dangerous v4.1.3.0)
-- [Fuel Scooping Stars Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars) (Ready for Elite Dangerous v4.1.3.0)
-- [Hyperspace Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/HyperspaceMod) (Ready for Elite Dangerous v4.1.3.0)
-- [KeyBindings](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/KeyBindings) (Ready for Elite Dangerous v4.1.x)
-- [Light Night Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/LightNight) (Ready for Elite Dangerous v4.1.3.0)
-- [No Message Box Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoMessageBox) (Ready for Elite Dangerous v4.1.3.0)
-- [Thick Orbit Lines](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines) (Ready for Elite Dangerous v4.1.3.0)
+- [Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/BiomeOverlay) (Fixed for Elite Dangerous v4.2.0.2)
+- [Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CleanScreenshotsMod) (Fixed for Elite Dangerous v4.2.0.2)
+- [Cockpit Paint Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CockpitPaintMod) (NOT Compatible with Elite Dangerous v4.2.0.2)
+- [FSS Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/FSS-Overlay) (Fixed for Elite Dangerous v4.2.0.2)
+- [Fuel Scooping Stars Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars) (Ready for Elite Dangerous v4.2.0.2)
+- [Hyperspace Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/HyperspaceMod) (Fixed for Elite Dangerous v4.2.0.2)
+- [KeyBindings](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/KeyBindings) (Ready for Elite Dangerous v4.2.x)
+- [Light Night Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/LightNight) (Ready for Elite Dangerous v4.2.0.2)
+- [No FID Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoFIDMod) (NEW for Elite Dangerous v4.2.0.2)
+- [No Message Box Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoMessageBox) (Fixed for Elite Dangerous v4.2.0.2)
+- [Thick Orbit Lines](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines) (Fixed for Elite Dangerous v4.2.0.2)
 <br>
 
 In development:

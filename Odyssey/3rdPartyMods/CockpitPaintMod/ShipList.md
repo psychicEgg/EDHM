@@ -44,6 +44,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Type-8 Transporter   | ✗      | 48              |
 | Type-9 Heavy         | ✓      | 34              |
 | Type-10 Defender     | ✓      | 35              |
+| Type-11 Prospector   | ✗      | 53              |
 | Viper Mk III         | ✓      | 36              |
 | Viper Mk IV          | ✓      | 37              |
 | Vulture              | ✓      | 38              |

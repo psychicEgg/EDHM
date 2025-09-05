@@ -1,12 +1,12 @@
-# Clean Screenshots Mod v1.100.1 for Elite Dangerous 4.1.3.0
+# Clean Screenshots Mod v1.102.0 for Elite Dangerous 4.2.0.2
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.3.0 --**<br><br>
+**-- Fixed for Elite Dangerous 4.2.0.2 --**<br><br>
 
 **Release Notes:**
-- Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.3.0
+- Fixed For Elite Dangerous 4.2.0.2
+- Improvement for EDHM-UI v3
 
 **Previous versions:**
 - Added Emergency Only Holograms
@@ -51,7 +51,7 @@ Go to `Main Menu -> 3PMods -> Clean Screenshot Mod` and change the Keys.<br><br>
 
 Without EDHM_UI:
 
-Edit `CleanScreenshots.ini` and change the line `Key =no_modifiers F5`, `Key = SHIFT F5` or `Key = SHIFT F7`.
+Edit `CleanScreenshots.ini` and change the line `Key = no_modifiers F5`, `Key = SHIFT F5` or `Key = SHIFT F7`.
 
 -------------------------------------------------------------------------
 

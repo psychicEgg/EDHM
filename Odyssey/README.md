@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 22 July 2025:**</ins> New Version of EDHM for Elite Dangerous v4.1.3.0 *(Odyssey & Horizons Live)* !
+<ins>**ALERT 5 September 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.0.2 *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
@@ -80,6 +80,23 @@ For EDHM to work properly, it is **imperative** to have the original Color Matri
 To fully function, EDHM requires you to use an in-game resolution of **at least 1920x1080**. Lower resolutions may not display colors correctly on some elements, such as the Shield, for example.
 
 ---
+
+### <ins>Uninstall EDHM without EDHM_UI</ins>
+
+To manually uninstall EDHM, you must:
+- **Close the game**.
+- Open the game's installation directory where `EliteDangerous64.exe` is located *(not the Frontier Launcher directory)*.
+- In this folder you will find `EDHM-Uninstall.bat`, launch it.
+
+Alternative method:
+- **Close the game** and open the game's installation directory.
+- Deleted all files and folders contained in the EDHM `.zip` available here. That is to say:
+  - Files: `d3d11.dll`, `d3dcompiler_46.dll`, `d3dx.ini`, `EDHM-Uninstall.bat`
+  - Folders and their contents: `EDHM-ini`, `ShaderFixes` *(these folders contain only EDHM files, no files from the original game)*.
+
+After that, ALL EDHM files will be deleted. Since EDHM does NOT modify/replace the original files, your game will be returned to its original state.
+
+---
 ---
 
 ### <ins>Use EDHM without EDHM_UI</ins>
@@ -97,6 +114,8 @@ When customizing your EDHM theme, I recommend starting by modifying the Color Ma
 - Color Matrix models: [here](https://forums.frontier.co.uk/threads/no2o-the-definitive-list-of-1-7-2-2-compatible-hud-colour-color-configs-please-add-yours.259311/)
 
 I also recommend placing yourself in the dark of the space to test your colors, some in-game lighting, such as inside the High Tech Stations, can alter the final rendering *(as in the game without EDHM)*.
+
+In rare cases, some elements are not immediately redrawn when applying new EDHM settings. For these elements it is necessary to move the view/menu a little for the game to redraw the element in question. For example, this is the case of the small menu displayed in the center when docked, moving once in this menu *(or another one)* allows the game to redraw the element with the new settings.
 
 ---
 ---
@@ -135,6 +154,7 @@ Recently, some users have reported Game Crashes on startup when the `NVIDIA App`
 In this situation, the following solutions may work:
  1. Disable Automatic Setting at the bottom of the Auto GPU Tuning Page
  2. Disable `NVIDIA Overlay`
+ 3. See `Smooth Motion` and `Nvidias Latency` Settings
 
 This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), two issues beyond our control.
 
@@ -166,6 +186,17 @@ For any UI-Related Issues, please seek out **Blue Mystic** (EDHM_UI Admin), and 
 Thank you for all your support, and good hunting CMDRs!
 
 o7
+
+---
+---
+
+### <ins>DISCLAIMER</ins>
+
+This is an Experimental graphics mod. Please see the [3Dmigoto Github](https://github.com/bo3b/3Dmigoto) to research if or how this mod will affect your PC.
+
+Hundreds of CMDRs run this mod with zero issues, but it is impossible to predict how the mod will react with your particular PC configuration.
+
+Therefore, install the mod at your own risk - we will not be held responsible for any losses incurred, including game suspensions or bans if you use the mod or 3Dmigoto inappropriately.
 
 ---
 ---

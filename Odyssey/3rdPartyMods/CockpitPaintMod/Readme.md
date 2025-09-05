@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- NOT Compatible with Elite Dangerous v4.1.3.0 (Panther Clipper MKII Update) --**<br><br>
+**-- NOT Compatible with Elite Dangerous v4.2.0.2 (Vanguards Update) --**<br><br>
 
 **Release Notes:**
 - v3.18.7 : Fix Sugar Skulls Cockpit Light

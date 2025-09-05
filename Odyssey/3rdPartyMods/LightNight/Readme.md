@@ -1,12 +1,12 @@
-# Odyssey Light Night Mod v0.01.72 for Elite Dangerous 4.1.3.0
+# Odyssey Light Night Mod v0.01.73 for Elite Dangerous 4.2.0.2
 
 ### by CMDR R^L<br><br>
 
-**-- Ready for Elite Dangerous 4.1.3.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.2.0.2 --**<br><br>
 
 **Release Notes:**
-- Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.3.0
+- Ready For Elite Dangerous 4.2.0.2
+- Improvement for EDHM-UI v3
 
 -------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Go to `Main Menu -> 3PMods -> Odyssey Light Night Mod` and change the Key.<br><b
 
 Without EDHM_UI:
 
-Edit `lightnight.ini` and change the line `Key =no_modifiers F5`.
+Edit `lightnight.ini` and change the line `Key = no_modifiers F5`.
 
 -------------------------------------------------------------------------
 

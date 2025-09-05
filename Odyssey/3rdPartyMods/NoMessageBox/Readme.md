@@ -1,13 +1,12 @@
-# No Message Box Mod v1.100.2 for Elite Dangerous 4.1.3.0
+# No Message Box Mod v1.102.0 for Elite Dangerous 4.2.0.2
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.1.3.0 --**<br><br>
+**-- Fixed for Elite Dangerous 4.2.0.2 --**<br><br>
 
 **Release Notes:**
-- Fix for compatibility with the next version of EDHM (v20.04+)
-- Fixed for EDHM_UI v3
-- Ready for Elite Dangerous 4.1.3.0
+- Fixed For Elite Dangerous 4.2.0.2
+- Improvement for EDHM-UI v3
 
 -------------------------------------------------------------------------
 
@@ -31,7 +30,7 @@ Go to `Main Menu -> 3PMods -> No Message Box Mod` and Enable/Disable Message Box
 
 Without EDHM_UI:
 
-Edit `NoMessageBox.ini` and change the line `global $MessageBox =1` or `Key =0x8f`.
+Edit `NoMessageBox.ini` and change the line `global $MessageBox = 1` or `Key = 0x8f`.
 
 -------------------------------------------------------------------------
 
