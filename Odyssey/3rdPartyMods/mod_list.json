@@ -1,12 +1,12 @@
 [
    {
       "mod_name":"Enhanced Biome Overlay",
-      "description":"This Mod changes the color of the Perfect Biome to easily identify it.<br>For Elite Dangerous 4.2.0.3. v1.102.0",
+      "description":"This Mod changes the color of the Perfect Biome to easily identify it.<br>For Elite Dangerous 4.2.0.3. v1.102.1",
       "author":"psychicEgg",
-      "mod_version":"1.102.0",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_ED4.2.0.2_v1.102.0.zip",
+      "mod_version":"1.102.1",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_ED4.2.0.3_v1.102.1.zip",
       "thumbnail_url":"https://i.imgur.com/xfz10ui.png",
-      "changelog":"- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
+      "changelog":"-Fixed a Color Issue in Orbit with High and Ultra Quality<br>- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"Clean Screenshots Mod",
