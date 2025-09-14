@@ -1,6 +1,6 @@
-## EDHM v21.00 for Elite Dangerous v4.2.0.2 Patch Notes
+## EDHM v21.00 for Elite Dangerous v4.2.0.3 Patch Notes
 
-### -- Ready for Elite Dangerous v4.2.0.2 (Vanguards Update) --<br><br>
+### -- Ready for Elite Dangerous v4.2.0.3 (Vanguards Update) --<br><br>
 
 **EDHM v21.00:**
 - First Fix for Elite Dangerous v4.2.0.2 (Vanguards Update)

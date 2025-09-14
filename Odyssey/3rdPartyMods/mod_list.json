@@ -1,21 +1,21 @@
 [
    {
       "mod_name":"Enhanced Biome Overlay",
-      "description":"This Mod changes the color of the Perfect Biome to easily identify it.<br>For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This Mod changes the color of the Perfect Biome to easily identify it.<br>For Elite Dangerous 4.2.0.3. v1.102.0",
       "author":"psychicEgg",
       "mod_version":"1.102.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_ED4.2.0.2_v1.102.0.zip",
       "thumbnail_url":"https://i.imgur.com/xfz10ui.png",
-      "changelog":"- Fixed For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"Clean Screenshots Mod",
-      "description":"This Mod Controls the Ship Holograms.<br>For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This Mod Controls the Ship Holograms.<br>For Elite Dangerous 4.2.0.3. v1.102.0",
       "author":"Fred89210",
       "mod_version":"1.102.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshotsMod/Clean_Screenshots_Mod_ED4.2.0.2_v1.102.0.zip",
       "thumbnail_url":"https://i.imgur.com/lU8q0H5.png",
-      "changelog":"- Fixed For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"ED-GT [Graphic Tweaks]",
@@ -28,48 +28,48 @@
    },
    {
       "mod_name":"FSS-Overlay",
-      "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.2.0.3. v1.102.0",
       "author":"psychicEgg and Parduz",
       "mod_version":"1.102.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_ED4.2.0.2_v1.102.0.zip",
       "thumbnail_url":"https://i.imgur.com/pueu2fD.png",
-      "changelog":"- Fixed For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"Fuel Scooping Stars Mod",
-      "description":"This Mod allows to display the Scoopable Stars of a Single Color in order to recognize it easily.<br>For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This Mod allows to display the Scoopable Stars of a Single Color in order to recognize it easily.<br>For Elite Dangerous 4.2.0.3. v1.102.0",
       "author":"Fred89210",
       "mod_version":"1.102.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_ED4.2.0.2_v1.102.0.zip",
       "thumbnail_url":"https://i.imgur.com/kogY2BX.png",
-      "changelog":"- Ready For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Ready For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"Hyperspace Mod",
-      "description":"This Mod Customize your Hyperspace Jumps.<br>For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This Mod Customize your Hyperspace Jumps.<br>For Elite Dangerous 4.2.0.3. v1.102.0",
       "author":"Fred89210",
       "mod_version":"1.102.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_ED4.2.0.2_v1.102.0.zip",
       "thumbnail_url":"https://i.imgur.com/632CR4r.png",
-      "changelog":"- Fixed For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"No FID Mod",
-      "description":"This Mod Controls your FID in the Main Menu.<br>For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This Mod Controls your FID in the Main Menu.<br>For Elite Dangerous 4.2.0.3. v1.102.1",
       "author":"Fred89210",
-      "mod_version":"1.102.0",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoFIDMod/No_FID_Mod_ED4.2.0.2_v1.102.0.zip",
+      "mod_version":"1.102.1",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoFIDMod/No_FID_Mod_ED4.2.0.3_v1.102.1.zip",
       "thumbnail_url":"https://i.imgur.com/nJfHO93.png",
-      "changelog":"-First Release For Elite Dangerous 4.2.0.2"
+      "changelog":"-Fixed an issue where the FID was not hidden in certain situations"
    },
    {
       "mod_name":"No Message Box Mod",
-      "description":"This Mod Controls the Message Boxes.<br>For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This Mod Controls the Message Boxes.<br>For Elite Dangerous 4.2.0.3. v1.102.0",
       "author":"Fred89210",
       "mod_version":"1.102.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_ED4.2.0.2_v1.102.0.zip",
       "thumbnail_url":"https://i.imgur.com/YYGm3hq.png",
-      "changelog":"- Fixed For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"Odyssey Key Bindings",
@@ -82,20 +82,20 @@
    },
    {
       "mod_name":"Odyssey Light Night Mod",
-      "description":"This Mod Controls the Light Reflection.<br>For Elite Dangerous 4.2.0.2. v0.01.73",
+      "description":"This Mod Controls the Light Reflection.<br>For Elite Dangerous 4.2.0.3. v0.01.73",
       "author":"CMDR R^L",
       "mod_version":"0.01.73",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/Light_Night_ED4.2.0.2_v0.01.73.zip",
       "thumbnail_url":"https://i.imgur.com/20I8F3o.png",
-      "changelog":"- Ready For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Ready For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    },
    {
       "mod_name":"Thick Orbit Lines Mod",
-      "description":"This Mod controls the Glow and Thickness of Orbit / Gravity Well / Exclusion Zone Lines.<br>For Elite Dangerous 4.2.0.2. v1.102.0",
+      "description":"This Mod controls the Glow and Thickness of Orbit / Gravity Well / Exclusion Zone Lines.<br>For Elite Dangerous 4.2.0.3. v1.102.0",
       "author":"psychicEgg",
       "mod_version":"1.102.0",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_ED4.2.0.2_v1.102.0.zip",
       "thumbnail_url":"https://i.imgur.com/jCIJWzV.png",
-      "changelog":"- Fixed For Elite Dangerous 4.2.0.2<br>- Improvement for EDHM-UI v3"
+      "changelog":"- Fixed For Elite Dangerous 4.2.0.3<br>- Improvement for EDHM-UI v3"
    }
 ]

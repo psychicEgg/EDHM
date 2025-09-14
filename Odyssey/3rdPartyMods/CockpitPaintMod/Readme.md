@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- NOT Compatible with Elite Dangerous v4.2.0.2 (Vanguards Update) --**<br><br>
+**-- NOT Compatible with Elite Dangerous v4.2.0.3 (Vanguards Update) --**<br><br>
 
 **Release Notes:**
 - v3.18.7 : Fix Sugar Skulls Cockpit Light

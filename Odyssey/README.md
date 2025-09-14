@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 5 September 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.0.2 *(Odyssey & Horizons Live)* !
+<ins>**ALERT 5 September 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.0.3 *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
@@ -135,6 +135,16 @@ The colors displayed in-game are completely inconsistent with your settings and/
 
 ---
 
+Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
+In this situation, the following solutions may work:
+ 1. See `Smooth Motion` and `Nvidias Latency` Settings *(most common cause of the problem)*
+ 2. Disable Automatic Setting at the bottom of the Auto GPU Tuning Page
+ 3. Disable `NVIDIA Overlay`
+
+This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), two things beyond our control.
+
+---
+
 Some CMDRs have reported their PS or Xbox Controller doesn't work with the mod.
 
 This often occurs when `Steam Overlay` is activated and managing the Controller *(the mod is not compatible with `Steam Overlay`)*.
@@ -147,16 +157,6 @@ This often occurs when `Steam Overlay` is activated and managing the Controller 
 These fixes are explained in [`PS-Xbox-Controller-fix`](https://github.com/psychicEgg/EDHM/tree/main/PS-Xbox-Controller-fix) folder.
 
 Please note: Not everyone experiences a conflict between their Controller and the mod.
-
----
-
-Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
-In this situation, the following solutions may work:
- 1. Disable Automatic Setting at the bottom of the Auto GPU Tuning Page
- 2. Disable `NVIDIA Overlay`
- 3. See `Smooth Motion` and `Nvidias Latency` Settings
-
-This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), two issues beyond our control.
 
 ---
 

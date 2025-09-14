@@ -1,8 +1,8 @@
-# Hyperspace Mod v1.102.0 for Elite Dangerous 4.2.0.2
+# Hyperspace Mod v1.102.0 for Elite Dangerous 4.2.0.3
 
 ### by Fred89210<br><br>
 
-**-- Fixed for Elite Dangerous 4.2.0.2 --**<br><br>
+**-- Fixed for Elite Dangerous 4.2.0.3 --**<br><br>
 
 **Release Notes:**
 - Fixed For Elite Dangerous 4.2.0.2
