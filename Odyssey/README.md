@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 5 September 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.0.3 *(Odyssey & Horizons Live)* !
+<ins>**ALERT 22 September 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.0.3 *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
@@ -165,6 +165,13 @@ If you want to use EDHM with OpenComposite/OpenXR, the community has found solut
 ---
 
 ### If you encounter any further issues or have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
+
+---
+---
+
+#### <ins>Other information:</ins>
+
+For EDHM with OpenComposite - OpenXR, consult the [Frontier Forum](https://forums.frontier.co.uk/threads/any-luck-running-opencompositeacc-openxr-toolkit.602523/post-10580496). 
 
 ---
 ---

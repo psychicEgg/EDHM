@@ -1,6 +1,25 @@
-## EDHM v21.00 for Elite Dangerous v4.2.0.3 Patch Notes
+## EDHM v21.00 to v21.01 for Elite Dangerous v4.2.0.3 Patch Notes
 
 ### -- Ready for Elite Dangerous v4.2.0.3 (Vanguards Update) --<br><br>
+
+**EDHM v21.01:**
+- Second Fix for Elite Dangerous v4.2.0.3 (Vanguards Update), including:
+  - Fix Community Goal Artwork
+  - Fix Station/Carrier Artwork (disabled buttons sometimes took the Custom Color instead of XML)
+  - Fix some Mission Icons
+  - Fix Colonization Beacon Icon
+  - Fix Galmap Transition Artwork (sometimes turned orange)
+  - Fix Squadron Carrier Icon Color in Navigation Panel
+  - Fix Selected Color Square in Squadron Menu (some Colors were changed in the Selected Color Square to the Left of the Color Picker)
+  - Fix Pilot Rank Icons in Squadron Menu
+  - Fix Finance and Storage Bar in Squadron Menu
+  - Fix Good Icons in Squadron Carrier Menu
+  - Fix Cyan Button in Squadron Carrier Shipyard
+  - Fix Ship Artworks in Squadron Carrier Menu
+
+Another big thank you to CMDR Piker 2.0 and his generosity, which allowed me to take care of the elements related to the Squadron Carrier.
+
+-------------------------------------------------------------------------
 
 **EDHM v21.00:**
 - First Fix for Elite Dangerous v4.2.0.2 (Vanguards Update)

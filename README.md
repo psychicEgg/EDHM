@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 5 September 2025:**</ins> New Version of [EDHM for Elite Dangerous v4.2.0.3](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
+<ins>**ALERT 22 September 2025:**</ins> New Version of [EDHM for Elite Dangerous v4.2.0.3](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
