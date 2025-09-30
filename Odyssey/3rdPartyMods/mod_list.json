@@ -7,7 +7,7 @@
       "file": "BiomeOverlay.ini",
       "read_me": "<h4 align='center'><b>Odyssey Enhanced Biome Overlay</b></h4><p align='center'>By <a href='https://github.com/psychicEgg' target='_blank'>psychicEgg</a></p><p align='center'>Maintained by <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>The Default Overlay has a Background of Blue, and a Biome Target colour of slightly more Greeny-Blue - it's not surprising it can be very difficult to distinguish between the two layers, especially for CMDRs with visual difficulties.</p><p align='center'><b>It's important to note that not all planets have a Perfect Biome, in which case the custom color will not appear, you will only see the Original Blue.</b></p><p align='center'>It's impossible to have a different colour for each type of Biome as the shader doesn't receive that information.</p>The options are quite basic:<ul><li>Elite Default</li><li>Method 1: Custom Target Colour (Choose your own colour for the Target Biome Layer)</li><li>Method 2: Custom Target Colour Only (The Blue Background is turned off. Makes it easier to find an area to land with adequate light.)</li></ul><p align='left'>Fly Safe. o7</p><p align='center'><a href='https://youtu.be/8AfQZU_yZHY?si=UJYjrN_N_V2P-XJm&t=11' target='_blank'>Preview</a></p><image=biomeoverlaydemo.jpg;size=100%;align='top'>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/BiomeOverlay/Biome_Overlay_Mod_ED4.2.0.3_v1.102.1.zip",
-      "thumbnail_url":"https://i.imgur.com/xfz10ui.png",
+      "thumbnail_url":"https://images2.imgbox.com/46/af/0g6odWoZ_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    },
    {
@@ -18,7 +18,7 @@
       "file": "CleanScreenshots.ini",
       "read_me": "<h4 align='center'><b>Clean Screenshots Mod</b></h4><p align='center'>By <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>This mod Turns OFF the Holograms of Landing Pads, SRV Entrance and On Foot Entrance.</p><p align='left'>Use this mod to take beautiful Screenshots.</p><p align='left'>It is advisable to <b>leave the Holograms activated when flying</b> otherwise you will not see the location of your Pad.</p><p align='left'>When 'Show Mod Status' option is activated, the OwnShip Hologram (in the middle of the shield) Turns OFF when Turning OFF the External Holograms.</p><p align='left'>Now you can also choose to always Hide External Holograms when you are in SRV or On Foot.</p><p align='left'>An other option hides the Tire Tracks of the SRV in order to take Clean Screenshots.</p><p align='left'>Fly Safe. o7</p><p align='center'><a href='https://i.imgur.com/DV5olgu.jpg' target='_blank'>Preview</a></p><image=nohologramsmodcompare.jpg;size=100%;align=top>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/CleanScreenshotsMod/Clean_Screenshots_Mod_ED4.2.1.0_v1.102.1.zip",
-      "thumbnail_url":"https://i.imgur.com/lU8q0H5.png",
+      "thumbnail_url":"https://images2.imgbox.com/ac/e4/UVU0fONO_o.png",
       "changelog":"- Added options to automatically hide all holograms when in SRV, on foot, or using the free camera to keep holograms only when they are useful<br>- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    },
    {
@@ -29,7 +29,7 @@
       "file":"%LOCALAPPDATA%\\Frontier Developments\\Elite Dangerous\\Options\\Graphics\\GraphicsConfigurationOverride.xml",
       "read_me": "<p align=center><size=+4><b>ED-GT [Graphic Tweaks]</b></size></p><p align=center>By Blue Mystic</p><p align=left>This mod is an interface to easily and safely edit the <u>GraphicsConfigurationOverride.xml</u> file.</p><p align=left>Currently this mod allows you to:</p><p align=left><ul><li>Increase or Reduce the <b>Amount of Stars</b> shown in the Galaxy Map.</li><li>Increase or Reduce the Quality of the <b>Textures for Planets</b>.</li><li>Increase or Reduce the <b>Quality of the <b>Textures for the Galaxy Background</b>.</li><li>Ensure the Colour Matrix to be the Default one, this is required by EDHM.</p></li></ul><p><b><u>How to Apply Changes:</u></b></p><p align=left>Contrary to regular 3PMods, the XML configurations belongs to the game itself.</p><p align=left>Therefore, you need to click the <u>Apply XML Changes</u> orange button on this window.</p><p align=left>And then you need to re-start the game, so your changes can take effect.</p><image=ED-GT_StarCount.jpg;size=100%;align=top><br><a href=https://bluemystical.github.io/edhm-api/>Check Our web site</a>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/ED-GT/ED-GT-Graphic_Tweaks_v1.1.0.zip",
-      "thumbnail_url":"https://i.imgur.com/hJ1rZIe.png",
+      "thumbnail_url":"https://images2.imgbox.com/5f/22/3oM3eTcl_o.png",
       "changelog":"- For Elite Dangerous 4.x"
    },
    {
@@ -40,7 +40,7 @@
       "file": "FSS-Overlay.ini",
       "read_me": "<h4 align='center'><b>FSS Overlay Mod</b></h4><p align='center'>By <a href='https://github.com/psychicEgg' target='_blank'>psychicEgg</a> and <a href='https://inara.cz/elite/cmdr/293948/' target='_blank'>Parduz</a></p><p align='center'>Maintained by <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>This is an optional Overlay for your FSS that every explorer should have.</p><p align='left'>The FSS Overlay Mod adds an informational overlay on top of the Filtered Spectral Analysis, and indicates what type of Celestial Bodies fall within a particular frequency band.</p><p align='left'>The Mod offers several excellent Overlays created by the community.</p><p align='left'>And don't hesitate to tell us on <a href='https://discord.gg/KTYgJegfYw' target='_blank'>our Discord</a> if you want to design your own overlay and we will help you integrate it into the Mod.</p><p align='left'>Fly Safe. o7</p><p align='center'><a href='https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/FSS-Overlay/Preview.md' target='_blank'>Click to Open Overlay Previews</a></p><p align='center'><image=FSSOverlayDemo.jpg;size=100%;align=top></p>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_ED4.2.0.2_v1.102.0.zip",
-      "thumbnail_url":"https://i.imgur.com/pueu2fD.png",
+      "thumbnail_url":"https://images2.imgbox.com/7b/e4/o3hdmBNF_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    },
    {
@@ -51,7 +51,7 @@
       "file": "FSStarsMod.ini",
       "read_me": "<h4 align='center'><b>Fuel Scooping Stars Mod</b></h4><p align='center'>By <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>This Mod allows to display the Scoopable Stars in a Single Color in order to recognize it easily.</p><p align='left'>You can also change the color of Non Sequence Stars (Black Holes and Neutron Stars) in filter view.</p><br><p align='center'><b>IMPORTANT INFORMATION:</b></p><p align='left'>In filter view Class-G Stars cannot be separated from Class-C Stars so Class-C Stars appear in the same color as Fuel Scooping Stars.</p><p align='left'>Class-C Stars are rare, it may be useful to disable them from the galaxy map filter.</p><p align='left'>Fly Safe. o7</p><p align='center'><a href='https://i.imgur.com/wmJIMHB.jpg' target='_blank'>Preview</a></p><p align='center'><image=FSStarsModDemo.jpg;size=100%;align=top></p>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars/FS_Stars_Mod_ED4.2.0.2_v1.102.0.zip",
-      "thumbnail_url":"https://i.imgur.com/kogY2BX.png",
+      "thumbnail_url":"https://images2.imgbox.com/4a/63/QfE24L0u_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    },
    {
@@ -62,7 +62,7 @@
       "file": "HyperspaceMod.ini",
       "read_me": "<h4 align='center'><b>Hyperspace Mod</b></h4><p align='center'>By <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p>This Mod Customize your Hyperspace Jumps.</p><ul><li>Automatically Turn Off the HUD in Hyperspace</li><li>Disable the Light emitted by the Destination Star</li><li>Make Hyperspace Jumps Very Dark and Scary</li></ul><p align='left'>NOTE: This Mod does NOT affect ARX items, some Cockpit Night Lights, and does NOT modify Fleet Carrier Jumps.</p><p align='center'><a href='https://youtu.be/_6dEIdR6wWA' target='_blank'>Click here to see Preview Video</a></p><p align='center'><image=Hyperspace_Mod_Preview.jpg;size=100%;align=top></p>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_ED4.2.0.2_v1.102.0.zip",
-      "thumbnail_url":"https://i.imgur.com/632CR4r.png",
+      "thumbnail_url":"https://images2.imgbox.com/26/3d/lHxhDb6q_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    },
    {
@@ -73,7 +73,7 @@
       "file": "NoFIDMod.ini",
       "read_me": "<h4 align='center'><b>No FID Mod</b></h4><p align='center'>By <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>You often share your screen and want to keep your Frontier ID (FID) private, this 3PMod is for you.</p><p align='left'>This 3PMod allows you to hide your FID displayed at the Bottom Left of the Main Menu.</p><p align='left'>Fly Safe and Fly Fast. o7</p><p align='center'><image=NoFIDMod.jpg;size=100%;align=top></p>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoFIDMod/No_FID_Mod_ED4.2.0.3_v1.102.1.zip",
-      "thumbnail_url":"https://i.imgur.com/nJfHO93.png",
+      "thumbnail_url":"https://images2.imgbox.com/83/cf/E9W7huJo_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0"
    },
    {
@@ -84,7 +84,7 @@
       "file": "NoMessageBox.ini",
       "read_me": "<h4 align='center'><b>No Message Box Mod</b></h4><p align='center'>By <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><p align='center'>Beta Version</p><br><p align='left'>When you are in Ship or SRV, this Mod allows you to Hide the Message Boxes that appear in the Lower Right Corner, such as when Creating a Route.</p><p align='left'>Other Message Boxes, such as when you are On Foot or those in the Menus, will still be displayed.</p><p align='left'>Fly Safe and Fly Fast. o7</p><p align='center'><image=NoMessageBox.jpg;size=100%;align=top></p>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/NoMessageBox/No_Message_Box_Mod_ED4.2.0.2_v1.102.0.zip",
-      "thumbnail_url":"https://i.imgur.com/YYGm3hq.png",
+      "thumbnail_url":"https://images2.imgbox.com/fb/79/dGJBIBTP_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    },
    {
@@ -95,7 +95,7 @@
       "file": "Keybindings.ini",
       "read_me": "<h4 align=center><b>EDHM Keybindings</b></h4><p align=center>By <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align=left>This mod allows you to set Keyboard Shortcuts for some EDHM options in order to change certain settings with a single keystroke.</p><p align=left>Fly Safe. o7",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/KeyBindings/KeyBindings_ED4.2.x_v3.0.3.zip",
-      "thumbnail_url":"https://i.imgur.com/NXxQvrS.png",
+      "thumbnail_url":"https://images2.imgbox.com/85/75/3tRO56WS_o.png",
       "changelog":"- Improvement for EDHM-UI v3"
    },
    {
@@ -106,7 +106,7 @@
       "file": "lightnight.ini",
       "read_me": "<h4 align='center'><b>Odyssey Light Night Mod</b></h4><p align='center'>By <a href='https://inara.cz/elite/cmdr/382713/' target='_blank'>CMDR R^L</a></p><br><p align='left'>This mod turns off the Light Reflection in SRV + SHIP + STATIONS and on foot.</p><p align='left'>Use this mod FOR COMBAT and less eye stress in some places like near sun or goid stations fight.</p><p align='left'>Light Reflection would hurt your cute eye's so this mod i made for such thing.</p><br><p align='center'><b>THIS MODE IS BETA</b> all comments are welcome.</p><p align='left'><b>Off mod when take pic in Elite especially planets it have some side effects so use this mod only when there is hurt eye Light Reflection.</b></p><p align='left'>Fly Safe. o7</p><p align='center'><a href='https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/LightNight/Resources/LightNight_Preview.png?raw=true' target='_blank'>Preview</a></p><p align='center'><image=LightNightModCompare.jpg;size=100%;align=top></p>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/LightNight/Light_Night_ED4.2.0.2_v0.01.73.zip",
-      "thumbnail_url":"https://i.imgur.com/20I8F3o.png",
+      "thumbnail_url":"https://images2.imgbox.com/c7/72/AMeMgguV_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    },
    {
@@ -117,7 +117,7 @@
       "file": "ThickOrbitLines.ini",
       "read_me": "<h4 align='center'><b>Thick Orbit Lines Mod</b></h4><p align='center'>By <a href='https://github.com/psychicEgg'>psychicEgg</a></p><p align='center'>Maintained by <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>With this Mod you can increase the Glow and Width of your Orbit / Gravity Well / Exclusion Zone Lines (in addition to setting their colour and brightness in the Main Mod EDHM).</p><p align='left'>The effect applies to all types of lines (Orbit, Gravity Well, Exclusion Zone) as they can't be separated in this particular shader.</p><p align='center'><a href='https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Resources/ThickOL-v1.18.1.png?raw=true' target='_blank'>Preview</a></p><p align='center'><image=ThickOrbitLinesImage.png;size=100%;align=top></p>",
       "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_ED4.2.0.2_v1.102.0.zip",
-      "thumbnail_url":"https://i.imgur.com/jCIJWzV.png",
+      "thumbnail_url":"https://images2.imgbox.com/4a/99/qz8V04Qw_o.png",
       "changelog":"- Ready For Elite Dangerous 4.2.1.0<br>- Improvement for EDHM-UI v3"
    }
 ]
