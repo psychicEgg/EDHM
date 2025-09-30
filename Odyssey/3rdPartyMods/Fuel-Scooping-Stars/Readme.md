@@ -1,8 +1,8 @@
-# Fuel Scooping Stars Mod v1.102.0 for Elite Dangerous 4.2.0.3
+# Fuel Scooping Stars Mod v1.102.0 for Elite Dangerous 4.2.1.0
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.2.0.3 --**<br><br>
+**-- Ready for Elite Dangerous 4.2.1.0 --**<br><br>
 
 **Release Notes:**
 - Ready For Elite Dangerous 4.2.0.2

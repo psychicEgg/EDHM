@@ -1,14 +1,15 @@
-# Clean Screenshots Mod v1.102.0 for Elite Dangerous 4.2.0.3
+# Clean Screenshots Mod v1.102.1 for Elite Dangerous 4.2.1.0
 
 ### by Fred89210<br><br>
 
-**-- Fixed for Elite Dangerous 4.2.0.3 --**<br><br>
+**-- Ready for Elite Dangerous 4.2.1.0 --**<br><br>
 
 **Release Notes:**
-- Fixed For Elite Dangerous 4.2.0.2
-- Improvement for EDHM-UI v3
+- Added options to automatically hide all holograms when in SRV, on foot, or using the free camera to keep holograms only when they are useful.
 
 **Previous versions:**
+- Fixed For Elite Dangerous 4.2.0.2
+- Improvement for EDHM-UI v3
 - Added Emergency Only Holograms
 - New option to turn off some spotlights
 - Fixed "Show Mod Status In Game"
@@ -19,15 +20,17 @@
 
 **Description:**
 
-This mod turns off the Holograms of Landing Pads, SRV Entrance and On Foot Entrance and can hide the Tire Tracks of the SRV.
-It is also possible to turn off some Spotlights.
+This mod turns off the Holograms of Landing Pads, SRV Entrance and On Foot Entrance.
 
 Use this mod to take beautiful Screenshots. 🤩
 
-When the `Show Mod Status` option is activated, the Ship Hologram (in the middle of the shield) turns off when turning off the Outer Holograms. (this option is disabled by default)
+It is advisable to leave the External Holograms activated when flying otherwise you will not see the location of your Pad.
 
-The mod allows you to turn off the three elements separately (Holograms, Tire Tracks, Spotlights) using a Keyboard Shortcut.
-It is advisable to leave the Holograms activated when flying otherwise you will not see the location of your Pad.<br>
+When 'Show Mod Status' option is activated, the Ship Hologram *(in the middle of the shield)* turns off when turning off the External Holograms *(this option is disabled by default)*.
+
+Now you can also choose to always Hide External Holograms when you are in SRV or On Foot.
+
+An other option hides the Tire Tracks of the SRV in order to take Clean Screenshots.
 
 -------------------------------------------------------------------------
 
