@@ -1,4 +1,4 @@
-# ED-GT v1.1.0 for Elite Dangerous 4.x
+# ED-GT v1.2.0 for Elite Dangerous 4.x
 
 ### by Blue Mystic<br><br>
 
