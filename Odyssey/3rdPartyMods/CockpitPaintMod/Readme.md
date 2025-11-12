@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- NOT Compatible with Elite Dangerous v4.2.1.0 (Type-11 Update) --**<br><br>
+**-- NOT Compatible with Elite Dangerous v4.2.2.0 (Dodec Update) --**<br><br>
 
 **Release Notes:**
 - v3.18.7 : Fix Sugar Skulls Cockpit Light

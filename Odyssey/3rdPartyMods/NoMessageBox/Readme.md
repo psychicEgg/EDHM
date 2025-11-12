@@ -1,8 +1,8 @@
-# No Message Box Mod v1.102.0 for Elite Dangerous 4.2.1.0
+# No Message Box Mod v1.102.0 for Elite Dangerous 4.2.2.0
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.2.1.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.2.2.0 --**<br><br>
 
 **Release Notes:**
 - Fixed For Elite Dangerous 4.2.0.2

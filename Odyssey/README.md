@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 30 September 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.1.0 *(Odyssey & Horizons Live)* !
+<ins>**ALERT 12 November 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.2.0 *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
@@ -25,7 +25,6 @@ EDHM is powered by [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), it can run on
 
 From EDHM v21.02 from 30 September 2025, EDHM ships with version 1.4.5 of [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) modified by [`MrVaad`](https://github.com/MrVaad):
 - This version enables auto apply settings **for EDHM-UI v3 users** *(when applying a theme, changing settings in 3PMods, and when changing ships via the EDHM-UI v3 Shipyard feature)*.
-- This release also includes 3Dmigoto's `nvapi64.dll` to see if it can resolve issues with enabling `Nvidia Smooth Motion`. If this doesn't help, this dll will be removed later.
 - You can find the 3Dmigoto Loader for this version [`HERE`](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/Resources/3Dmigoto_Loader_by_MrVaad/) *(for advanced users only)*.
 
 <ins>Note:</ins> With [Blue Mystic](https://github.com/BlueMystical) we work in collaboration. Blue Mystic develops the UI *(the application)* and I develop EDHM *(the game mod)*, which allows us to deliver a complete application including the User Interface to manage EDHM **and** the latest version of the EDHM. So, by installing [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases), EDHM will be automatically installed as well.

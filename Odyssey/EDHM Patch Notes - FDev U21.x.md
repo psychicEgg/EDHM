@@ -1,6 +1,14 @@
-## EDHM v21.00 to v21.02 for Elite Dangerous v4.2.1.0 Patch Notes
+## EDHM v21.00 to v21.03 for Elite Dangerous v4.2.2.0 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.2.1.0 (Type-11 Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.2.2.0 (Dodec Update) --<br><br>
+
+**EDHM v21.03:**
+- Fix for Elite Dangerous v4.2.2.0 (Dodec Update)
+- Fix Fuel for Next Jump Brightness (w94)
+- Analysis Mode Icons are now linked to Analysis HUD (w140 & xyzw54)
+- `nvapi64.dll` removed because it was unnecessary
+
+-------------------------------------------------------------------------
 
 **EDHM v21.02:**
 - Fix for Elite Dangerous v4.2.1.0 (Type-11 Update)

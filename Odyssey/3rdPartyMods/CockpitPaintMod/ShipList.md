@@ -11,6 +11,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Asp Explorer         | ✓      | 6               |
 | Asp Scout            | ✗      | 7               |
 | Beluga Liner         | ✓      | 8               |
+| Caspian Explorer     | ✗      | 54              |
 | Cobra Mk III         | ✓      | 9               |
 | Cobra Mk IV          | ✓      | 10              |
 | Cobra Mk V           | ✗      | 50              |

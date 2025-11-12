@@ -1,8 +1,8 @@
-# Clean Screenshots Mod v1.102.1 for Elite Dangerous 4.2.1.0
+# Clean Screenshots Mod v1.102.1 for Elite Dangerous 4.2.2.0
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.2.1.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.2.2.0 --**<br><br>
 
 **Release Notes:**
 - Added options to automatically hide all holograms when in SRV, on foot, or using the free camera to keep holograms only when they are useful.
