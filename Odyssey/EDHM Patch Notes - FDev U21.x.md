@@ -1,6 +1,12 @@
-## EDHM v21.00 to v21.04 for Elite Dangerous v4.3.0.0 Patch Notes
+## EDHM v21.00 to v21.05 for Elite Dangerous v4.3.0.0 Patch Notes
 
 ### -- Fixed for Elite Dangerous v4.3.0.0 (Caspian Explorer Update) --<br><br>
+
+**EDHM v21.05:**
+- Second Fix for Elite Dangerous v4.3.0.0 (Caspian Explorer Update)
+  - Fix Outfitting Menu
+
+-------------------------------------------------------------------------
 
 **EDHM v21.04:**
 - Fix for Elite Dangerous v4.3.0.0 (Caspian Explorer Update)
