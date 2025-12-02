@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 12 November 2025:**</ins> New Version of EDHM for Elite Dangerous v4.2.2.0 *(Odyssey & Horizons Live)* !
+<ins>**ALERT 02 December 2025:**</ins> New Version of EDHM for Elite Dangerous v4.3.0.0 *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
@@ -139,7 +139,13 @@ The colors displayed in-game are completely inconsistent with your settings and/
 
 ---
 
-Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
+Game Crash on Startup or refuse to open after installing EDHM:
+
+1 - [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) uses injection, so if you use other programs or mods that also use injection in Elite Dangerous, it may create a conflict and cause Crashes or Instability.
+Even simple overlay programs can use injection, so it is recommended to disable overlays in Elite Dangerous.
+Other programs, such as some screen recording programs, may also use injection and thus create a conflict that will Crash the Game, like Overwolf Outplayed, for example.
+
+2 - Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
 In this situation, the following solutions may work:
  1. See `Smooth Motion` and `Nvidias Latency` Settings *(most common cause of the problem)*
  2. Disable Automatic Setting at the bottom of the Auto GPU Tuning Page

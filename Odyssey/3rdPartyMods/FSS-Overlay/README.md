@@ -1,9 +1,9 @@
-# FSS Overlay v1.102.0 for Elite Dangerous 4.2.2.0
+# FSS Overlay v1.102.0 for Elite Dangerous 4.3.0.0
 
 ### by psychicEgg and Parduz
 *Maintained by Fred89210*<br><br>
 
-**-- Ready for Elite Dangerous 4.2.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.3.0.0 --**<br><br>
 
 **Release Notes:**
 - Fixed For Elite Dangerous 4.2.0.2

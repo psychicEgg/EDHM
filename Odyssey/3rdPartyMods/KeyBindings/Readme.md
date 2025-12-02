@@ -1,4 +1,4 @@
-# EDHM Keybindings Mod v3.0.3 for Elite Dangerous 4.2.x
+# EDHM Keybindings Mod v3.0.3 for Elite Dangerous 4.3.x
 
 ### by Fred89210<br><br>
 

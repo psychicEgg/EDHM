@@ -1,9 +1,9 @@
-# Enhanced Biome Overlay v1.102.1 for Elite Dangerous 4.2.2.0
+# Enhanced Biome Overlay v1.102.1 for Elite Dangerous 4.3.0.0
 
 ### by psychicEgg
 *Maintained by Fred89210*<br><br>
 
-**-- Ready for Elite Dangerous 4.2.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.3.0.0 --**<br><br>
 
 **Release Notes:**
 - Fixed a Color Issue in Orbit with High and Ultra Quality

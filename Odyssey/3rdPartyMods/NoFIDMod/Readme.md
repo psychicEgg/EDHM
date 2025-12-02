@@ -1,8 +1,8 @@
-# No FID Mod v1.102.1 for Elite Dangerous 4.2.2.0
+# No FID Mod v1.102.1 for Elite Dangerous 4.3.0.0
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.2.2.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.3.0.0 --**<br><br>
 
 **Release Notes:**
 - Fixed an issue where the FID was not hidden in certain situations

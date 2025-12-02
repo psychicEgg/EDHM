@@ -1,6 +1,13 @@
-## EDHM v21.00 to v21.03 for Elite Dangerous v4.2.2.0 Patch Notes
+## EDHM v21.00 to v21.04 for Elite Dangerous v4.3.0.0 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.2.2.0 (Dodec Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.3.0.0 (Caspian Explorer Update) --<br><br>
+
+**EDHM v21.04:**
+- Fix for Elite Dangerous v4.3.0.0 (Caspian Explorer Update)
+- Fix Dodec Icons
+- Fix CQC Rank Icon
+
+-------------------------------------------------------------------------
 
 **EDHM v21.03:**
 - Fix for Elite Dangerous v4.2.2.0 (Dodec Update)
