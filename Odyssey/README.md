@@ -95,7 +95,7 @@ To manually uninstall EDHM, you must:
 Alternative method:
 - **Close the game** and open the game's installation directory.
 - Deleted all files and folders contained in the EDHM `.zip` available here. That is to say:
-  - Files: `d3d11.dll`, `d3dcompiler_46.dll`, `d3dx.ini`, `EDHM-Uninstall.bat` *(and `nvapi64.dll` if present)*
+  - Files: `d3d11.dll`, `d3dcompiler_47.dll`, `d3dx.ini`, `EDHM-Uninstall.bat` *(and `nvapi64.dll` if present)*
   - Folders and their contents: `EDHM-ini`, `ShaderFixes` *(these folders contain only EDHM files, no files from the original game)*.
 
 After that, ALL EDHM files will be deleted. Since EDHM does NOT modify/replace the original files, your game will be returned to its original state.
@@ -129,6 +129,12 @@ In rare cases, some elements are not immediately redrawn when applying new EDHM 
 After a game update, the interface has become <ins>**completely**</ins> orange:
 - The game update likely deleted the EDHM files, in this case, reinstall EDHM.
 
+*The deletion of EDHM files during game updates depends on your configuration. Some users will never have their EDHM files deleted, while others will have them deleted with every update.*
+
+*For example, if you have installed the game in a secondary Steam Library (other than the Default Library), the EDHM files will never be deleted.*
+
+---
+
 After a game update, the interface has become <ins>**partially**</ins> orange and some customizations no longer work:
 - The game update made changes to the game that prevent EDHM from functioning properly. EDHM will therefore need to be updated as well. Keep an eye on this Github *(or EDHM_UI if you're using EDHM_UI)*, as an EDHM update will be available soon.
 
@@ -141,11 +147,11 @@ The colors displayed in-game are completely inconsistent with your settings and/
 
 Game Crash on Startup or refuse to open after installing EDHM:
 
-1 - [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) uses injection, so if you use other programs or mods that also use injection in Elite Dangerous, it may create a conflict and cause Crashes or Instability.
+- [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) uses injection, so if you use other programs or mods that also use injection in Elite Dangerous, it may create a conflict and cause Crashes or Instability.
 Even simple overlay programs can use injection, so it is recommended to disable overlays in Elite Dangerous.
 Other programs, such as some screen recording programs, may also use injection and thus create a conflict that will Crash the Game, like Overwolf Outplayed, for example.
 
-2 - Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
+- Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
 In this situation, the following solutions may work:
  1. See `Smooth Motion` and `Nvidias Latency` Settings *(most common cause of the problem)*
  2. Disable Automatic Setting at the bottom of the Auto GPU Tuning Page
@@ -170,10 +176,6 @@ Please note: Not everyone experiences a conflict between their Controller and th
 
 ---
 
-If you want to use EDHM with OpenComposite/OpenXR, the community has found solutions to make them work together. You can find this information [here](https://forums.frontier.co.uk/threads/any-luck-running-opencompositeacc-openxr-toolkit.602523/page-6#post-10580496) and [here](https://forums.frontier.co.uk/threads/any-luck-running-opencompositeacc-openxr-toolkit.602523/page-5#post-10036668).
-
----
-
 ### If you encounter any further issues or have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
 ---
@@ -181,7 +183,7 @@ If you want to use EDHM with OpenComposite/OpenXR, the community has found solut
 
 #### <ins>Other information:</ins>
 
-For EDHM with OpenComposite - OpenXR, consult the [Frontier Forum](https://forums.frontier.co.uk/threads/any-luck-running-opencompositeacc-openxr-toolkit.602523/post-10580496). 
+If you want to use EDHM with OpenComposite/OpenXR, the community has found solutions to make them work together. You can find this information [here](https://forums.frontier.co.uk/threads/any-luck-running-opencompositeacc-openxr-toolkit.602523/page-6#post-10580496) and [here](https://forums.frontier.co.uk/threads/any-luck-running-opencompositeacc-openxr-toolkit.602523/page-5#post-10036668).
 
 ---
 ---

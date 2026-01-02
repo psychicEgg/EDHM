@@ -19,3 +19,7 @@
 ### Overlay 5 Simplified Version by Syrania (Original by CMDR Razor2)
 
 ![Overlay 5 Simplified Version by Syrania (Original by CMDR Razor2)](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/Resources/OverlayPreview/Overlay-5.jpg?raw=true)
+
+### Overlay 6 Russian Version by RetroPaladin (Original by CMDR Razor2 and Syrania)
+
+![Overlay 6 Russian Version by RetroPaladin (Original by CMDR Razor2 and Syrania)](https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/Resources/OverlayPreview/Overlay-6.jpg?raw=true)

@@ -1,15 +1,16 @@
-# FSS Overlay v1.102.0 for Elite Dangerous 4.3.0.0
+# FSS Overlay v1.102.1 for Elite Dangerous 4.3.0.1
 
 ### by psychicEgg and Parduz
 *Maintained by Fred89210*<br><br>
 
-**-- Ready for Elite Dangerous 4.3.0.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.3.0.1 --**<br><br>
 
 **Release Notes:**
-- Fixed For Elite Dangerous 4.2.0.2
-- Improvement for EDHM-UI v3
+- New Russian Version Overlay by RetroPaladin
 
 **Previous versions:**
+- Fixed For Elite Dangerous 4.2.0.2
+- Improvement for EDHM-UI v3
 - Fix for transparency issue
 - Added Keybinds to Enable/Disable and Switch Template of the FSS Overlay
 - Add Overlay 4 for FSS Overlay - Edited Version by Taneth (Original by CMDR Razor2)
@@ -40,6 +41,8 @@ Without EDHM_UI:
 Edit `FSS-Overlay.ini`.
 
 -------------------------------------------------------------------------
+
+NOTE: For all requests for modifications/corrections concerning existing Overlays, please contact the Overlay author via the [EDHM Discord](https://discord.gg/KTYgJegfYw). Only the Overlay authors possess the original files of their Overlays.
 
 **For modders, I've added full comments to the shader code so it can be updated or improved without my input.**
 
