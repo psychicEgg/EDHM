@@ -1,6 +1,18 @@
-## EDHM v21.00 to v21.05 for Elite Dangerous v4.3.0.0 Patch Notes
+## EDHM v21.00 to v21.06 for Elite Dangerous v4.3.0.1 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.3.0.0 (Caspian Explorer Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.3.0.1 (Caspian Explorer Update) --<br><br>
+
+**EDHM v21.06:**
+- Fix the Boarding Menu issue which could cause it to flash in certain situations
+- Fix FSS/DSS Percentage Text
+  - Since a recent game update, this element is no longer treated as text by the game.
+- Fix the Squadron Menu in 1080p which was not always coloured correctly depending on the user graphics settings and the Launcher
+  - Note that some resolutions higher than 1080p may still work correctly when they correspond to the final resolution 1080p x Supersampling Factor.
+  - I cannot check higher resolutions and Frontier Launcher. Ideally I would like to modify the Squadron Menu detection method so as not to depend on user settings but for the moment I have not found any resources allowing this. For higher resolutions, an (imperfect) workaround can be enabled using `global $UHDSquadronMenuTEST` found in `d3dx.ini`.
+- Add EDHM Version Overlay
+- Fix some icons
+
+-------------------------------------------------------------------------
 
 **EDHM v21.05:**
 - Second Fix for Elite Dangerous v4.3.0.0 (Caspian Explorer Update)
