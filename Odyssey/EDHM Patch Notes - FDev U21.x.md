@@ -1,6 +1,11 @@
-## EDHM v21.00 to v21.06 for Elite Dangerous v4.3.0.1 Patch Notes
+## EDHM v21.00 to v21.07 for Elite Dangerous v4.3.0.1 Patch Notes
 
 ### -- Fixed for Elite Dangerous v4.3.0.1 (Caspian Explorer Update) --<br><br>
+
+**EDHM v21.07:**
+- Add a warning when an EDHM update is not installed correctly
+
+-------------------------------------------------------------------------
 
 **EDHM v21.06:**
 - Fix the Boarding Menu issue which could cause it to flash in certain situations
