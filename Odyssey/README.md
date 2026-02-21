@@ -19,7 +19,9 @@ Unlike modifying the Color Matrix in the `GraphicsConfigurationOverride.xml` fil
 
 Since EDHM is a third-party mod, it can happen that certain game updates break it, resulting in the original color being displayed for the affected elements, but the game will continue to work and an EDHM update will arrive in the next few hours, or even days for the most important updates.
 
-EDHM works on Windows and Linux but does not work on Mac/Crossover.
+EDHM and its 3PMods are developed and works with Windows 10/11. EDHM **can** work correctly with most Linux distributions but EDHM does not work on Mac/Crossover.
+
+Some modded elements require **a screen resolution of at least 1920x1080** *(also take into account Supersampling which can divide the selected resolution)*, using a lower final resolution may prevent some elements from being colored correctly *(such as the Shield for example)*.
 
 EDHM is powered by [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), it can run on its own, but we recommend using [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases), which is a User Interface that makes it easier to install and configure EDHM and its 3PMods, use HUD Themes, and more.
 
@@ -147,17 +149,17 @@ The colors displayed in-game are completely inconsistent with your settings and/
 
 Game Crash on Startup or refuse to open after installing EDHM:
 
-- [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) uses injection, so if you use other programs or mods that also use injection in Elite Dangerous, it may create a conflict and cause Crashes or Instability.
-Even simple overlay programs can use injection, so it is recommended to disable overlays in Elite Dangerous.
-Other programs, such as some screen recording programs, may also use injection and thus create a conflict that will Crash the Game, like Overwolf Outplayed, for example.
-
-- Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
+1 - Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
 In this situation, the following solutions may work:
  1. See `Smooth Motion` and `Nvidias Latency` Settings *(most common cause of the problem)*
  2. Disable Automatic Setting at the bottom of the Auto GPU Tuning Page
  3. Disable `NVIDIA Overlay`
 
-This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), two things beyond our control.
+*This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), two things beyond our control.*
+
+2 - [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) uses injection, so if you use other programs or mods that also use injection in Elite Dangerous, it may create a conflict and cause Crashes or Instability.
+Even simple overlay programs can use injection, so it is recommended to disable overlays in Elite Dangerous.
+Other programs, such as some screen recording programs, may also use injection and thus create a conflict that will Crash the Game, like Overwolf Outplayed, for example.
 
 ---
 

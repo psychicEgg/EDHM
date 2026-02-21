@@ -1,4 +1,4 @@
-# FSS Overlay v1.102.1 for Elite Dangerous 4.3.0.1
+# FSS Overlay v1.102.2 for Elite Dangerous 4.3.0.1
 
 ### by psychicEgg and Parduz
 *Maintained by Fred89210*<br><br>
@@ -6,9 +6,10 @@
 **-- Ready for Elite Dangerous 4.3.0.1 --**<br><br>
 
 **Release Notes:**
-- New Russian Version Overlay by RetroPaladin
+- Updated Russian Version Overlay by RetroPaladin
 
 **Previous versions:**
+- New Russian Version Overlay by RetroPaladin
 - Fixed For Elite Dangerous 4.2.0.2
 - Improvement for EDHM-UI v3
 - Fix for transparency issue

@@ -34,14 +34,14 @@
    },
    {
       "mod_name":"FSS-Overlay",
-      "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.3.0.1. v1.102.1",
+      "description":"This mod adds an Overlay to the FSS. This Overlay makes it easy to identify the different frequencies. For Elite Dangerous 4.3.0.1. v1.102.2",
       "author":"psychicEgg and Parduz",
-      "mod_version":"1.102.1",
+      "mod_version":"1.102.2",
       "file": "FSS-Overlay.ini",
       "read_me": "<h4 align='center'><a href='https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/FSS-Overlay' target='_blank'><b>FSS Overlay Mod</b></a></h4><p align='center'>By <a href='https://github.com/psychicEgg' target='_blank'>psychicEgg</a> and <a href='https://inara.cz/elite/cmdr/293948/' target='_blank'>Parduz</a></p><p align='center'>Maintained by <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>This is an optional Overlay for your FSS that every explorer should have.</p><p align='left'>The FSS Overlay Mod adds an informational overlay on top of the Filtered Spectral Analysis, and indicates what type of Celestial Bodies fall within a particular frequency band.</p><p align='left'>The Mod offers several excellent Overlays created by the community.</p><p align='left'>And don't hesitate to tell us on <a href='https://discord.gg/KTYgJegfYw' target='_blank'>our Discord</a> if you want to design your own overlay and we will help you integrate it into the Mod.</p><p align='left'>Fly Safe. o7</p><p align='center'><a href='https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/FSS-Overlay/Preview.md' target='_blank'>Click to Open Overlay Previews</a></p><p align='center'><img src='https://images2.imgbox.com/76/5e/MwFm92xw_o.jpg' alt='Preview' style='max-width:100%; height:auto;'/></p>",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_ED4.3.0.1_v1.102.1.zip",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/FSS-Overlay/FSS_Overlay_Mod_ED4.3.0.1_v1.102.2.zip",
       "thumbnail_url":"https://images2.imgbox.com/7b/e4/o3hdmBNF_o.png",
-      "changelog":"- New Russian Version Overlay by RetroPaladin<br>- Ready For Elite Dangerous 4.3.0.1<br>"
+      "changelog":"- Updated Russian Version Overlay by RetroPaladin<br>- Ready For Elite Dangerous 4.3.0.1<br>"
    },
    {
       "mod_name":"Fuel Scooping Stars Mod",

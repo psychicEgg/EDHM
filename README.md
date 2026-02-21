@@ -19,7 +19,9 @@ Unlike modifying the Color Matrix in the `GraphicsConfigurationOverride.xml` fil
 
 Since EDHM is a third-party mod, it can happen that certain game updates break it, resulting in the original color being displayed for the affected elements, but the game will continue to work and an EDHM update will arrive in the next few hours, or even days for the most important updates.
 
-EDHM works on Windows and Linux but does not work on Mac/Crossover.
+EDHM and its 3PMods are developed and works with Windows 10/11. EDHM **can** work correctly with most Linux distributions but EDHM does not work on Mac/Crossover.
+
+Some modded elements require **a screen resolution of at least 1920x1080** *(also take into account Supersampling which can divide the selected resolution)*, using a lower final resolution may prevent some elements from being colored correctly *(such as the Shield for example)*.
 
 EDHM is powered by [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), it can run on its own, but we recommend using [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases), which is a User Interface that makes it easier to install and configure EDHM and its 3PMods, use HUD Themes, and more.
 
@@ -53,7 +55,7 @@ Latest version for Elite Dangerous 3.8 Horizons Legacy: v1.52b (26 December 2021
 
 If you prefer not to configure the mod manually *(in a text editor)* then please use [EDHM UI](https://github.com/BlueMystical/EDHM_UI/releases).
 
-EDHM for Elite Dangerous Horizons Legacy 3.8 is no longer being developed. However, it's still a good mod with lots of options.
+**EDHM for Elite Dangerous Horizons Legacy 3.8 is no longer being developed. However, it's still a good mod with lots of options.**
 
 [EDHM for Horizons v1.5 video](https://youtu.be/7MqgLzI-8fA)
 
