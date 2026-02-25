@@ -1,9 +1,9 @@
-# FSS Overlay v1.102.2 for Elite Dangerous 4.3.0.1
+# FSS Overlay v1.102.2 for Elite Dangerous 4.3.1.0
 
 ### by psychicEgg and Parduz
 *Maintained by Fred89210*<br><br>
 
-**-- Ready for Elite Dangerous 4.3.0.1 --**<br><br>
+**-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
 - Updated Russian Version Overlay by RetroPaladin

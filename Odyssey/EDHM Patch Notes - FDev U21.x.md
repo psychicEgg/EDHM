@@ -1,6 +1,17 @@
-## EDHM v21.00 to v21.07 for Elite Dangerous v4.3.0.1 Patch Notes
+## EDHM v21.00 to v21.08 for Elite Dangerous v4.3.1.0 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.3.0.1 (Caspian Explorer Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.3.1.0 (Krestel MKII Update) --<br><br>
+
+**EDHM v21.08:**
+- Fix for FDev U4.3.1.0 (Krestel Update)
+- Fix Station Menus
+- Activation of Color Protection for New Frontline Money Icons, already visible in some Menus, to preserve the Original Color (as was already the case for ARX)
+- Attempt to fix certain characters (e.g. "j" and "É") that are displayed in the wrong color in the Comm Panel at screen resolutions higher than 1080p. This is an old and complicated EDHM issue, this fix will be reverted if it is found to cause contamination.
+
+I can't currently enter the Stations on foot, so I can't verify that everything is working there, but the Terminals should still be repaired. I can't check the NPC dialogue boxes (I don't think they've been broken).
+I was able to partially check the status of Odyssey Settlement using the tutorial, and it seems okay.
+
+-------------------------------------------------------------------------
 
 **EDHM v21.07:**
 - Add a warning when an EDHM update is not installed correctly
