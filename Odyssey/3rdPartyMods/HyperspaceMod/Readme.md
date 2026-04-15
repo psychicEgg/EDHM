@@ -1,11 +1,12 @@
-# Hyperspace Mod v1.102.0 for Elite Dangerous 4.3.1.0
+# Hyperspace Mod v1.103.0 for Elite Dangerous 4.3.1.0
 
 ### by Fred89210<br><br>
 
 **-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
-- Fixed For Elite Dangerous 4.2.0.2
+- Now the Cockpit Lighting is separate from the HUD, so it's possible to turn one off and keep the other on
+- Added several Keys and Combinations for Keybinds
 - Improvement for EDHM-UI v3
 
 -------------------------------------------------------------------------
@@ -14,7 +15,7 @@
 
 This Mod Customize your Hyperspace Jumps.
 
-Automatically Turn Off the HUD in Hyperspace, Disable the Light emitted by the Destination Star, or make Hyperspace Jumps Very Dark and Scary.
+Automatically Turn Off the HUD and Cockpit Lighting in Hyperspace, Disable the Light emitted by the Destination Star, or make Hyperspace Jumps Very Dark and Scary.
 
 NOTE: This Mod does not affect ARX items, some Cockpit Night Lights and does NOT modify Fleet Carrier Jumps.<br>
 
