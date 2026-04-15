@@ -5,6 +5,7 @@
 **-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
+- Added several Keys and Combinations for Keybinds
 - Added options to automatically hide all holograms when in SRV, on foot, or using the free camera to keep holograms only when they are useful.
 
 **Previous versions:**

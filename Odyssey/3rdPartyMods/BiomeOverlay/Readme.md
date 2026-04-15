@@ -6,8 +6,8 @@
 **-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
+- Added several Keys and Combinations for Keybinds
 - Fixed a Color Issue in Orbit with High and Ultra Quality
-- Fixed For Elite Dangerous 4.2.0.2
 - Improvement for EDHM-UI v3
 
 -------------------------------------------------------------------------

@@ -3,6 +3,7 @@
 ### by Fred89210<br><br>
 
 **Release Notes:**
+- Added several Keys and Combinations for Keybinds
 - Improvement for EDHM-UI v3
 
 -------------------------------------------------------------------------

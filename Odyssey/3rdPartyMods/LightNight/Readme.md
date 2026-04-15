@@ -5,7 +5,7 @@
 **-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
-- Ready For Elite Dangerous 4.2.0.2
+- Added several Keys and Combinations for Keybinds
 - Improvement for EDHM-UI v3
 
 -------------------------------------------------------------------------

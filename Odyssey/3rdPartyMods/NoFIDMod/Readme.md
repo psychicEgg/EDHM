@@ -5,6 +5,7 @@
 **-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
+- Added several Keys and Combinations for Keybinds
 - Fixed an issue where the FID was not hidden in certain situations
 
 -------------------------------------------------------------------------

@@ -5,7 +5,7 @@
 **-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
-- Fixed For Elite Dangerous 4.2.0.2
+- Added several Keys and Combinations for Keybinds
 - Improvement for EDHM-UI v3
 
 -------------------------------------------------------------------------
@@ -13,8 +13,6 @@
 **Description:**
 
 This Mod allows you to Hide the Message Boxes that appear in the Lower Right Corner, such as when Creating a Route.
-
-This Mod is in Beta Testing and could therefore cause unexpected behavior.
 
 If you encounter any issues with this mod, please contact me on the [EDHM Discord](https://discord.gg/KTYgJegfYw).
 

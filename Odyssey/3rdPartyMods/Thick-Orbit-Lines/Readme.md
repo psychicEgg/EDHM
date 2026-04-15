@@ -6,14 +6,8 @@
 **-- Ready for for Elite Dangerous 4.3.1.0 --**<br><br>
 
 **Release Notes:**
-- Fixed For Elite Dangerous 4.2.0.2
+- Added several Keys and Combinations for Keybinds
 - Improvement for EDHM-UI v3
-
--------------------------------------------------------------------------
-
-Please note that this mod is still in beta testing.
-
-If you encounter any issues, please report them on the [EDHM Discord](https://discord.gg/KTYgJegfYw).
 
 -------------------------------------------------------------------------
 

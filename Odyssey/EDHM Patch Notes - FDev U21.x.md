@@ -1,9 +1,9 @@
 ## EDHM v21.00 to v21.08 for Elite Dangerous v4.3.1.0 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.3.1.0 (Krestel MKII Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.3.1.0 (Kestrel MKII Update) --<br><br>
 
 **EDHM v21.08:**
-- Fix for FDev U4.3.1.0 (Krestel Update)
+- Fix for FDev U4.3.1.0 (Kestrel Update)
 - Fix Station Menus
 - Activation of Color Protection for New Frontline Money Icons, already visible in some Menus, to preserve the Original Color (as was already the case for ARX)
 - Attempt to fix certain characters (e.g. "j" and "É") that are displayed in the wrong color in the Comm Panel at screen resolutions higher than 1080p. This is an old and complicated EDHM issue, this fix will be reverted if it is found to cause contamination.

@@ -151,9 +151,10 @@ Game Crash on Startup or refuse to open after installing EDHM:
 
 1 - Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
 In this situation, the following solutions may work:
- 1. See `Smooth Motion` and `Nvidias Latency` Settings *(most common cause of the problem)*
- 2. Disable Automatic Setting at the bottom of the Auto GPU Tuning Page
+ 1. Disable `NVIDIA Smooth Motion` *(most common cause of the problem)*
+ 2. Disable NVIDIA Automatic Settings at the bottom of the Auto GPU Tuning Page
  3. Disable `NVIDIA Overlay`
+ 4. See `NVIDIA Latency` Settings
 
 *This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), two things beyond our control.*
 

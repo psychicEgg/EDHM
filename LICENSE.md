@@ -81,4 +81,4 @@ This project is not affiliated with, endorsed by, or supported by Frontier Devel
 
 ---
 
-© 2023–2025 Fred89210 – All rights reserved.
+© 2023–2026 Fred89210 – All rights reserved.

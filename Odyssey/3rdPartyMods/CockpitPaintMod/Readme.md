@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- NOT Compatible with Elite Dangerous v4.3.1.0 (Krestel MKII Update) --**<br><br>
+**-- NOT Compatible with Elite Dangerous v4.3.1.0 (Kestrel MKII Update) --**<br><br>
 
 **Release Notes:**
 - v3.18.7 : Fix Sugar Skulls Cockpit Light
