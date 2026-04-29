@@ -1,4 +1,4 @@
-# No FID Mod v1.102.1 for Elite Dangerous 4.3.1.0
+# No FID Mod v1.102.1 for Elite Dangerous 4.3.3.0
 
 ### by Fred89210<br><br>
 

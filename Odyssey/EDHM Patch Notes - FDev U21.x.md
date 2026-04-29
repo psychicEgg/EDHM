@@ -1,6 +1,16 @@
-## EDHM v21.00 to v21.08 for Elite Dangerous v4.3.1.0 Patch Notes
+## EDHM v21.00 to v21.09 for Elite Dangerous v4.3.3.0 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.3.1.0 (Kestrel MKII Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.3.3.0 (Lynx Highliner Update) --<br><br>
+
+**EDHM v21.09:**
+- Fix for FDev U4.3.3.0 (Lynx Highliner Update)
+- Fix Station Menus
+- Fix New Scientific Research Contact Artwork
+- Adjust the Width of the EDHM Version in the Main Menu to reduce the stretching effect on Ultrawide Screens
+
+I can't currently enter the Stations on foot, so I can't verify that everything is working there, but the Terminals should still be ok. I can't check the NPC dialogue boxes (I don't think they've been broken).
+
+-------------------------------------------------------------------------
 
 **EDHM v21.08:**
 - Fix for FDev U4.3.1.0 (Kestrel Update)

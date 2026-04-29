@@ -34,6 +34,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Krait Mk II          | ✓      | 26              |
 | Krait Phantom        | ✓      | 27              |
 | Kestrel Mk II        | ✗      | 55              |
+| Lynx Highliner       | ✗      | 56              |
 | Mamba                | ✓      | 28              |
 | Mandalay             | ✗      | 49              |
 | Orca                 | ✓      | 29              |

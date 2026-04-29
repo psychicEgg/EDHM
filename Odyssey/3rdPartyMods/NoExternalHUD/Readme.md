@@ -1,8 +1,8 @@
-# No External HUD Mod v1.102.1 for Elite Dangerous 4.3.1.0
+# No External HUD Mod v1.102.1 for Elite Dangerous 4.3.3.0
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.3.1.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.3.3.0 --**<br><br>
 
 **Release Notes:**
 - Added several Keys and Combinations for Keybinds

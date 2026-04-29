@@ -1,4 +1,4 @@
-# Odyssey Light Night Mod v0.01.73 for Elite Dangerous 4.3.1.0
+# Odyssey Light Night Mod v0.01.73 for Elite Dangerous 4.3.3.0
 
 ### by CMDR R^L<br><br>
 
