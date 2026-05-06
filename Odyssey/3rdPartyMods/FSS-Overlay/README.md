@@ -30,6 +30,8 @@ The Mod offers several excellent Overlays created by the community.
 
 Don't hesitate to tell us on our [Discord](https://discord.gg/KTYgJegfYw) if you want to design your own overlay and we will help you integrate it into the Mod.<br>
 
+[Click HERE to see a preview of the different Overlays available.](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/3rdPartyMods/FSS-Overlay/Preview.md)
+
 -------------------------------------------------------------------------
 
 **How to use:**

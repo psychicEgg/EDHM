@@ -4,6 +4,14 @@
 
 **-- NOT Compatible with Elite Dangerous v4.3.3.0 (Lynx Highliner Update) --**<br><br>
 
+After examining CPM following the various game updates, it turns out that each new ship significantly modifies the shaders and textures used by CPM, which requires considerable time to repair each time, even though it will almost immediately be broken again by a new game update.
+
+I don't have enough time to work on CPM in addition to EDHM, so I wouldn't be able to do the work necessary to repair CPM with each update.
+
+For this reason, I've decided to stop trying to repair CPM.
+
+-------------------------------------------------------------------------
+
 **Release Notes:**
 - v3.18.7 : Fix Sugar Skulls Cockpit Light
 - v3.18.6 : Fix for FDev U18.09

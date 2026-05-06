@@ -4,7 +4,9 @@
 
 ## NOTE:
 
-The ED-GT plugin is NOT a 3PMod for EDHM, but a plugin for EDHM_UI.
+The ED-GT plugin is **NOT** a 3PMod for EDHM, but a plugin for EDHM_UI.
+
+**ED-GT has no relation to EDHM, its presence here is solely for the purpose of making it available for quick download directly from EDHM_UI.**
 
 This plugin CANNOT work without EDHM_UI.<br>
 
@@ -28,5 +30,5 @@ Tweaks for the `GraphicsConfigurationOverride.xml` file.<br>
 
 -------------------------------------------------------------------------
 
-To say thanks or provide feedback about the Hyperspace Mod, contact:
+For any questions or requests regarding ED-GT, contact:
 - Blue Mystic on the [EDHM Discord](https://discord.gg/KTYgJegfYw)<br>

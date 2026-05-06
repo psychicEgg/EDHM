@@ -47,7 +47,7 @@ The lighting should now cover all orange lighting. However, this makes the prima
 
 - The main ship artwork on the Carrier / Station panels will now take the custom colour you use for the ship sketch on the Advanced Maintenance Panel
 
-![Ship Artwork](https://github.com/psychicEgg/EDHM/blob/main/Resources/Odyssey/images/v13.5-Ship-Artwork.jpg?raw=true)
+![Ship Artwork](https://github.com/psychicEgg/EDHM/blob/main/Odyssey/Resources/images/v13.5-Ship-Artwork.jpg?raw=true)
 <br><br>
 
 <ins>Removed:</ins>

@@ -32,7 +32,7 @@ This mod is an update of 'Odyssey Key Bindings' mod.<br>
 - `Not Assigned`: Sunglasses Mode (Bloom) Toggle.
 - `Not Assigned`: Change Galmap Fog Reduction.
 
-<br><br><br>
+-------------------------------------------------------------------------
 
 **Mod Hotkeys can be changed:**
 

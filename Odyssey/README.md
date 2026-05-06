@@ -164,6 +164,16 @@ Other programs, such as some screen recording programs, may also use injection a
 
 ---
 
+**For Steam Users on Linux ONLY:**
+
+Game Crash on Startup or refuse to open after installing EDHM on Linux:
+
+In the Steam game's `Compatibility` tab, check `Force the use of a specific Steam Play compatibility tool` and then select a version of `Proton 10`.
+
+*Several recent reports have indicated issues with EDHM and `Proton Experimental` and `Proton 11 Beta`.*
+
+---
+
 Some CMDRs have reported their PS or Xbox Controller doesn't work with the mod.
 
 This often occurs when `Steam Overlay` is activated and managing the Controller *(the mod is not compatible with `Steam Overlay`)*.

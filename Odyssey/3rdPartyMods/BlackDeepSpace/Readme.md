@@ -2,6 +2,8 @@
 
 ### by psychicEgg<br><br>
 
+## This 3PMod is no longer maintained and probably does not work with the latest versions of the game.<br><br>
+
 **-- Ready for FDev U17.01 --**<br><br>
 
 -------------------------------------------------------------------------
