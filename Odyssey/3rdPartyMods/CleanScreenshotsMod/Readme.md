@@ -1,8 +1,8 @@
-# Clean Screenshots Mod v1.102.1 for Elite Dangerous 4.3.3.0
+# Clean Screenshots Mod v1.102.1 for Elite Dangerous 4.4.0.3
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.3.3.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.4.0.3 --**<br><br>
 
 **Release Notes:**
 - Added several Keys and Combinations for Keybinds

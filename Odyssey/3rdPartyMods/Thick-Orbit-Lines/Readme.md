@@ -3,7 +3,7 @@
 ### by psychicEgg
 *Maintained by Fred89210*<br><br>
 
-**-- Ready for for Elite Dangerous 4.3.3.0 --**<br><br>
+**-- NOT COMPATIBLE - AWAITING A FIX for Elite Dangerous v4.4.0.3 --**<br><br>
 
 **Release Notes:**
 - Added several Keys and Combinations for Keybinds

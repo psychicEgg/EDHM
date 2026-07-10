@@ -1,19 +1,21 @@
-# 3rd-party Mods for Elite Dangerous v4.3.3.0 (Odyssey & Horizons Live)
+# 3rd-party Mods for Elite Dangerous v4.4.0.3 (Odyssey & Horizons Live)
 
 3rd-party Mods (3PMs) for Elite Dangerous 4.x are optional extra mods. **You must have EDHM** for Odyssey & Horizons Live installed prior to installing 3PMs.<br><br>
 
+NOTE: Since game update U4.4.0.x (Operations), the DSS no longer displays a heatmap to locate biological signals, it now shows a single, uniform color, so the 3PMod Biome Overlay has been removed as it is now useless or incompatible. Please remember to remove this 3PMod from your installation.
+
 Current 3PMs Available:
-- [Enhanced Biome Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/BiomeOverlay) (Ready for Elite Dangerous v4.3.3.0)
-- [Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CleanScreenshotsMod) (Ready for Elite Dangerous v4.3.3.0)
-- [FSS Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/FSS-Overlay) (Ready for Elite Dangerous v4.3.3.0)
-- [Fuel Scooping Stars Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars) (Ready for Elite Dangerous v4.3.3.0)
-- [Hyperspace Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/HyperspaceMod) (Ready for Elite Dangerous v4.3.3.0)
-- [KeyBindings](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/KeyBindings) (Ready for Elite Dangerous v4.3.x)
-- [Light Night Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/LightNight) (Ready for Elite Dangerous v4.3.3.0)
-- [No External HUD Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoExternalHUD) (Ready for Elite Dangerous v4.3.3.0)
-- [No FID Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoFIDMod) (Ready for Elite Dangerous v4.3.3.0)
-- [No Message Box Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoMessageBox) (Ready for Elite Dangerous v4.3.3.0)
-- [Thick Orbit Lines](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines) (Ready for Elite Dangerous v4.3.3.0)
+
+- [Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CleanScreenshotsMod) (Ready for Elite Dangerous v4.4.0.3)
+- [FSS Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/FSS-Overlay) (Ready for Elite Dangerous v4.4.0.3)
+- [Fuel Scooping Stars Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars) (Ready for Elite Dangerous v4.4.0.3)
+- [Hyperspace Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/HyperspaceMod) (Fixed for Elite Dangerous v4.4.0.3)
+- [KeyBindings](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/KeyBindings) (Ready for Elite Dangerous v4.4.x)
+- [Light Night Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/LightNight) (Ready for Elite Dangerous v4.4.0.3)
+- [No External HUD Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoExternalHUD) (Ready for Elite Dangerous v4.4.0.3)
+- [No FID Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoFIDMod) (Ready for Elite Dangerous v4.4.0.3)
+- [No Message Box Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoMessageBox) (Ready for Elite Dangerous v4.4.0.3)
+- [Thick Orbit Lines](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines) (NOT COMPATIBLE - AWAITING A FIX for Elite Dangerous v4.4.0.3)
 <br>
 
 In Development:
@@ -22,6 +24,7 @@ In Development:
 Development Suspended or Abandoned:
 - [Black Deep-Space Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/BlackDeepSpace) (Not Maintained)
 - [Cockpit Paint Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CockpitPaintMod) (NOT Compatible with recent versions of Elite Dangerous)
+- Enhanced Biome Overlay (Since U4.4.0.x, the game no longer displays a heatmapfor locating bio)
 
 -------------------------------------------------------------------------
 

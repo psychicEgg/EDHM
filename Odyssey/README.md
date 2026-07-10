@@ -1,7 +1,9 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 29 April 2026:**</ins> New Version of EDHM for Elite Dangerous v4.3.3.0 *(Odyssey & Horizons Live)* !
+<ins>**ALERT 10 July 2026:**</ins> New Version of EDHM for Elite Dangerous v4.4.0.3 *(Odyssey & Horizons Live)* !
+
+NOTE: Since game update U4.4.0.x (Operations), the DSS no longer displays a heatmap to locate biological signals, it now shows a single, uniform color, so the 3PMod Biome Overlay has been removed as it is now useless or incompatible. Please remember to remove this 3PMod from your installation.
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 

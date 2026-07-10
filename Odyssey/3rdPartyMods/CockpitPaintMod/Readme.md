@@ -2,7 +2,7 @@
 
 ### by psychicEgg<br><br>
 
-**-- NOT Compatible with Elite Dangerous v4.3.3.0 (Lynx Highliner Update) --**<br><br>
+**-- NOT Compatible with recent versions of Elite Dangerous --**<br>
 
 After examining CPM following the various game updates, it turns out that each new ship significantly modifies the shaders and textures used by CPM, which requires considerable time to repair each time, even though it will almost immediately be broken again by a new game update.
 

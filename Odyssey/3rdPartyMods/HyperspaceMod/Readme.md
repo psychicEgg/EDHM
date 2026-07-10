@@ -1,10 +1,13 @@
-# Hyperspace Mod v1.103.0 for Elite Dangerous 4.3.3.0
+# Hyperspace Mod v1.104.0 for Elite Dangerous 4.4.0.3
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.3.3.0 --**<br><br>
+**-- Fixed for Elite Dangerous 4.4.0.3 --**<br><br>
 
 **Release Notes:**
+- Fixed for Elite Dangerous 4.4.0.3 (Operations Update)
+
+**Previous versions:**
 - Now the Cockpit Lighting is separate from the HUD, so it's possible to turn one off and keep the other on
 - Added several Keys and Combinations for Keybinds
 - Improvement for EDHM-UI v3

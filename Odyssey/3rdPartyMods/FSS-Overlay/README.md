@@ -1,9 +1,9 @@
-# FSS Overlay v1.102.2 for Elite Dangerous 4.3.3.0
+# FSS Overlay v1.102.2 for Elite Dangerous 4.4.0.3
 
 ### by psychicEgg and Parduz
 *Maintained by Fred89210*<br><br>
 
-**-- Ready for Elite Dangerous 4.3.3.0 --**<br><br>
+**-- Ready for Elite Dangerous 4.4.0.3 --**<br><br>
 
 **Release Notes:**
 - Added several Keys and Combinations for Keybinds
