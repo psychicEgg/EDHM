@@ -1,6 +1,25 @@
-## EDHM v22.00 for Elite Dangerous v4.4.0.3 Patch Notes
+## EDHM v22.00 to v22.01 for Elite Dangerous v4.4.0.3 Patch Notes
 
 ### -- Fixed for Elite Dangerous v4.4.0.3 (Operations Update) --<br><br>
+
+**EDHM v22.01:**
+- Second Fix for FDev U4.4.0.3 (Operations Update)
+- The Cockpit Lighting Shader no longer bleeds into the Operations Lobby Lighting. Fix found by MrVaad, Thanks.
+- Reduced the Lighting Shader's Range when using an SRV to prevent it from affecting the Main Ship's Landing Gear Lights in certain situations.
+- Nomad:
+  - A condition has been added to detect Nomad so that the `PWA Asteroid Glow Color` `xyz43` option no longer affects the Nomad's Bio Scanner.
+    - Consequently, the `PWA Asteroid Glow` option, which was disabled in EDHM v22.00, has been re-enabled, and the `z333` key has been removed.
+  - Fix the HLSL Code extracted by 3dmigoto, which was preventing Zones containing Biologicals from appearing on the Nomad's Radar. Fix found by Fenris, Thanks.
+    - Green Zones are now visible.
+	- Blue Zones are also visible but may require some adjustment.
+	- Pink Zones have not been tested and might not display perfectly, a fix could be provided once the Nomad becomes free.
+- Fix Various Orange Textures
+
+Special Thanks:
+- Thanks to Fenris, without whom it would not have been possible to provide fixes for the Nomad before its free release. Thanks for the time spent addressing these issues, and for identifying the cause preventing Biological Zones from appearing on the Nomad's Radar.
+- Thanks to MrVaad, who found a way to preserve the Lighting in the Operations Lobby (and for his research in general).
+
+-------------------------------------------------------------------------
 
 **EDHM v22.00:**
 - Fix for FDev U4.4.0.3 (Operations Update)
