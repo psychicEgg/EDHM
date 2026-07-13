@@ -111,13 +111,13 @@
    },
    {
       "mod_name":"Thick Orbit Lines Mod",
-      "description":"This Mod controls the Glow and Thickness of Orbit / Gravity Well / Exclusion Zone Lines.<br>For Elite Dangerous 4.3.3.0. v1.102.0",
+      "description":"This Mod controls the Glow and Thickness of Orbit / Gravity Well / Exclusion Zone Lines.<br>For Elite Dangerous 4.4.0.3. v1.103.0",
       "author":"psychicEgg",
-      "mod_version":"1.102.0",
+      "mod_version":"1.103.0",
       "file": "ThickOrbitLines.ini",
       "read_me": "<h4 align='center'><a href='https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines' target='_blank'><b>Thick Orbit Lines Mod</b></a></h4><p align='center'>By <a href='https://github.com/psychicEgg'>psychicEgg</a></p><p align='center'>Maintained by <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p align='left'>With this Mod you can increase the Glow and Width of your Orbit / Gravity Well / Exclusion Zone Lines (in addition to setting their colour and brightness in the Main Mod EDHM).</p><p align='left'>The effect applies to all types of lines (Orbit, Gravity Well, Exclusion Zone) as they can't be separated in this particular shader.</p><p align='center'><a href='https://raw.githubusercontent.com/psychicEgg/EDHM/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Resources/ThickOL-v1.18.1.png' target='_blank'>Preview</a></p><p align='center'><img src='https://images2.imgbox.com/be/55/mwUzvoLa_o.png' alt='Preview' style='max-width:100%; height:auto;'/></p>",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_ED4.3.1.0_v1.102.0.zip",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines/Thick_Orbit_Lines_Mod_ED4.4.0.3_v1.103.0.zip",
       "thumbnail_url":"https://images2.imgbox.com/4a/99/qz8V04Qw_o.png",
-      "changelog":"- NOT COMPATIBLE - AWAITING A FIX for Elite Dangerous v4.4.0.3"
+      "changelog":"- Fixed For Elite Dangerous 4.4.0.3"
    }
 ]

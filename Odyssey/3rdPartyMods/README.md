@@ -15,7 +15,7 @@ Current 3PMs Available:
 - [No External HUD Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoExternalHUD) (Ready for Elite Dangerous v4.4.0.3)
 - [No FID Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoFIDMod) (Ready for Elite Dangerous v4.4.0.3)
 - [No Message Box Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/NoMessageBox) (Ready for Elite Dangerous v4.4.0.3)
-- [Thick Orbit Lines](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines) (NOT COMPATIBLE - AWAITING A FIX for Elite Dangerous v4.4.0.3)
+- [Thick Orbit Lines](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Thick-Orbit-Lines) (Fixed for Elite Dangerous v4.4.0.3)
 <br>
 
 In Development:
