@@ -10,6 +10,7 @@
 - Rematched HUD texcoord material shader: `044c584d09f94c08` → `636c89262dd982cf`
 - Core HUD paths (`35aac…`, `a0d3dd80…`, `a1e1d27a…`, IB `1ba0d140`, aspect RT overrides) unchanged in dumps
 - Widen Status Lights UV X window (0.3349 -> 0.3550) so inactive Mass Lock / Landing Gear / Cargo Scoop (and SRV) outlines rematch the active theme's Status Lights Off colours (aspect variants of b4523c39)
+- Rematch on-foot radial menu icons in `a1e1d27a77a666fb` (widen Elite-orange hue window / bright match) so they use theme icon colours again
 
 -------------------------------------------------------------------------
 

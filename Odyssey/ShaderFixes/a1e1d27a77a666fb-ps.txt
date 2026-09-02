@@ -1093,8 +1093,8 @@ else
                               endif 
                             endif 
                           endif 
-                          ge r25.xyw, r4.zzzz, l(23.199999, 178.599991, 0.000000, 47.600002)
-                          ge r26.xzw, l(23.400000, 0.000000, 178.800003, 47.799999), r4.zzzz
+                          ge r25.xyw, r4.zzzz, l(19.800001, 178.599991, 0.000000, 47.600002)
+                          ge r26.xzw, l(24.200001, 0.000000, 178.800003, 47.799999), r4.zzzz
                           and r25.xyw, r25.xyxw, r26.xzxw
                           and r25.xyw, r3.wwww, r25.xyxw
                           if_nz r25.x
@@ -1223,7 +1223,7 @@ else
                               and r6.xz, r6.xxzx, r19.xxyx
                               and r6.xz, r3.wwww, r6.xxzx
                               ge r2.x, r3.x, l(0.050000)
-                              ge r3.z, l(0.450000), r3.x
+                              ge r3.z, l(1.050000), r3.x
                               and r2.x, r2.x, r3.z
                               and r6.xz, r2.xxxx, r6.xxzx
                               eq r2.x, r4.w, l(1.000000)
@@ -1355,8 +1355,8 @@ else
                                     if_nz r1.x
                                       mov r17.xyzw, r0.xyzw
                                     else 
-                                      ge r2.xy, r4.zzzz, l(25.000000, 23.199999, 0.000000, 0.000000)
-                                      ge r3.yz, l(0.000000, 27.000000, 23.400000, 0.000000), r4.zzzz
+                                      ge r2.xy, r4.zzzz, l(25.000000, 19.800001, 0.000000, 0.000000)
+                                      ge r3.yz, l(0.000000, 27.000000, 24.200001, 0.000000), r4.zzzz
                                       and r2.xy, r2.xyxx, r3.yzyy
                                       and r3.yz, r2.xxyx, r3.wwww
                                       ge r1.x, v2.w, l(0.246900)
@@ -1857,11 +1857,11 @@ else
                               else 
                                 eq r2.x, r8.x, l(1.000000)
                                 if_nz r2.x
-                                  ge r5.xyw, r4.zzzw, l(23.199999, 176.599991, 0.000000, 0.800000)
-                                  ge r14.xyzw, l(23.400000, 27.200001, 176.800003, 1.000000), r4.xyzw
+                                  ge r5.xyw, r4.zzzw, l(19.800001, 176.599991, 0.000000, 0.800000)
+                                  ge r14.xyzw, l(24.200001, 27.200001, 176.800003, 1.000000), r4.xyzw
                                   and r5.xyw, r5.xyxw, r14.xzxw
                                   and r2.x, r3.w, r5.x
-                                  lt r2.y, r3.x, l(0.800000)
+                                  lt r2.y, r3.x, l(1.050000)
                                   and r2.x, r2.y, r2.x
                                   if_nz r2.x
                                     ld_indexable(texture1d)(float,float,float,float) r2.x, l(75, 0, 0, 0), t120.zxyw

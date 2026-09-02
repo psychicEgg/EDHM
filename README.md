@@ -17,6 +17,7 @@
 | Status Lights UV | `0.3349` max X | `0.3550` max X | Inactive status-box outlines use theme Off colours |
 | Preview stamp | - | [`d3dx.ini`](Odyssey/d3dx.ini) `y333 = 2202` | Internal v22.02 preview stamp |
 | Test package | - | [`EDHM_Odyssey_v22.02.zip`](Odyssey/EDHM_Odyssey_v22.02.zip) | Local test zip only |
+| On-foot radial icons | hue `23.2-23.4` (+ dim-only `20-22`) | hue `19.8-24.2`; bright `20-22` allowed | Theme icon colours (`x75`/`xyzw53`) instead of Elite orange |
 
 **Status Lights UV (minimal raw edit):** one constant `0.334900 -> 0.355000` in:
 
@@ -32,3 +33,5 @@ Widens the Status Lights hit region so inactive ship/SRV indicator boxes again t
 **Still matching in U4.4.1.0 dumps (unchanged):** core HUD `35aac13bbb1540de`, `a0d3dd801a049909`, `a1e1d27a77a666fb`, IB `1ba0d140`, aspect RT overrides.
 
 **Also unpacked for testing:** remaining `Odyssey/ShaderFixes/*-ps.txt` / `*-vs.txt`, `Odyssey/EDHM-ini/` profiles, `d3d11.dll`, `d3dcompiler_47.dll`, `EDHM-Uninstall.bat`.
+
+**On-foot radial icons (`a1e1d27a77a666fb`):** Elite orange on those icons drifted to hue ~20.2 (`#FF5600`) while panel-icon rematch still expected ~23.2-23.4 and treated hue 20-22 as dim-only. Widened icon orange hue windows and raised the bright-match ceiling so inactive radial icons take the active theme icon colours again.
