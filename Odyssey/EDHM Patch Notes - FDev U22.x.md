@@ -7,7 +7,7 @@
 - Rematched Radar LocalKey colour/position shader: `4b6d9d99c00a0e52` → `ad901c638154978f`
 - Rematched HUD texcoord material shader: `044c584d09f94c08` → `636c89262dd982cf`
 - Core HUD paths (`35aac…`, `a0d3dd80…`, `a1e1d27a…`, IB `1ba0d140`, aspect RT overrides) unchanged in dumps
-- Widen Status Lights UV X window (0.3349 -> 0.3550) so inactive Mass Lock / Landing Gear / Cargo Scoop outlines rematch Off-state colors (aspect variants of b4523c39)
+- Widen Status Lights UV X window (0.3349 -> 0.3550) so inactive Mass Lock / Landing Gear / Cargo Scoop (and SRV) outlines rematch the active theme's Status Lights Off colours (aspect variants of b4523c39)
 
 -------------------------------------------------------------------------
 
