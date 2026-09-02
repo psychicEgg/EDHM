@@ -4,9 +4,9 @@
 
 **EDHM v22.02:**
 - Fix for FDev U4.4.1.0 (Rhino / Surface Mining Update, client `2026.09.01.332753`)
-- Rematched Radar LocalKey colour/position shader: `4b6d9d99c00a0e52` ΓåÆ `ad901c638154978f`
-- Rematched HUD texcoord material shader: `044c584d09f94c08` ΓåÆ `636c89262dd982cf`
-- Core HUD paths (`35aacΓÇª`, `a0d3dd80ΓÇª`, `a1e1d27aΓÇª`, IB `1ba0d140`, aspect RT overrides) unchanged in dumps
+- Rematched Radar LocalKey colour/position shader: `4b6d9d99c00a0e52` → `ad901c638154978f`
+- Rematched HUD texcoord material shader: `044c584d09f94c08` → `636c89262dd982cf`
+- Core HUD paths (`35aac…`, `a0d3dd80…`, `a1e1d27a…`, IB `1ba0d140`, aspect RT overrides) unchanged in dumps
 - Widen Status Lights UV X window (0.3349 -> 0.3550) so inactive Mass Lock / Landing Gear / Cargo Scoop outlines rematch Off-state colors (aspect variants of b4523c39)
 
 -------------------------------------------------------------------------
