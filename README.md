@@ -20,7 +20,7 @@ Target client: Elite Dangerous **4.4.1.0** / build **2026.09.01.332753** (Rhino)
 | Version stamp | â€” | [`d3dx.ini`](Odyssey/d3dx.ini) `y333 = 2202` | EDHM v22.02 |
 | Release package | `EDHM_Odyssey_v22.01.zip` | [`EDHM_Odyssey_v22.02.zip`](Odyssey/EDHM_Odyssey_v22.02.zip) | Ship zip |
 | Docs | â€” | [`Odyssey/README.md`](Odyssey/README.md), [`EDHM Patch Notes - FDev U22.x.md`](Odyssey/EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md) | Alert + patch notes |
-| Status Lights UV | `0.3349` max X | `0.3550` max X in `b4523c39…` + aspect variants | Inactive Landing Gear / Cargo Scoop outlines |
+| Status Lights UV | `0.3349` max X | `0.3550` max X in `b4523c39` + aspect variants | Inactive Landing Gear / Cargo Scoop outlines |
 
 **Still matching in U4.4.1.0 dumps (unchanged):** core HUD `35aac13bbb1540de`, `a0d3dd801a049909`, `a1e1d27a77a666fb`, IB `1ba0d140`, aspect RT overrides.
 
