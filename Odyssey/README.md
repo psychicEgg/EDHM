@@ -1,16 +1,15 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 2 September 2026:**</ins> New Version of EDHM for Elite Dangerous v4.4.1.0 *(Rhino / Surface Mining — Odyssey & Horizons Live)* !
+<ins>**ALERT 2 September 2026:**</ins> New Version of EDHM for Elite Dangerous v4.4.1.0 *(Rhino / Surface Mining - Odyssey & Horizons Live)* !
 
-On branch **`shader-files-updated`**, rematched ShaderFixes and the full unpacked v22.02 payload are tracked in-tree (not zip-only). See the [root README rematch table](../README.md#u4410-rematch--updated-files-on-this-branch) and [patch notes](EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md).
+On branch **`shader-files-updated`**, rematched ShaderFixes and the full unpacked v22.02 payload are tracked in-tree (not zip-only), including the Status Lights UV widen for inactive indicator boxes. See the [root README rematch table](../README.md#u4410-rematch---updated-files-on-this-branch) and [patch notes](EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md).
 
 NOTE: Since game update U4.4.0.x (Operations), the DSS no longer displays a heatmap to locate biological signals, it now shows a single, uniform color, so the 3PMod Biome Overlay has been removed as it is now useless or incompatible. Please remember to remove this 3PMod from your installation.
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
 ---
-
 ### <ins>EDHM for Elite Dangerous 4.x Odyssey & Horizons Live, what is it?</ins>
 
 EDHM is a FREE mod that allows you to customize the game's HUD to improve your experience and your comfort.
