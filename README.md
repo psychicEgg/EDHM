@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 2 September 2026:**</ins> New Version of [EDHM for Elite Dangerous v4.4.1.0](Odyssey/) *(Rhino / Surface Mining — Odyssey & Horizons Live)* !
+<ins>**ALERT 2 September 2026:**</ins> New Version of [EDHM for Elite Dangerous v4.4.1.0](Odyssey/) *(Rhino / Surface Mining â€” Odyssey & Horizons Live)* !
 
 Branch **`shader-files-updated`** tracks **EDHM v22.02** with the normal release zip **and** the unpacked install payload under [`Odyssey/`](Odyssey/) (`ShaderFixes/`, `EDHM-ini/`, `d3dx.ini`, DLLs, uninstall bat).
 
@@ -9,23 +9,24 @@ If you have any questions, please join the [EDHM Discord](https://discord.gg/KTY
 
 ---
 
-### <ins>U4.4.1.0 rematch — updated files on this branch</ins>
+### <ins>U4.4.1.0 rematch â€” updated files on this branch</ins>
 
 Target client: Elite Dangerous **4.4.1.0** / build **2026.09.01.332753** (Rhino).
 
 | Status | Old hash | New hash / path | Role |
 |--------|----------|-----------------|------|
 | Rematched | `4b6d9d99c00a0e52` | [`ad901c638154978f-ps.txt`](Odyssey/ShaderFixes/ad901c638154978f-ps.txt) | Radar LocalKey colour + position |
-| Rematched | `044c584d09f94c08` | [`636c89262dd982cf-ps.txt`](Odyssey/ShaderFixes/636c89262dd982cf-ps.txt) | HUD texcoord material (`t0`–`t3`) |
-| Version stamp | — | [`d3dx.ini`](Odyssey/d3dx.ini) `y333 = 2202` | EDHM v22.02 |
+| Rematched | `044c584d09f94c08` | [`636c89262dd982cf-ps.txt`](Odyssey/ShaderFixes/636c89262dd982cf-ps.txt) | HUD texcoord material (`t0`â€“`t3`) |
+| Version stamp | â€” | [`d3dx.ini`](Odyssey/d3dx.ini) `y333 = 2202` | EDHM v22.02 |
 | Release package | `EDHM_Odyssey_v22.01.zip` | [`EDHM_Odyssey_v22.02.zip`](Odyssey/EDHM_Odyssey_v22.02.zip) | Ship zip |
-| Docs | — | [`Odyssey/README.md`](Odyssey/README.md), [`EDHM Patch Notes - FDev U22.x.md`](Odyssey/EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md) | Alert + patch notes |
+| Docs | â€” | [`Odyssey/README.md`](Odyssey/README.md), [`EDHM Patch Notes - FDev U22.x.md`](Odyssey/EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md) | Alert + patch notes |
+| Status Lights UV | `0.3349` max X | `0.3550` max X in `b4523c39…` + aspect variants | Inactive Landing Gear / Cargo Scoop outlines |
 
 **Still matching in U4.4.1.0 dumps (unchanged):** core HUD `35aac13bbb1540de`, `a0d3dd801a049909`, `a1e1d27a77a666fb`, IB `1ba0d140`, aspect RT overrides.
 
 **Also unpacked on this branch (full zip payload):** all other `Odyssey/ShaderFixes/*-ps.txt` / `*-vs.txt`, `Odyssey/EDHM-ini/` profiles, `d3d11.dll`, `d3dcompiler_47.dll`, `EDHM-Uninstall.bat`.
 
-Further orange elements need extra Frame Analysis coverage — many ShaderFixes hashes were not exercised in the rematch dumps.
+Further orange elements need extra Frame Analysis coverage â€” many ShaderFixes hashes were not exercised in the rematch dumps.
 
 ---
 

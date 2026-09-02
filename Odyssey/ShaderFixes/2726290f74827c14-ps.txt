@@ -240,7 +240,7 @@ if_nz r3.x
     mul r7.xyzw, r8.wwww, r9.xyzw
   endif 
   lt r8.xyzw, l(0.318500, 0.416700, 0.000000, 0.670700), v0.zwzw
-  lt r9.xyzw, v0.zwzw, l(0.334900, 0.487500, 0.321900, 0.287000)
+  lt r9.xyzw, v0.zwzw, l(0.355000, 0.487500, 0.321900, 0.287000)
   and r3.zw, r8.xxxz, r9.xxxz
   and r2.w, r8.y, r3.z
   and r2.w, r9.y, r2.w
