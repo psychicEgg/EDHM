@@ -1,9 +1,9 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 2 September 2026:**</ins> New Version of EDHM for Elite Dangerous v4.4.1.0 *(Rhino / Surface Mining - Odyssey & Horizons Live)* !
+> **Developer testing preview only** on branch **`shader-files-updated`**. This is **not** an official EDHM release. The unpacked ShaderFixes / ini payload and `EDHM_Odyssey_v22.02.zip` here are for rematch validation and tester feedback ahead of a real release.
 
-On branch **`shader-files-updated`**, rematched ShaderFixes and the full unpacked v22.02 payload are tracked in-tree (not zip-only), including a Status Lights UV widen so inactive indicator boxes follow the active theme's Off colours. See the [root README rematch table](../README.md#u4410-rematch---updated-files-on-this-branch) and [patch notes](EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md).
+Preview target: Elite Dangerous v4.4.1.0 *(Rhino / Surface Mining)*. Changelog for files touched on this branch: [root README](../README.md#preview-changelog---files-touched-on-this-branch) and [preview notes](EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md).
 
 NOTE: Since game update U4.4.0.x (Operations), the DSS no longer displays a heatmap to locate biological signals, it now shows a single, uniform color, so the 3PMod Biome Overlay has been removed as it is now useless or incompatible. Please remember to remove this 3PMod from your installation.
 

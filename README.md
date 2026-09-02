@@ -1,26 +1,26 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 2 September 2026:**</ins> New Version of [EDHM for Elite Dangerous v4.4.1.0](Odyssey/) *(Rhino / Surface Mining - Odyssey & Horizons Live)* !
+> **Developer testing preview only** - branch `shader-files-updated` is **not** an official EDHM release. Do not treat the zip or unpacked files here as a public drop for general players. Use for hash rematch / ShaderFixes validation ahead of a real release.
 
-Branch **`shader-files-updated`** tracks **EDHM v22.02** with the normal release zip **and** the unpacked install payload under [`Odyssey/`](Odyssey/) (`ShaderFixes/`, `EDHM-ini/`, `d3dx.ini`, DLLs, uninstall bat).
+Target client for this preview: Elite Dangerous **4.4.1.0** / build **2026.09.01.332753** (Rhino / Surface Mining).
+
+This branch keeps an unpacked install-style tree under [`Odyssey/`](Odyssey/) (`ShaderFixes/`, `EDHM-ini/`, `d3dx.ini`, companion binaries) plus a working `EDHM_Odyssey_v22.02.zip` for local testing. Content may change without notice.
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
 ---
 
-### <ins>U4.4.1.0 rematch - updated files on this branch</ins>
-
-Target client: Elite Dangerous **4.4.1.0** / build **2026.09.01.332753** (Rhino).
+### <ins>Preview changelog - files touched on this branch</ins>
 
 | Status | Old | New / path | Role |
 |--------|-----|------------|------|
 | Rematched | `4b6d9d99c00a0e52` | [`ad901c638154978f-ps.txt`](Odyssey/ShaderFixes/ad901c638154978f-ps.txt) | Radar LocalKey colour + position |
 | Rematched | `044c584d09f94c08` | [`636c89262dd982cf-ps.txt`](Odyssey/ShaderFixes/636c89262dd982cf-ps.txt) | HUD texcoord material (t0-t3) |
 | Status Lights UV | `0.3349` max X | `0.3550` max X | Inactive status-box outlines use theme Off colours |
-| Version stamp | - | [`d3dx.ini`](Odyssey/d3dx.ini) `y333 = 2202` | EDHM v22.02 |
-| Release package | `EDHM_Odyssey_v22.01.zip` | [`EDHM_Odyssey_v22.02.zip`](Odyssey/EDHM_Odyssey_v22.02.zip) | Ship zip |
-| Docs | - | [`Odyssey/README.md`](Odyssey/README.md), [patch notes](Odyssey/EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md) | Alert + notes |
+| Preview stamp | - | [`d3dx.ini`](Odyssey/d3dx.ini) `y333 = 2202` | Internal v22.02 preview stamp |
+| Test package | - | [`EDHM_Odyssey_v22.02.zip`](Odyssey/EDHM_Odyssey_v22.02.zip) | Local test zip only (not a public release) |
+| Notes | - | [`Odyssey/README.md`](Odyssey/README.md), [preview notes](Odyssey/EDHM%20Patch%20Notes%20-%20FDev%20U22.x.md) | Branch docs |
 
 **Status Lights UV (minimal raw edit):** one constant `0.334900 -> 0.355000` in:
 
@@ -35,9 +35,10 @@ Widens the Status Lights hit region so inactive ship/SRV indicator boxes (Mass L
 
 **Still matching in U4.4.1.0 dumps (unchanged):** core HUD `35aac13bbb1540de`, `a0d3dd801a049909`, `a1e1d27a77a666fb`, IB `1ba0d140`, aspect RT overrides.
 
-**Also unpacked on this branch (full zip payload):** all other `Odyssey/ShaderFixes/*-ps.txt` / `*-vs.txt`, `Odyssey/EDHM-ini/` profiles, `d3d11.dll`, `d3dcompiler_47.dll`, `EDHM-Uninstall.bat`.
+**Also unpacked on this branch (full zip payload for testing):** all other `Odyssey/ShaderFixes/*-ps.txt` / `*-vs.txt`, `Odyssey/EDHM-ini/` profiles, `d3d11.dll`, `d3dcompiler_47.dll`, `EDHM-Uninstall.bat`.
 
 ---
+
 ### <ins>EDHM for Elite Dangerous 4.x Odyssey & Horizons Live, what is it?</ins>
 
 EDHM is a FREE mod that allows you to customize the game's HUD to improve your experience and your comfort.
