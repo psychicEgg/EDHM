@@ -17,7 +17,8 @@
 | Status Lights UV | `0.3349` max X | `0.3550` max X | Inactive status-box outlines use theme Off colours |
 | Preview stamp | - | [`d3dx.ini`](Odyssey/d3dx.ini) `y333 = 2202` | Internal v22.02 preview stamp |
 | Test package | - | [`EDHM_Odyssey_v22.02.zip`](Odyssey/EDHM_Odyssey_v22.02.zip) | Local test zip only |
-| On-foot radial icons | hue `23.2-23.4` (+ dim-only `20-22`) | hue `19.8-24.2`; bright `20-22` allowed | Theme icon colours (`x75`/`xyzw53`) instead of Elite orange |
+| Foot HUD atlas | `6ce04287` / `945bfa20` | [`a1b9c3b9`](Odyssey/EDHM-ini/35aac.ini) filter **90**, [`569f2ff5`](Odyssey/EDHM-ini/35aac.ini) filter **92** | Insight Hub / backpack textured icons (FootON; not 80/81) |
+| Panel leftover orange | - | [`a1e1d27a77a666fb-ps.txt`](Odyssey/ShaderFixes/a1e1d27a77a666fb-ps.txt) late `#FF5600` rematch | Backpack sidebar / vertex-coloured panel icons (`x75` / `xyzw53`) |
 
 **Status Lights UV (minimal raw edit):** one constant `0.334900 -> 0.355000` in:
 
@@ -30,8 +31,8 @@
 
 Widens the Status Lights hit region so inactive ship/SRV indicator boxes again take the active theme's Status Lights **Off** colours from `Advanced.ini` / EDHM-UI, instead of leaking Elite default orange. On/Off colours remain theme-configurable; Fuel Bar stays on its own theme settings.
 
-**Still matching in U4.4.1.0 dumps (unchanged):** core HUD `35aac13bbb1540de`, `a0d3dd801a049909`, `a1e1d27a77a666fb`, IB `1ba0d140`, aspect RT overrides.
+**Still matching in U4.4.1.0 dumps (hash unchanged):** core HUD `35aac13bbb1540de`, `a0d3dd801a049909`, `a1e1d27a77a666fb`, IB `1ba0d140`, aspect RT overrides.
 
 **Also unpacked for testing:** remaining `Odyssey/ShaderFixes/*-ps.txt` / `*-vs.txt`, `Odyssey/EDHM-ini/` profiles, `d3d11.dll`, `d3dcompiler_47.dll`, `EDHM-Uninstall.bat`.
 
-**On-foot radial icons (`a1e1d27a77a666fb`):** Elite orange on those icons drifted to hue ~20.2 (`#FF5600`) while panel-icon rematch still expected ~23.2-23.4 and treated hue 20-22 as dim-only. Widened icon orange hue windows and raised the bright-match ceiling so inactive radial icons take the active theme icon colours again.
+**On-foot radial / backpack:** U4.4.1.0 replaced the Foot HUD atlases (`6ce04287`→`a1b9c3b9`, `945bfa20`→`569f2ff5`). They are tagged FootON as filter **90/92** in [`35aac.ini`](Odyssey/EDHM-ini/35aac.ini) — not 80/81, whose UV windows are the old atlas layout and recoded Insight Hub wedges with on-foot panel colour. Shader hash `a1e1d27a77a666fb` is unchanged; a late `#FF5600` rematch at the end of that shader catches backpack sidebar / panel icons that skip the nested hue tree (theme icon colours via `x75` / `xyzw53`). Nested hue-window widening was reverted; it never hit those draws.
