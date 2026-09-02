@@ -1,6 +1,14 @@
-## EDHM v22.00 to v22.01 for Elite Dangerous v4.4.0.3 Patch Notes
+## EDHM v22.00 to v22.02 for Elite Dangerous v4.4.0.3 / v4.4.1.0 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.4.0.3 (Operations Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.4.1.0 (Rhino / Surface Mining Update) --<br><br>
+
+**EDHM v22.02:**
+- Fix for FDev U4.4.1.0 (Rhino / Surface Mining Update, client `2026.09.01.332753`)
+- Rematched Radar LocalKey colour/position shader: `4b6d9d99c00a0e52` → `ad901c638154978f`
+- Rematched HUD texcoord material shader: `044c584d09f94c08` → `636c89262dd982cf`
+- Core HUD paths (`35aac…`, `a0d3dd80…`, `a1e1d27a…`, IB `1ba0d140`, aspect RT overrides) unchanged in dumps
+
+-------------------------------------------------------------------------
 
 **EDHM v22.01:**
 - Second Fix for FDev U4.4.0.3 (Operations Update)
