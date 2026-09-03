@@ -438,6 +438,8 @@ if_nz r3.x
     ge r2.w, r3.x, l(59.000000)
     ge r3.z, l(65.000000), r3.x
     and r2.w, r2.w, r3.z
+    lt r3.z, r2.x, r2.y
+    and r2.w, r2.w, r3.z
     if_nz r2.w
       ld_indexable(texture1d)(float,float,float,float) r9.xyzw, l(170, 0, 0, 0), t120.xyzw
       eq r2.w, r9.w, l(1.000000)
@@ -446,8 +448,9 @@ if_nz r3.x
         mul r7.xyzw, r1.xyzw, l(1.500000, 1.500000, 1.500000, 1.500000)
       endif 
     else 
-      ge r2.w, r3.x, l(11.000000)
-      ge r3.z, l(16.799999), r3.x
+      // Hull hue 8-58 (U4.4 yellow). Mode 101: sqrt(lerp(max,G,0.75))*1.4 * theme * w213.
+      ge r2.w, r3.x, l(8.000000)
+      ge r3.z, l(58.000000), r3.x
       and r2.w, r2.w, r3.z
       if_nz r2.w
         ld_indexable(texture1d)(float,float,float,float) r2.w, l(134, 0, 0, 0), t120.xzwy
@@ -459,7 +462,11 @@ if_nz r3.x
           eq r3.z, r2.w, l(101.000000)
           if_nz r3.z
             ld_indexable(texture1d)(float,float,float,float) r3.z, l(213, 0, 0, 0), t120.xywz
-            mul r8.xyz, r2.yyyy, r8.xyzx
+            add r9.x, -r0.x, r2.y
+            mad r9.x, r9.x, l(0.750000), r0.x
+            sqrt r9.x, r9.x
+            mul r9.x, r9.x, l(1.400000)
+            mul r8.xyz, r9.xxxx, r8.xyzx
             mul r7.xyz, r3.zzzz, r8.xyzx
           else 
             eq r2.w, r2.w, l(199.000000)
@@ -596,9 +603,9 @@ if_nz r3.x
             ld_indexable(texture1d)(float,float,float,float) r11.xyzw, l(222, 0, 0, 0), t120.xyzw
             eq r3.z, r10.w, l(0.000000)
             movc r3.z, r3.z, l(1.000000), r10.w
-            lt r3.x, l(25.000000), r3.x
-            lt r8.xy, r2.xzxx, r2.zxzz
-            or r3.x, r3.x, r8.x
+            sample_indexable(texture2d)(float,float,float,float) r13.xyzw, v4.xyxx, t2.xyzw, s1
+            lt r8.xy, r13.xzxx, r13.zxzz
+            mov r3.x, r8.x
             mul r11.xyz, r0.xxxx, r11.xyzx
             mul r12.w, r0.w, r11.w
             mul r12.xyz, r11.wwww, r11.xyzx
