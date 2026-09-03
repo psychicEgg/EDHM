@@ -166,7 +166,7 @@ if_nz r3.z
   if_nz r5.x
     mov r7.w, r0.w
   else 
-    lt r9.xyzw, l(0.885400, 0.255000, 0.246000, 0.286500), v0.xyyy
+    lt r9.xyzw, l(0.550000, 0.255000, 0.246000, 0.286500), v0.xyyy
     and r5.x, r6.x, r9.x
     and r5.x, r9.y, r5.x
     lt r5.y, v0.y, l(0.317500)
@@ -177,14 +177,16 @@ if_nz r3.z
     ieq r3.z, r3.z, l(0)
     and r3.z, r3.z, r5.x
     if_nz r3.z
-      ge r3.zw, r1.xxxx, l(0.000000, 0.000000, 0.000000, 15.000000)
-      ge r5.xy, l(22.000000, 37.000000, 0.000000, 0.000000), r1.xxxx
+      ge r3.zw, r1.xxxx, l(0.000000, 0.000000, -15.000000, 15.000000)
+      ge r5.xy, l(70.000000, 70.000000, 0.000000, 0.000000), r1.xxxx
       and r3.zw, r3.zzzw, r5.xxxy
       ld_indexable(texture1d)(float,float,float,float) r5.x, l(115, 0, 0, 0), t120.zxyw
       eq r5.xy, r5.xxxx, l(100.000000, 101.000000, 0.000000, 0.000000)
       or r5.x, r5.y, r5.x
       and r3.w, r3.w, r5.x
       or r3.z, r3.w, r3.z
+      ge r5.z, r1.y, l(0.300000)
+      and r3.z, r3.z, r5.z
       if_nz r3.z
         ld_indexable(texture1d)(float,float,float,float) r3.z, l(141, 0, 0, 0), t120.xyzw
         eq r3.w, r3.z, l(199.000000)
