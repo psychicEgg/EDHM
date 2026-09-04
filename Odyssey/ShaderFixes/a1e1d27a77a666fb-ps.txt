@@ -3238,38 +3238,6 @@ if_nz r0.y
     ld_indexable(texture1d)(float,float,float,float) r17.xyz, l(159, 0, 0, 0), t120.xyzw
   endif 
 endif 
-// Late rematch: leftover Elite orange (#FF5600) in blended output (backpack / panel icons
-// that skip the nested hue tree).
-ld_indexable(texture1d)(float,float,float,float) r32.x, l(75, 0, 0, 0), t120.zxyw
-eq r32.xy, r32.xxxx, l(100.000000, 199.000000, 0.000000, 0.000000)
-or r32.z, r32.x, r32.y
-ge r33.x, r17.x, l(0.850000)
-ge r33.y, r17.y, l(0.200000)
-ge r33.z, l(0.450000), r17.y
-ge r33.w, l(0.120000), r17.z
-and r33.x, r33.x, r33.y
-and r33.x, r33.x, r33.z
-and r33.x, r33.x, r33.w
-and r33.x, r33.x, r32.z
-if_nz r33.x
-  if_nz r32.x
-    ld_indexable(texture1d)(float,float,float,float) r18.xyzw, l(53, 0, 0, 0), t120.xyzw
-    max r33.y, r17.y, r17.x
-    max r33.y, r17.z, r33.y
-    mul r17.xyz, r18.xyzx, r33.yyyy
-    mul r17.w, r17.w, r18.w
-  endif
-  if_nz r32.y
-    ld_indexable(texture1d)(float,float,float,float) r18.xyz, l(150, 0, 0, 0), t120.xyzw
-    ld_indexable(texture1d)(float,float,float,float) r19.xyz, l(151, 0, 0, 0), t120.xyzw
-    mul r19.xyz, r17.yyyy, r19.xyzx
-    mad r18.xyz, r18.xyzx, r17.xxxx, r19.xyzx
-    ld_indexable(texture1d)(float,float,float,float) r19.xyz, l(152, 0, 0, 0), t120.xyzw
-    mad r17.xyz, r19.xyzx, r17.zzzz, r18.xyzx
-  endif
-  ld_indexable(texture1d)(float,float,float,float) r18.x, l(53, 0, 0, 0), t120.wxyz
-  mul r17.xyzw, r18.xxxx, r17.xyzw
-endif
 ld_indexable(texture1d)(float,float,float,float) r0.x, l(333, 0, 0, 0), t120.xyzw
 eq r0.x, r0.x, l(2104.000000)
 movc o0.xyz, r0.xxxx, l(0.800000,1.000000,0.200000,0), r17.xyzx
