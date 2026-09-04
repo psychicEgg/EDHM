@@ -17,7 +17,7 @@
 | Status Lights UV | `0.3349` max X | `0.3510` max X (right only) | Inactive status-box outlines; stops before white atlas to the right |
 | FootON atlases | (see below) | [`99eeb87f`](Odyssey/EDHM-ini/35aac.ini) **90**, [`09e7d1ad`](Odyssey/EDHM-ini/35aac.ini) **92** | Live FA `2026-09-03-185248`; arms `w1` / stock icon colours |
 | Dest target circle | UV X `0.8854`, hue `0–37` | Icon-only UV boxes `0.728–0.756` / `0.905–0.918` in [`1a696e8bae6eec02-ps.txt`](Odyssey/ShaderFixes/1a696e8bae6eec02-ps.txt); stock `≥0.925` rematch disabled (that UV is label text on U4.4 HUD RT) | Destination Target Circle (`x67` / `z141`); open `≥0.55` window removed — it painted baked labels |
-| Rhino cockpit | (none) | `ps-t6` [`357e4310`](Odyssey/d3dx.ini) / [`09ba608e`](Odyssey/d3dx.ini) → filter **9052** on [`3d4262979556279e`](Odyssey/d3dx.ini) → `PresetRhinoCockpitON` / **`w334=1`** | FA `2026-09-03-210807`; classic Scorpion hologram hashes absent in Rhino |
+| Rhino cockpit holograms | OwnShip colours | `ps-t6` [`357e4310`](Odyssey/d3dx.ini) / [`09ba608e`](Odyssey/d3dx.ini) → filter **9052** → `PresetRhinoCockpitON` sets **`x106=1`** (SRV-cockpit flag) | FA `2026-09-03-210807`; Rhino now uses SRV Main/Small/Terrain hologram colours (see [Rhino fixes](#rhino-fixes)) |
 | Mining-deposit label | text tinted accent `x67` | Neutral-source → `x77` restamp at composite in [`1a696e8bae6eec02-ps.txt`](Odyssey/ShaderFixes/1a696e8bae6eec02-ps.txt) (see [Rhino fixes](#rhino-fixes)) | Planetary mining-deposit label follows main-text colour; diamond icon keeps accent |
 | Hull health blocks | hue `11–16.8` | hue `8–58`; Custom Shaded `√lerp(max,G,0.75)×1.4` | Hologram hull gauge (`x212` / `y134`); same six aspect shaders as Status Lights |
 
@@ -100,3 +100,13 @@ Earlier suspects were ruled out by proof: `a0d3` draws only part of adjacent HUD
 - **Self-limiting:** any element whose *source* is already coloured (the diamond icon, the compass heading box, target pips) has high source chroma and is excluded regardless of theme — validated against the frame dump (icon/compass accents keep coloured sources; only neutral label pixels are eligible).
 
 **Edge case:** intended for the standard EDHM setup where `x77` (main text) is neutral/white and `x67` (destination) is the accent. If `x77` itself is set to a strongly chromatic colour, the label source is no longer "neutral" and the gate simply won't fire (label keeps its `x77` colour).
+
+### Rhino cockpit holograms — SRV colours instead of OwnShip (`c4f04894e3f6ae79`)
+
+**Symptom:** in the Rhino cockpit the Main dashboard hologram, the radar mini-hologram, and the radar terrain overlay were painted with the **OwnShip** hologram palette instead of the SRV palette. Turret mode already rendered them correctly (SRV Small + SRV Terrain).
+
+**Cause:** the hologram shader `c4f04894e3f6ae79` selects the SRV palette (`l(250)` Main / `l(251)` Small / `l(252)` Terrain) only when the SRV-cockpit flag **`x106 == 1`** or the turret/secondary flag `l(2) == 1` is set. Turret mode sets `l(2)`, so it worked. The Rhino cockpit's preset, however, only set **`w334`** — a **dead flag** that no shader reads — so the Rhino never signalled "SRV cockpit" and fell through to OwnShip colours.
+
+**Fix:** `PresetRhinoCockpitON` (armed by Rhino material atlases `357e4310` / `09ba608e` → filter `9052`) now sets **`x106 = 1`** instead of `w334 = 1`, matching how the classic Scorpion (`PresetSRVCockpitON`) arms the same flag. `x106` is reset to `0` every frame, so the flag can't stick when you leave the SRV.
+
+- **Not affected — target hologram:** the contact/target hologram is a separate branch in the same shader (`x101 == 199`) that only ever reads the OwnShip palette (`l(150)/l(151)/l(152)`) and never checks `x106`, so a locked target still renders in normal colours (it represents another entity, not your vehicle).
