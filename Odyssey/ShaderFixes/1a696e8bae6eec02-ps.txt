@@ -916,5 +916,29 @@ if_nz r1.x
 else 
   mov o0.xyzw, r7.xyzw
 endif 
+// EDHM Goal-A marker fix (theme-aware): 1a696's dest rematch tints the selected
+// deposit marker's label text with the destination accent colour (x67). The source
+// (t0 = 10bcbe48) already has neutral label text + an accent-coloured icon.
+// Fire where the SOURCE is neutral (text) yet the OUTPUT gained chroma (1a696 tinted
+// it any accent hue) -> restamp theme main-text colour x77, preserving glyph
+// brightness/AA. Hue-independent: works for any user x67. Self-limiting: the icon and
+// other elements keep coloured sources (high source chroma) so they are excluded.
+sample_indexable(texture2d)(float,float,float,float) r10.xyzw, v0.xyxx, t0.xyzw, s0
+max r11.x, r10.x, r10.y
+max r11.x, r11.x, r10.z
+min r11.y, r10.x, r10.y
+min r11.y, r11.y, r10.z
+add r11.x, r11.x, -r11.y
+lt r11.x, r11.x, l(0.150000)
+max r11.y, o0.x, o0.y
+max r11.y, r11.y, o0.z
+min r11.z, o0.x, o0.y
+min r11.z, r11.z, o0.z
+add r11.z, r11.y, -r11.z
+lt r11.z, l(0.150000), r11.z
+and r11.x, r11.x, r11.z
+ld_indexable(texture1d)(float,float,float,float) r12.xyz, l(77, 0, 0, 0), t120.xyzw
+mul r12.xyz, r12.xyz, r11.yyyy
+movc o0.xyz, r11.xxxx, r12.xyzx, o0.xyzx
 ret 
 // Approximately 861 instruction slots used
