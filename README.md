@@ -1,7 +1,7 @@
 # EDHM
 ## **Elite Dangerous HUD Mod**
 
-<ins>**ALERT 13 July 2026:**</ins> New Version of [EDHM for Elite Dangerous v4.4.0.3](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
+<ins>**ALERT 4 September 2026:**</ins> New Version of [EDHM for Elite Dangerous v4.4.1.1](https://github.com/psychicEgg/EDHM/tree/main/Odyssey) *(Odyssey & Horizons Live)* !
 
 If you have any questions, please join the [EDHM Discord](https://discord.gg/KTYgJegfYw) where we can help you.
 
@@ -19,7 +19,9 @@ Unlike modifying the Color Matrix in the `GraphicsConfigurationOverride.xml` fil
 
 Since EDHM is a third-party mod, it can happen that certain game updates break it, resulting in the original color being displayed for the affected elements, but the game will continue to work and an EDHM update will arrive in the next few hours, or even days for the most important updates.
 
-EDHM and its 3PMods are developed and works with Windows 10/11. EDHM **can** work correctly with most Linux distributions but EDHM does not work on Mac/Crossover.
+EDHM and its 3PMods are developed and works with Windows 10/11. EDHM **can** work correctly with most Linux distributions.
+
+[ProbabilityEngineer](https://github.com/ProbabilityEngineer) offers a solution for running EDHM and [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases) on Mac/Crossover, see [EDHM-UI-macOS-CrossOver Github](https://github.com/ProbabilityEngineer/EDHM-UI-macOS-CrossOver).
 
 Some modded elements require **a screen resolution of at least 1920x1080** *(also take into account Supersampling which can divide the selected resolution)*, using a lower final resolution may prevent some elements from being colored correctly *(such as the Shield for example)*.
 

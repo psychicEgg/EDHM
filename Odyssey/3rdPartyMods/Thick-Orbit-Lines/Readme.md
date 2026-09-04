@@ -1,14 +1,14 @@
-# Thick Orbit Lines Mod v1.103.0 for Elite Dangerous 4.4.0.3
+# Thick Orbit Lines Mod v1.103.0 for Elite Dangerous 4.4.1.1
 
 ### by psychicEgg
 *Maintained by Fred89210*<br><br>
 
-**-- Fixed for Elite Dangerous 4.4.0.3 --**<br><br>
+**-- Fixed for Elite Dangerous 4.4.1.1 --**<br><br>
 
 Note that with the Game's New Lighting System introduced in U4.4.x.x (Operations), Orbit Lines are treated as Real Light Sources, this means that increasing the Glow setting beyond a certain threshold will illuminate the surrounding environment, such as the Cockpit, so it is advisable not to set the Glow to its maximum level.
 
 **Release Notes:**
-- Fixed for Elite Dangerous 4.4.0.3 (Operations Update)
+- Ready for Elite Dangerous 4.4.1.1 (Rhino Update)
 
 **Previous versions:**
 - Added several Keys and Combinations for Keybinds

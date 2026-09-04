@@ -51,6 +51,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Viper Mk III         | ✓      | 36              |
 | Viper Mk IV          | ✓      | 37              |
 | Vulture              | ✓      | 38              |
+| SRV - Rhino          | ✗      | 58              |
 | SRV - Scarab         | ✗      | 39              |
 | SRV - Scorpion       | ✗      | 40              |
 | SLF - F63 Condor     | ✗      | 41              |

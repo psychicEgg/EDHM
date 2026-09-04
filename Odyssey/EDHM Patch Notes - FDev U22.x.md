@@ -1,6 +1,30 @@
-## EDHM v22.00 to v22.01 for Elite Dangerous v4.4.0.3 Patch Notes
+## EDHM v22.00 to v22.02 for Elite Dangerous v4.4.1.1 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.4.0.3 (Operations Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.4.1.1 (Rhino Update) --<br><br>
+
+**EDHM v22.02:**
+- Fix for FDev U4.4.1.1 (Rhino Update):
+  - Fix Status Lights
+  - Fix Destination Circles
+  - Fix Reticles
+  - Fix Some Icons
+  - Fix OnFoot HUD *(twice)*
+  - Fix Radar Elevation Lines
+  - Fix SRV Radar Object Lines
+- Fix Orange Icons in Gamma Settings 
+- Fix Orange Icons in Galmap with some Graphic Settings
+- Added the Rhino to EDHM, thanks again to `@RainmanGames` for gifting me the Rhino, which allowed me to mod it right away:
+  - Rhino Related Icons are Modded
+  - Rhino Rigs Orange Circles use XML
+  - Rhino Mining Wave on the Radar follows the `SRV Terrain` Settings
+  - Surface Mining Icons use XML when `Main Text Mode` (w75) is set to `Custom Color` or `XML` *(like Space Mining Icons)*.
+  - Rhino Terrain Hologram follows the `SRV Terrain` Settings
+  - Rhino Holograms (Main and Small) follow the `SRV Hologram` Settings
+  - NOTES:
+    - Mining Scanner Wave passing over the Ground follows the `PWA Wavefront` Settings.
+	- Pink Extraction Zones appearing on the Radar and on the Ground retain their Original Color
+
+-------------------------------------------------------------------------
 
 **EDHM v22.01:**
 - Second Fix for FDev U4.4.0.3 (Operations Update)

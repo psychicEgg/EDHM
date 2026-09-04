@@ -1,15 +1,17 @@
-# Clean Screenshots Mod v1.102.1 for Elite Dangerous 4.4.0.3
+# Clean Screenshots Mod v1.103.0 for Elite Dangerous 4.4.1.1
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.4.0.3 --**<br><br>
+**-- Ready for Elite Dangerous 4.4.1.1 --**<br><br>
 
 **Release Notes:**
-- Added several Keys and Combinations for Keybinds
-- Added options to automatically hide all holograms when in SRV, on foot, or using the free camera to keep holograms only when they are useful.
+- Added an option to manage holograms in Rhino separately
+- Fix No Hologram with Freecam Option when in a Station
+- Replacement of the Show Status mechanism with a more conventional solution *(for the user the operation remains the same)*
 
 **Previous versions:**
-- Fixed For Elite Dangerous 4.2.0.2
+- Added several Keys and Combinations for Keybinds
+- Added options to automatically hide all holograms when in SRV, on foot, or using the free camera to keep holograms only when they are useful.
 - Improvement for EDHM-UI v3
 - Added Emergency Only Holograms
 - New option to turn off some spotlights
