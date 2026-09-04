@@ -16,7 +16,7 @@
 | Rematched | `044c584d09f94c08` | [`636c89262dd982cf-ps.txt`](Odyssey/ShaderFixes/636c89262dd982cf-ps.txt) | HUD texcoord material (t0-t3) |
 | Status Lights UV | `0.3349` max X | `0.3510` max X (right only) | Inactive status-box outlines; stops before white atlas to the right |
 | FootON atlases | (see below) | [`99eeb87f`](Odyssey/EDHM-ini/35aac.ini) **90**, [`09e7d1ad`](Odyssey/EDHM-ini/35aac.ini) **92** | Live FA `2026-09-03-185248`; arms `w1` / stock icon colours |
-| Dest target circle | UV X `0.8854`, hue `0–37` | Icon-only UV boxes `0.728–0.756` / `0.905–0.918` in [`1a696e8bae6eec02-ps.txt`](Odyssey/ShaderFixes/1a696e8bae6eec02-ps.txt); stock `≥0.925` rematch disabled (that UV is label text on U4.4 HUD RT) | Destination Target Circle (`x67` / `z141`); open `≥0.55` window removed — it painted baked labels |
+| Dest target circle | UV X `0.8854`, hue `0–37` | Icon-only UV boxes `0.728–0.756` / `0.905–0.918` in [`1a696e8bae6eec02-ps.txt`](Odyssey/ShaderFixes/1a696e8bae6eec02-ps.txt) | Destination Target Circle (`x67` / `z141`); rematch limited to icon UV so label text stays untinted |
 | Rhino cockpit holograms | OwnShip colours | `ps-t6` [`357e4310`](Odyssey/d3dx.ini) / [`09ba608e`](Odyssey/d3dx.ini) → filter **9052** → `PresetRhinoCockpitON` sets **`x106=1`** (SRV-cockpit flag) | FA `2026-09-03-210807`; Rhino now uses SRV Main/Small/Terrain hologram colours (see [Rhino fixes](#rhino-fixes)) |
 | Mining-deposit label | text tinted accent `x67` | Neutral-source → `x77` restamp at composite in [`1a696e8bae6eec02-ps.txt`](Odyssey/ShaderFixes/1a696e8bae6eec02-ps.txt) (see [Rhino fixes](#rhino-fixes)) | Planetary mining-deposit label follows main-text colour; diamond icon keeps accent |
 | Hull health blocks | hue `11–16.8` | hue `8–58`; Custom Shaded `√lerp(max,G,0.75)×1.4` | Hologram hull gauge (`x212` / `y134`); same six aspect shaders as Status Lights |
@@ -51,15 +51,6 @@ If the game ships a new atlas hash and it is not listed with 90/92 (or 80), Foot
 
 Both bind on `35aac` + peer VS `7299e2b5eaeff35d`. PS hash unchanged.
 
-### Purged / incorrect interim rematch
-
-| Hash | Why removed |
-|------|-------------|
-| `a1b9c3b9` → 90 | Never bound in the live on-foot FA dump |
-| `569f2ff5` → 92 | Never bound in the live on-foot FA dump |
-
-Also reverted experimental `a1e1` late leftover-orange rematch and helmet-VS FootON hacks — wrong approach for this problem.
-
 Stock historical atlas entries (`6ce04287`→80, `945bfa20`→81, plus older 90/92 hashes) remain in `35aac.ini` for completeness; live U4.4.1.0 uses **`99eeb87f` / `09e7d1ad`**.
 
 ### Related docs
@@ -72,7 +63,7 @@ Stock historical atlas entries (`6ce04287`→80, `945bfa20`→81, plus older 90/
 
 ## Other rematch notes
 
-**Destination target circle / next-target markers:** `1a696e8bae6eec02` rematches **icon-only** UV boxes (`0.728–0.756`, `0.905–0.918`). The old open `≥0.55` window and stock `≥0.925` path were painting baked label text on the U4.4 HUD compose RT (F11 “correct” look was stock shaders with no rematch; cabin lighting also flashed stock). Colour from Advanced.ini `x67` when `z141` is Custom/XML.
+**Destination target circle / next-target markers:** `1a696e8bae6eec02` rematches **icon-only** UV boxes (`0.728–0.756`, `0.905–0.918`), leaving label text on the U4.4 HUD compose RT untouched. Colour from Advanced.ini `x67` when `z141` is Custom/XML.
 
 **Hull health blocks:** same six aspect shaders as Status Lights (`b4523c39` + aspects). U4.4.1.0 atlas orange sits ~hue `22–26`, so stock `11–16.8` missed it. Custom Shaded (`y134=101`) uses `√lerp(max,G,0.75)×1.4` then Hull colour `x212` and shading `w213`. Speed bar stays on the stock `hue > 25` path (no atlas R-vs-B rematch).
 
@@ -91,13 +82,13 @@ Surface-mining (Rhino / U4.4.1.0) HUD corrections specific to planetary mining.
 1. The whole marker (label glyphs **and** icon) is authored into HUD RT **`10bcbe48`** by the core HUD shaders (`35aac13bbb1540de` + `a1e1d27a77a666fb` + `a0d3dd801a049909`). In that source RT the selected marker is **already correct**: neutral (main-text) label + accent-coloured icon.
 2. Compositor **`1a696e8bae6eec02`** blits `10bcbe48` to the HUD and, via its destination rematch, re-tinted the **label text** with the destination accent (`x67`) — the icon was fine because its source is already accent-coloured.
 
-Earlier suspects were ruled out by proof: `a0d3` draws only part of adjacent HUD text; `35aac` (filters **43** `d6fdc63e` / **13** `9fcfc35e`) draws the compass, altimeter pips and SRV scanner — **not** this label. The "half blue" also worsened when a nearby *unselected* deposit (accent text) overlapped the selected one on screen.
+The label is drawn by `1a696`, not by `a0d3` (adjacent HUD text) or `35aac` (compass, altimeter pips, SRV scanner).
 
 **Fix (theme-aware, appended at `1a696` output):** where the **source** pixel is neutral (label text) yet the **output** gained chroma (`1a696` tinted it), restamp the theme main-text colour **`x77`** (scaled by output brightness to preserve glyph AA).
 
 - **Hue-independent:** keys on *chroma gained*, not on "blue" — works for any user `x67`.
 - **Theme-driven target:** repaints with live `x77`, so the label follows the user's main-text colour.
-- **Self-limiting:** any element whose *source* is already coloured (the diamond icon, the compass heading box, target pips) has high source chroma and is excluded regardless of theme — validated against the frame dump (icon/compass accents keep coloured sources; only neutral label pixels are eligible).
+- **Self-limiting:** any element whose *source* is already coloured (the diamond icon, the compass heading box, target pips) has high source chroma and is excluded regardless of theme; only neutral label pixels are eligible.
 
 **Edge case:** intended for the standard EDHM setup where `x77` (main text) is neutral/white and `x67` (destination) is the accent. If `x77` itself is set to a strongly chromatic colour, the label source is no longer "neutral" and the gate simply won't fire (label keeps its `x77` colour).
 
