@@ -23,7 +23,9 @@
 
 **Description:**
 
-This mod turns off the Holograms of Landing Pads, SRV Entrance and On Foot Entrance.
+This mod turns off the Holograms of Landing Pads, SRV Entrance and On Foot Entrance, turns off some Spotlights and can hide the SRV Tire Tracks.
+
+You can manually Enable/Disable the External Holograms using a Keyboard Shortcut, or use Automatic Mode to Disable them only in specific situations.
 
 Use this mod to take beautiful Screenshots. 🤩
 
@@ -31,23 +33,7 @@ It is advisable to leave the External Holograms activated when flying otherwise 
 
 When 'Show Mod Status' option is activated, the Ship Hologram *(in the middle of the shield)* turns off when turning off the External Holograms *(this option is disabled by default)*.
 
-Now you can also choose to always Hide External Holograms when you are in SRV or On Foot.
-
-An other option hides the Tire Tracks of the SRV in order to take Clean Screenshots.
-
 -------------------------------------------------------------------------
-
-**How to use:**
-
-After installing the mod, start the game and press `F5` to disable holograms.
-Press `F5` again to turn holograms back on.
-
-Press `SHIFT + F5` to hide tire tracks.
-Press again to make them reappear.
-
-Press `SHIFT + F7` to to turn off some spotlights.
-Press again to turn them back on.
-<br><br><br>
 
 **Mod Hotkeys can be changed:**
 
@@ -57,7 +43,7 @@ Go to `Main Menu -> 3PMods -> Clean Screenshot Mod` and change the Keys.<br><br>
 
 Without EDHM_UI:
 
-Edit `CleanScreenshots.ini` and change the line `Key = no_modifiers F5`, `Key = SHIFT F5` or `Key = SHIFT F7`.
+Edit `CleanScreenshots.ini`.
 
 -------------------------------------------------------------------------
 
