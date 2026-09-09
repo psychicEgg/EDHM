@@ -23,7 +23,7 @@ Since EDHM is a third-party mod, it can happen that certain game updates break i
 
 EDHM and its 3PMods are developed and works with Windows 10/11. EDHM **can** work correctly with most Linux distributions.
 
-[ProbabilityEngineer](https://github.com/ProbabilityEngineer) offers a solution for running EDHM and [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases) on Mac/Crossover, see [EDHM-UI-macOS-CrossOver Github](https://github.com/ProbabilityEngineer/EDHM-UI-macOS-CrossOver).
+[ProbabilityEngineer](https://github.com/ProbabilityEngineer) offers a solution for running EDHM and [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases) on Mac/Crossover, see [EDHM-UI-Mac Github](https://github.com/ProbabilityEngineer/EDHM-UI-Mac).
 
 Some modded elements require **a screen resolution of at least 1920x1080** *(also take into account Supersampling which can divide the selected resolution)*, using a lower final resolution may prevent some elements from being colored correctly *(such as the Shield for example)*.
 
