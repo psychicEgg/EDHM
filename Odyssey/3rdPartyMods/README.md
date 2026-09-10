@@ -24,7 +24,7 @@ In Development:
 Development Suspended or Abandoned:
 - [Black Deep-Space Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/BlackDeepSpace) (Not Maintained)
 - [Cockpit Paint Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CockpitPaintMod) (NOT Compatible with recent versions of Elite Dangerous)
-- Enhanced Biome Overlay (Since U4.4.0.x, the game no longer displays a heatmapfor locating bio)
+- Enhanced Biome Overlay (Since U4.4.0.x, the game no longer displays a heatmap for locating bio)
 
 -------------------------------------------------------------------------
 
