@@ -9,7 +9,7 @@ If you have any questions, please join the [EDHM Discord](https://discord.gg/KTY
 
 ### <ins>EDHM for Elite Dangerous 4.x Odyssey & Horizons Live, what is it?</ins>
 
-EDHM is a FREE mod that allows you to customize the game's HUD to improve your experience and your comfort.
+EDHM is a FREE mod that allows you to locally customize the game's HUD to improve your experience and your comfort.
 
 Unlike modifying the Color Matrix in the `GraphicsConfigurationOverride.xml` file, EDHM allows you to set the colors of many elements **independently** of each other without negatively impacting other things like portraits displayed in menus, **so you get a better final rendering**.
 
@@ -81,6 +81,15 @@ For any UI-Related Issues, please seek out **Blue Mystic** (EDHM_UI Admin), and 
 Thank you for all your support, and good hunting CMDRs!
 
 o7
+
+---
+---
+
+EDHM is NOT Open Source.
+
+The source code is intentionally obfuscated to prevent access to the internal mechanisms that could be used to implement modifications that do not comply with the Frontier rules.
+
+This approach is intended to protect both EDHM and 3Dmigoto, and to help ensure their continued use with Elite Dangerous within the established rules.
 
 ---
 ---

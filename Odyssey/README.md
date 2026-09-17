@@ -11,7 +11,7 @@ If you have any questions, please join the [EDHM Discord](https://discord.gg/KTY
 
 ### <ins>EDHM for Elite Dangerous 4.x Odyssey & Horizons Live, what is it?</ins>
 
-EDHM is a FREE mod that allows you to customize the game's HUD to improve your experience and your comfort.
+EDHM is a FREE mod that allows you to locally customize the game's HUD to improve your experience and your comfort.
 
 Unlike modifying the Color Matrix in the `GraphicsConfigurationOverride.xml` file, EDHM allows you to set the colors of many elements **independently** of each other without negatively impacting other things like portraits displayed in menus, **so you get a better final rendering**.
 
@@ -29,9 +29,9 @@ Some modded elements require **a screen resolution of at least 1920x1080** *(als
 
 EDHM is powered by [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), it can run on its own, but we recommend using [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases), which is a User Interface that makes it easier to install and configure EDHM and its 3PMods, use HUD Themes, and more.
 
-From EDHM v21.02 from 30 September 2025, EDHM ships with version 1.4.5 of [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) modified by [`MrVaad`](https://github.com/MrVaad):
+From EDHM v22.02 from 4 September 2026, EDHM ships with a modified version by [`MrVaad`](https://github.com/MrVaad) of [`XXMI`](https://github.com/SpectrumQT/XXMI-Libs-Package), a Fork of [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) 1.3.16:
 - This version enables auto apply settings **for EDHM-UI v3 users** *(when applying a theme, changing settings in 3PMods, and when changing ships via the EDHM-UI v3 Shipyard feature)*.
-- You can find the 3Dmigoto Loader for this version [`HERE`](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/Resources/3Dmigoto_Loader_by_MrVaad/) *(for advanced users only)*.
+- This version improves EDHM's compatibility with most Linux distributions and fixes EDHM bugs caused by the original version of XXMI. *The original version of XXMI does not allow EDHM to function as intended, so do NOT use the original version of XXMI with EDHM.*
 
 <ins>Note:</ins> With [Blue Mystic](https://github.com/BlueMystical) we work in collaboration. Blue Mystic develops the UI *(the application)* and I develop EDHM *(the game mod)*, which allows us to deliver a complete application including the User Interface to manage EDHM **and** the latest version of the EDHM. So, by installing [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases), EDHM will be automatically installed as well.
 
@@ -67,7 +67,7 @@ If you use [EDHM_UI](https://github.com/BlueMystical/EDHM_UI/releases), you will
 ### <ins>Install EDHM without EDHM_UI</ins>
 
 To manually install EDHM, you must:
-- **Close the game**.
+- **Close the game** (required).
 - Download the `EDHM_Odyssey_vxx.xx.zip` file located above.
 - Extract the files to the game's installation directory where `EliteDangerous64.exe` is located *(not the Frontier Launcher directory)*.
 
@@ -94,12 +94,12 @@ To fully function, EDHM requires you to use an in-game resolution of **at least 
 ### <ins>Uninstall EDHM without EDHM_UI</ins>
 
 To manually uninstall EDHM, you must:
-- **Close the game**.
+- **Close the game** (required).
 - Open the game's installation directory where `EliteDangerous64.exe` is located *(not the Frontier Launcher directory)*.
 - In this folder you will find `EDHM-Uninstall.bat`, launch it.
 
 Alternative method:
-- **Close the game** and open the game's installation directory.
+- **Close the game** (required) and open the game's installation directory.
 - Deleted all files and folders contained in the EDHM `.zip` available here. That is to say:
   - Files: `d3d11.dll`, `d3dcompiler_47.dll`, `d3dx.ini`, `EDHM-Uninstall.bat` *(and `nvapi64.dll` if present)*
   - Folders and their contents: `EDHM-ini`, `ShaderFixes` *(these folders contain only EDHM files, no files from the original game)*.
@@ -147,20 +147,18 @@ After a game update, the interface has become <ins>**partially**</ins> orange an
 ---
 
 The colors displayed in-game are completely inconsistent with your settings and/or some **customizable** elements do not change color:
-- Check that the Color Matrix in the `GraphicsConfigurationOverride.xml` file matches the original Color Matrix. *(See above for more information)*
+- Check that the Color Matrix in the `GraphicsConfigurationOverride.xml` file matches the original Color Matrix. *([See above](https://github.com/psychicEgg/EDHM/tree/main/Odyssey#install-edhm-without-edhm_ui) for more information)*
 
 ---
 
-Game Crash on Startup or refuse to open after installing EDHM:
+Parts of the Interface appear Black or Invisible after installing EDHM, and EDHM isn't working // Game Crash on Startup or refuse to open after installing EDHM:
 
-1 - Recently, some users have reported Game Crashes on startup when the `NVIDIA App` is installed.
-In this situation, the following solutions may work:
+1 - If you have an Nvidia Graphics Card and the `Nvidia App` installed, the following solutions may work:
  1. Disable `NVIDIA Smooth Motion` *(most common cause of the problem)*
  2. Disable NVIDIA Automatic Settings at the bottom of the Auto GPU Tuning Page
- 3. Disable `NVIDIA Overlay`
- 4. See `NVIDIA Latency` Settings
+ 3. See `NVIDIA Latency` Settings
 
-*This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), two things beyond our control.*
+*This is due to a compatibility issue between the `NVIDIA App` and [`3Dmigoto`](https://github.com/bo3b/3Dmigoto), the two get in each other's way.*
 
 2 - [`3Dmigoto`](https://github.com/bo3b/3Dmigoto) uses injection, so if you use other programs or mods that also use injection in Elite Dangerous, it may create a conflict and cause Crashes or Instability.
 Even simple overlay programs can use injection, so it is recommended to disable overlays in Elite Dangerous.
@@ -222,6 +220,15 @@ For any UI-Related Issues, please seek out **Blue Mystic** (EDHM_UI Admin), and 
 Thank you for all your support, and good hunting CMDRs!
 
 o7
+
+---
+---
+
+EDHM is NOT Open Source.
+
+The source code is intentionally obfuscated to prevent access to the internal mechanisms that could be used to implement modifications that do not comply with the Frontier rules.
+
+This approach is intended to protect both EDHM and 3Dmigoto, and to help ensure their continued use with Elite Dangerous within the established rules.
 
 ---
 ---
