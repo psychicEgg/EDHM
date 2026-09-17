@@ -1,4 +1,4 @@
-# Hyperspace Mod v1.104.0 for Elite Dangerous 4.4.1.1
+# Hyperspace Mod v1.104.1 for Elite Dangerous 4.4.1.1
 
 ### by Fred89210<br><br>
 
@@ -6,6 +6,7 @@
 
 **Release Notes:**
 - Ready for Elite Dangerous 4.4.1.1 (Rhino Update)
+- Minor change to improve compatibility with other 3PMods
 
 **Previous versions:**
 - Now the Cockpit Lighting is separate from the HUD, so it's possible to turn one off and keep the other on

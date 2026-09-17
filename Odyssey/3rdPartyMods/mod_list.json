@@ -45,14 +45,14 @@
    },
    {
       "mod_name":"Hyperspace Mod",
-      "description":"This Mod Customize your Hyperspace Jumps.<br>For Elite Dangerous 4.4.1.1. v1.104.0",
+      "description":"This Mod Customize your Hyperspace Jumps.<br>For Elite Dangerous 4.4.1.1. v1.104.1",
       "author":"Fred89210",
-      "mod_version":"1.104.0",
+      "mod_version":"1.104.1",
       "file": "HyperspaceMod.ini",
       "read_me": "<h4 align='center'><a href='https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/HyperspaceMod' target='_blank'><b>Hyperspace Mod</b></a></h4><p align='center'>By <a href='https://inara.cz/elite/cmdr/313317/' target='_blank'>Fred89210</a></p><br><p>This Mod Customize your Hyperspace Jumps.</p><ul><li>Automatically Turn Off the HUD and Cockpit Lighting in Hyperspace</li><li>Disable the Light emitted by the Destination Star</li><li>Make Hyperspace Jumps Very Dark and Scary</li></ul><p align='left'>NOTE: This Mod does NOT affect ARX items, some Cockpit Night Lights, and does NOT modify Fleet Carrier Jumps.</p><p align='center'><a href='https://youtu.be/_6dEIdR6wWA' target='_blank'>Click here to see Preview Video</a></p><p align='center'><img src='https://i.ibb.co/5gGq75M0/Hyperspace-Mod.jpg' alt='Preview' style='max-width:100%; height:auto;'/></p>",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_ED4.4.0.3_v1.104.0.zip",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/HyperspaceMod/Hyperspace_Mod_ED4.4.1.1_v1.104.1.zip",
       "thumbnail_url":"https://i.ibb.co/VcKtgynC/Hyperspace-Mod.png",
-      "changelog":"- Ready For Elite Dangerous 4.4.1.1<br>- Now the Cockpit Lighting is separate from the HUD, so it's possible to turn one off and keep the other on<br>- Added several Keys and Combinations for Keybinds"
+      "changelog":"- Ready For Elite Dangerous 4.4.1.1<br>- Now the Cockpit Lighting is separate from the HUD, so it's possible to turn one off and keep the other on<br>- Added several Keys and Combinations for Keybinds<br>- Minor change to improve compatibility with other 3PMods"
    },
    {
       "mod_name":"No External HUD Mod",
