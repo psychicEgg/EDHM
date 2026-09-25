@@ -1,6 +1,33 @@
-## EDHM v22.00 to v22.02 for Elite Dangerous v4.4.1.1 Patch Notes
+## EDHM v22.00 to v22.03 for Elite Dangerous v4.4.1.1 Patch Notes
 
 ### -- Fixed for Elite Dangerous v4.4.1.1 (Rhino Update) --<br><br>
+
+**EDHM v22.03:**
+Second Fix for FDev U4.4.1.1 (Rhino Update)
+- Fix Mouse Dot that may not fully apply the `Custom Color` to the edges
+- Fix `Status Lights` that may not fully apply the `Custom Color` to the edges
+- Fix `Hidden Possible Destination Circles` in SRV
+- Fix `Inactive Hardpoints` (y114 & xyzw189) Options that were not coloring all the intended elements
+- Icons for Inactive/Out-Of-Range Weapons in the CHUD now follow the `Inactive Hardpoints Red Text Color` (w186) option, rather than always displaying the `Ammunition Color` (xyzw45)
+- Add `SRV Red Text Brightness` (z186) option
+  - Similar to the existing `Red Text Brightness` (w111) option, one applies only to SRVs and the other to everything else
+  - Useful for making the Rhino Rigs Texts more visible, such as 'Too Fast'
+- Fix `Analysis Reticles` from being contaminated by `Escape Vector` when the `Analysis Reticles` are in `Elite Default` mode
+- Complete Overhaul of the Fix introduced in EDHM v22.01, aimed at reducing Lighting Contamination when in SRV
+  - Before EDHM v22.01, Cabin Lighting Settings contaminated Exterior Lighting while in SRV when using certain EDHM Settings
+  - Since EDHM v22.01, Color gaps in the SRV Lighting could appear when using certain EDHM Settings
+  - This New Fix adds `Lighting in SRV Protection` (x186) which limits certain Cabin Lighting Options while in SRV to preserve Exterior Lighting
+    - Disabling this Protection is possible but NOT Recommended, it will remove the limitation but will reinstate the Exterior Lighting Contamination while in SRV (like before EDHM v22.01)
+- Fix `Cabin Lighting Primary Color` `Bi-Color` Mode (y19=101), the Color on the Left took up more space than the Color on the Right, making the Lighting appear misaligned (very old bug)
+- Fix Orange Wing Icons of Targeted Ship by Wingmate which had their Top Edges affected by the `Missile Lock Custom Color` (xyzw62) and these Orange Icons will now use the existing Wing Ships options (y120 & xyz128)
+- Fix Portraits in Multicrew Post Mission Menu
+- Fix `SRV Hologram Main` Alpha Channel (w250)
+- Fix `SRV Terrain Color` Alpha Channel (w252)
+- Fix a Transparency Issue in the Bottom Panel
+- Fix Lines that could abnormally appear on the Ship's Panels in Ultra Quality
+- Fix Some Orange Icons
+
+-------------------------------------------------------------------------
 
 **EDHM v22.02:**
 - Fix for FDev U4.4.1.1 (Rhino Update):
