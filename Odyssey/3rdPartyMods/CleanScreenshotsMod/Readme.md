@@ -1,4 +1,4 @@
-# Clean Screenshots Mod v1.103.0 for Elite Dangerous 4.4.1.1
+# Clean Screenshots Mod v1.103.1 for Elite Dangerous 4.4.1.1
 
 ### by Fred89210<br><br>
 
@@ -7,6 +7,7 @@
 **Release Notes:**
 - Added an option to manage holograms in Rhino separately
 - Fix No Hologram with Freecam Option when in a Station
+- Rhino Detection now takes place in EDHM rather than in 3PMod
 - Replacement of the Show Status mechanism with a more conventional solution *(for the user the operation remains the same)*
 
 **Previous versions:**
