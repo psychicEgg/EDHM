@@ -7,6 +7,7 @@ NOTE: Since game update U4.4.0.x (Operations), the DSS no longer displays a heat
 Current 3PMs Available:
 
 - [Clean Screenshot Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/CleanScreenshotsMod) (Ready for Elite Dangerous v4.4.1.1)
+- [Elite Dangereuse Tools](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/EliteDangereuseTools) (Ready for Elite Dangerous v4.4.1.1)
 - [FSS Overlay](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/FSS-Overlay) (Ready for Elite Dangerous v4.4.1.1)
 - [Fuel Scooping Stars Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/Fuel-Scooping-Stars) (Ready for Elite Dangerous v4.4.1.1)
 - [Hyperspace Mod](https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/HyperspaceMod) (Fixed for Elite Dangerous v4.4.1.1)

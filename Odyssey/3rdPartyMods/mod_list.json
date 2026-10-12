@@ -11,15 +11,15 @@
       "changelog":"- Added an option to manage holograms in Rhino separately<br>- Rhino Detection now takes place in EDHM rather than in 3PMod<br>- Ready For Elite Dangerous 4.4.1.1"
    },
    {
-      "mod_name":"ED-GT [Graphic Tweaks]",
-      "description":"Tweaks for the GraphicsConfigurationOverride.xml",
-      "author":"Blue Mystic",
-      "mod_version":"1.2.0",
-      "file":"%LOCALAPPDATA%\\Frontier Developments\\Elite Dangerous\\Options\\Graphics\\GraphicsConfigurationOverride.xml",
-      "read_me": "<p align=center><size=+4><a href='https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/ED-GT' target='_blank'><b>ED-GT [Graphic Tweaks]</b></a></size></p><p align=center>By Blue Mystic</p><p align=left>This mod is an interface to easily and safely edit the <u>GraphicsConfigurationOverride.xml</u> file.</p><p align=left>Currently this mod allows you to:</p><p align=left><ul><li>Increase or Reduce the <b>Amount of Stars</b> shown in the Galaxy Map.</li><li>Increase or Reduce the Quality of the <b>Textures for Planets</b>.</li><li>Increase or Reduce the <b>Quality of the <b>Textures for the Galaxy Background</b>.</li><li>Ensure the Colour Matrix to be the Default one, this is required by EDHM.</p></li></ul><p><b><u>How to Apply Changes:</u></b></p><p align=left>Contrary to regular 3PMods, the XML configurations belongs to the game itself.</p><p align=left>Therefore, you need to click the <u>Apply XML Changes</u> orange button on this window.</p><p align=left>And then you need to re-start the game, so your changes can take effect.</p><p align='center'><img src='https://i.ibb.co/PzfM9B29/ED-GT.jpg' alt='Preview' style='max-width:100%; height:auto;'/></p><br><a href=https://bluemystical.github.io/edhm-api/>Check Our web site</a>",
-      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/ED-GT/ED-GT-Graphic_Tweaks_v1.2.0.zip",
-      "thumbnail_url":"https://i.ibb.co/93Z8kctW/ED-GT.png",
-      "changelog":"- Fixing a bug on the GT Graphics mod<br>- Adding new option to control the FOV (beyond game limits)"
+      "mod_name":"Elite Dangereuse Tools",
+      "description":"A Collection of Tools dedicated to the site <a href='https://elitedangereuse.fr/en/index.php?spnsr=LPTR-9BZT' target='_blank'>https://elitedangereuse.fr/</a>.<br>For Elite Dangerous 4.4.1.1. v1.0.0",
+      "author":"Fred89210",
+      "mod_version":"1.0.0",
+      "file":"EliteDangereuseTools_@Main.ini",
+      "read_me": "<h4 align='center'><a href='https://github.com/psychicEgg/EDHM/tree/main/Odyssey/3rdPartyMods/EliteDangereuseTools' target='_blank'><b>Elite Dangereuse Tools</b></a></h4><p align='center'>By <a href='https://elitedangereuse.fr/en/profil.php?cmdr=Fred89210&spnsr=LPTR-9BZT' target='_blank'>Fred89210</a></p><br><p align='left'>A Collection of Tools dedicated to the site <a href='https://elitedangereuse.fr/en/index.php?spnsr=LPTR-9BZT' target='_blank'>https://elitedangereuse.fr/</a></p>",
+      "download_url":"https://github.com/psychicEgg/EDHM/raw/main/Odyssey/3rdPartyMods/EliteDangereuseTools/EliteDangereuseTools_ED4.4.1.1_v1.0.0.zip",
+      "thumbnail_url":"https://i.ibb.co/WvpN74t0/Elite-Dangereuse-Tools-Main.png",
+      "changelog":"- First Release<br>- Ready For Elite Dangerous 4.4.1.1"
    },
    {
       "mod_name":"FSS-Overlay",
