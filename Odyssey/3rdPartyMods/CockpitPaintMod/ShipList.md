@@ -8,6 +8,7 @@ List of Ships available in the EDHM Cockpit Paint Mod (CPM)
 | Alliance Chieftain   | ✓      | 3               |
 | Alliance Crusader    | ✗      | 4               |
 | Anaconda             | ✓      | 5               |
+| Anaconda Mk II       | ✗      | 59              |
 | Asp Explorer         | ✓      | 6               |
 | Asp Scout            | ✗      | 7               |
 | Beluga Liner         | ✓      | 8               |

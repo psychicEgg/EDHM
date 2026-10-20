@@ -1,8 +1,8 @@
-# No Message Box Mod v1.102.0 for Elite Dangerous 4.4.1.1
+# No Message Box Mod v1.102.0 for Elite Dangerous 4.4.2.0
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.4.1.1 --**<br><br>
+**-- Ready for Elite Dangerous 4.4.2.0 --**<br><br>
 
 **Release Notes:**
 - Added several Keys and Combinations for Keybinds

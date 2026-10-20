@@ -1,6 +1,21 @@
-## EDHM v22.00 to v22.03 for Elite Dangerous v4.4.1.1 Patch Notes
+## EDHM v22.00 to v22.04 for Elite Dangerous v4.4.2.0 Patch Notes
 
-### -- Fixed for Elite Dangerous v4.4.1.1 (Rhino Update) --<br><br>
+### -- Fixed for Elite Dangerous v4.4.2.0 (Anaconda MKII Update) --<br><br>
+
+**EDHM v22.04:**
+Fix for FDev U4.4.2.0 (Anaconda MKII Update)
+- Fix for Anaconda MKII Update
+- Fix Some Orange
+- Fix OnFoot HUD
+- Revert Status Lights Coordinates now that the FDev Bug has been fixed
+- Fix HoloMe Color Selector when OnFoot
+- Fix Bio Scanner Zones on the Nomad's Radar
+- Improve the Transition between Radar and Terrain when in Ship (including Nomad)
+- Rework Nomad Detection to detect only its use rather than its presence on the screen
+- Fix Some FSS Cyan Elements
+- Fix Federation Cyan Icon in Compass when OnFoot
+
+-------------------------------------------------------------------------
 
 **EDHM v22.03:**
 Second Fix for FDev U4.4.1.1 (Rhino Update)

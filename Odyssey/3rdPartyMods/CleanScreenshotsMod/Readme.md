@@ -1,8 +1,8 @@
-# Clean Screenshots Mod v1.103.1 for Elite Dangerous 4.4.1.1
+# Clean Screenshots Mod v1.103.1 for Elite Dangerous 4.4.2.0
 
 ### by Fred89210<br><br>
 
-**-- Ready for Elite Dangerous 4.4.1.1 --**<br><br>
+**-- Ready for Elite Dangerous 4.4.2.0 --**<br><br>
 
 **Release Notes:**
 - Added an option to manage holograms in Rhino separately
